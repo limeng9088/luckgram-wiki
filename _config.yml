@@ -1,0 +1,21 @@
+# GitHub Pages (Jekyll) settings for wiki.luckgram.cc
+title: Luckgram Help Center
+description: Help for Luckgram, an unofficial Telegram client — what works today and what is in development.
+
+plugins:
+  - jekyll-readme-index      # serve README.md as each directory's index.html
+  - jekyll-relative-links    # rewrite links to .md files into .html
+  - jekyll-optional-front-matter
+
+readme_index:
+  enabled: true
+  remove_originals: false
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - scripts/
+  - .markdownlint-cli2.jsonc
+  - .DS_Store
