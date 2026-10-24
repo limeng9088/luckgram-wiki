@@ -13,7 +13,7 @@ Telegram. If you bought Stars and they are not showing:
    for the Stars ([Apple](https://support.apple.com/en-us/118212),
    [Google Play](https://support.google.com/googleplay/answer/2850369)).
 3. **Stars from a website or a bot:** ask the site or bot where you got the
-   Stars. On iPhone and iPad, Nicegram's Stars screen offers **Get Stars
+   Stars. On iPhone and iPad, Luckgram's Stars screen offers **Get Stars
    (Multichain & non-KYC)** (the NiceStars website), **Get on Fragment**
    (Fragment) and **Get on Telegram** (Telegram's @PremiumBot).
 4. **Other Stars questions:** [Telegram FAQ](https://telegram.org/faq#telegram-support).

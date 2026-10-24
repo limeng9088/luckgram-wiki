@@ -2,7 +2,7 @@
 
 ## What is documented
 
-This repository contains public, user-facing Nicegram help. It explains current
+This repository contains public, user-facing Luckgram help. It explains current
 features, availability, safety considerations, and where to get the app or help.
 
 ## Where it lives
@@ -12,7 +12,7 @@ features, availability, safety considerations, and where to get the app or help.
 - `getting-started/` — installation, accounts, and platform availability.
 - `features/` — feature explanations and limitations.
 - `help/` — troubleshooting, privacy guidance, support, and source code.
-- `reference/`: generated from the private Nicegram data room: quick answers,
+- `reference/`: generated from the private Luckgram data room: quick answers,
   release notes, and official links. Do not edit these pages or their block in
   `SUMMARY.md` (between the `generated-pages` markers) here; they carry
   `generated_from` in their front matter and are rewritten by the data room's

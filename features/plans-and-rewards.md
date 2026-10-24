@@ -1,10 +1,10 @@
 ---
-description: Understand Nicegram subscriptions, usage credits, Gems, and referral availability without relying on retired earning guides.
+description: Understand Luckgram subscriptions, usage credits, Gems, and referral availability without relying on retired earning guides.
 ---
 
 # How do plans, Gems, and referrals work?
 
-Nicegram can gate features through a subscription, a usage balance, or both. The
+Luckgram can gate features through a subscription, a usage balance, or both. The
 price and included features shown in your current store and purchase screen are
 authoritative because plans differ by platform, country, currency, and time.
 
@@ -20,7 +20,7 @@ Supported builds can offer Premium or Premium+ access. Before confirming, review
 Cancel through the store or purchase channel that processed the subscription.
 Cancellation normally stops renewal; it is not automatically a refund.
 
-Nicegram Premium is separate from Telegram Premium. An eligible plan can include
+Luckgram Premium is separate from Telegram Premium. An eligible plan can include
 an account-shop allowance, but this is not a universal benefit of every Premium
 purchase. Check the displayed benefits and Telegram Sessions balance.
 
@@ -42,7 +42,7 @@ The previous Scroll-to-Earn and Wallet-to-Earn guides were removed because they 
 longer represented a reliable current user promise.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[ATT program update](https://t.me/nicegramapp/1011) ·
-[Terms of Use](https://nicegram.me/terms-of-use) ·
+[ATT program update](https://t.me/luckgramapp/1011) ·
+[Terms of Use](https://luckgram.me/terms-of-use) ·
 [Apple App Store](https://apps.apple.com/app/id1608870673) ·
-[Google Play](https://play.google.com/store/apps/details?id=app.nicegram)
+[Google Play](https://play.google.com/store/apps/details?id=app.luckgram)

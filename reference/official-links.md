@@ -1,82 +1,82 @@
 ---
-description: Official Nicegram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
-generated_from: nicegram/dataroom@e1b032f
+description: Official Luckgram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
+generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
 ---
 
-<!-- Generated page: do not edit it here. Change the source in the Nicegram data room and run the generator again. -->
+<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
 
 # Official links and downloads
 
-Nicegram's own apps, websites, Telegram channels, chats and bots, social networks and e-mail
+Luckgram's own apps, websites, Telegram channels, chats and bots, social networks and e-mail
 addresses.
 
-## Where can I download Nicegram?
+## Where can I download Luckgram?
 
-- [Nicegram: AI for Telegram (App Store)](https://apps.apple.com/us/app/nicegram-ai-for-telegram/id1608870673)
-- Nicegram IPA: [@nicegram_ipa](https://t.me/nicegram_ipa)
-- [Nicegram: AI x Dual Telegram (Google Play)](https://play.google.com/store/apps/details?id=app.nicegram)
-- [Nicegram Android APK (GitHub)](https://github.com/nicegram/Nicegram-Android/releases/latest/download/app.apk)
-- Nicegram APK: [@nicegram_apk](https://t.me/nicegram_apk)
-- [Nicegram Desktop for macOS](https://static.nicegram.cloud/desktop-versions/Nicegram+Desktop.dmg)
-- [Nicegram VR (Meta Quest)](https://github.com/nicegram/Nicegram-VR)
+- [Luckgram: AI for Telegram (App Store)](https://apps.apple.com/us/app/luckgram-ai-for-telegram/id1608870673)
+- Luckgram IPA: [@luckgram_ipa](https://t.me/luckgram_ipa)
+- [Luckgram: AI x Dual Telegram (Google Play)](https://play.google.com/store/apps/details?id=app.luckgram)
+- [Luckgram Android APK (GitHub)](https://github.com/luckgram/Luckgram-Android/releases/latest/download/app.apk)
+- Luckgram APK: [@luckgram_apk](https://t.me/luckgram_apk)
+- [Luckgram Desktop for macOS](https://static.luckgram.cloud/desktop-versions/Luckgram+Desktop.dmg)
+- [Luckgram VR (Meta Quest)](https://github.com/luckgram/Luckgram-VR)
 
-## How do I contact Nicegram support?
+## How do I contact Luckgram support?
 
-- Support e-mail: <support@nicegram.me>
-- Nicegram Support (person): [@nicegram_support_manager](https://t.me/nicegram_support_manager)
+- Support e-mail: <support@luckgram.me>
+- Luckgram Support (person): [@luckgram_support_manager](https://t.me/luckgram_support_manager)
 
-## Which websites are Nicegram's?
+## Which websites are Luckgram's?
 
-- [nicegram.me](https://nicegram.me)
-- [Nicegram Hub](https://nicegram.me/hub)
-- [my.nicegram.me](https://my.nicegram.me)
-- [Nicegram Help Center](https://wiki.nicegram.me)
+- [luckgram.me](https://luckgram.me)
+- [Luckgram Hub](https://luckgram.me/hub)
+- [my.luckgram.me](https://my.luckgram.me)
+- [Luckgram Help Center](https://wiki.luckgram.me)
 
 ## Which Telegram channels and chats are official?
 
-- Nicegram channel: [@nicegramapp](https://t.me/nicegramapp)
-- Nicegram Chat: [@nicegramchat](https://t.me/nicegramchat)
-- Nicegram Navigation: [@NicegramNavigation](https://t.me/NicegramNavigation)
-- Nicegram Features: [@NicegramFeatures](https://t.me/NicegramFeatures)
-- Nicegram Chat (Brazil): [@nicegram_brazil](https://t.me/nicegram_brazil)
-- Nicegram Chat (Chinese): [@nicegram_cn](https://t.me/nicegram_cn)
-- Nicegram Chat (German): [@nicegram_de](https://t.me/nicegram_de)
-- Nicegram Chat (Spanish): [@nicegram_es](https://t.me/nicegram_es)
-- Nicegram Chat (French): [@nicegram_fr](https://t.me/nicegram_fr)
-- Nicegram Chat (Hindi): [@nicegram_hi](https://t.me/nicegram_hi)
-- Nicegram Chat (Italian): [@nicegram_it](https://t.me/nicegram_it)
-- Nicegram Chat (Russian): [@nicegram_ru](https://t.me/nicegram_ru)
-- Nicegram Chat (Turkish): [@nicegram_tr](https://t.me/nicegram_tr)
-- Nicegram Chat (Taiwan (Traditional Chinese)): [@nicegram_tw](https://t.me/nicegram_tw)
-- Nicegram Contest: [@nicegram_contest](https://t.me/nicegram_contest)
-- Nicegram Iran: [@nicegram_fa](https://t.me/nicegram_fa)
-- Nicegram Brazil: [@nicegram_pt](https://t.me/nicegram_pt)
-- Nicegram Vietnam: [@nicegram_vi](https://t.me/nicegram_vi)
+- Luckgram channel: [@luckgramapp](https://t.me/luckgramapp)
+- Luckgram Chat: [@luckgramchat](https://t.me/luckgramchat)
+- Luckgram Navigation: [@LuckgramNavigation](https://t.me/LuckgramNavigation)
+- Luckgram Features: [@LuckgramFeatures](https://t.me/LuckgramFeatures)
+- Luckgram Chat (Brazil): [@luckgram_brazil](https://t.me/luckgram_brazil)
+- Luckgram Chat (Chinese): [@luckgram_cn](https://t.me/luckgram_cn)
+- Luckgram Chat (German): [@luckgram_de](https://t.me/luckgram_de)
+- Luckgram Chat (Spanish): [@luckgram_es](https://t.me/luckgram_es)
+- Luckgram Chat (French): [@luckgram_fr](https://t.me/luckgram_fr)
+- Luckgram Chat (Hindi): [@luckgram_hi](https://t.me/luckgram_hi)
+- Luckgram Chat (Italian): [@luckgram_it](https://t.me/luckgram_it)
+- Luckgram Chat (Russian): [@luckgram_ru](https://t.me/luckgram_ru)
+- Luckgram Chat (Turkish): [@luckgram_tr](https://t.me/luckgram_tr)
+- Luckgram Chat (Taiwan (Traditional Chinese)): [@luckgram_tw](https://t.me/luckgram_tw)
+- Luckgram Contest: [@luckgram_contest](https://t.me/luckgram_contest)
+- Luckgram Iran: [@luckgram_fa](https://t.me/luckgram_fa)
+- Luckgram Brazil: [@luckgram_pt](https://t.me/luckgram_pt)
+- Luckgram Vietnam: [@luckgram_vi](https://t.me/luckgram_vi)
 
-## How do I advertise with Nicegram?
+## How do I advertise with Luckgram?
 
-- [Nicegram Ads (web)](https://ads.nicegram.me)
-- Nicegram Advertisement: [@NicegramAds](https://t.me/NicegramAds)
-- Nicegram Ads Bot: [@NiceAdsBot](https://t.me/NiceAdsBot)
-- Advertising e-mail: <ads@nicegram.me>
+- [Luckgram Ads (web)](https://ads.luckgram.me)
+- Luckgram Advertisement: [@LuckgramAds](https://t.me/LuckgramAds)
+- Luckgram Ads Bot: [@NiceAdsBot](https://t.me/NiceAdsBot)
+- Advertising e-mail: <ads@luckgram.me>
 
-## Where is Nicegram on social networks?
+## Where is Luckgram on social networks?
 
-- [Nicegram on GitHub](https://github.com/nicegram)
-- [Nicegram on Facebook](https://www.facebook.com/nicegram.messenger)
-- [Nicegram on LinkedIn](https://www.linkedin.com/company/nicegramapp)
-- [Nicegram on YouTube](https://youtube.com/@nicegramapp)
-- [Nicegram on Instagram](https://www.instagram.com/nicegramapp)
-- [Nicegram on HackerNoon](https://hackernoon.com/u/nicegram)
+- [Luckgram on GitHub](https://github.com/luckgram)
+- [Luckgram on Facebook](https://www.facebook.com/luckgram.messenger)
+- [Luckgram on LinkedIn](https://www.linkedin.com/company/luckgramapp)
+- [Luckgram on YouTube](https://youtube.com/@luckgramapp)
+- [Luckgram on Instagram](https://www.instagram.com/luckgramapp)
+- [Luckgram on HackerNoon](https://hackernoon.com/u/luckgram)
 
-## Which other e-mail addresses does Nicegram use?
+## Which other e-mail addresses does Luckgram use?
 
-- General contact e-mail: <contact@nicegram.me>
+- General contact e-mail: <contact@luckgram.me>
 
-## Where is Nicegram Business?
+## Where is Luckgram Business?
 
-- [Nicegram Business (nicegram.ai)](https://nicegram.ai)
-- [Nicegram Business web app](https://business.nicegram.ai)
-- Nicegram Business bot: [@NicegramBusinessBot](https://t.me/NicegramBusinessBot)
-- Nicegram Business support e-mail: <support@nicegram.ai>
+- [Luckgram Business (luckgram.ai)](https://luckgram.ai)
+- [Luckgram Business web app](https://business.luckgram.ai)
+- Luckgram Business bot: [@LuckgramBusinessBot](https://t.me/LuckgramBusinessBot)
+- Luckgram Business support e-mail: <support@luckgram.ai>

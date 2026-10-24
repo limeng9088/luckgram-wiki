@@ -2,9 +2,9 @@
 description: Send existing videos as round messages, post Telegram stories, manage media, and record supported calls responsibly.
 ---
 
-# What media and call tools does Nicegram add?
+# What media and call tools does Luckgram add?
 
-Nicegram adds shortcuts for video messages, capture preferences, downloads, local
+Luckgram adds shortcuts for video messages, capture preferences, downloads, local
 cache, and (on supported iOS builds) call recording.
 
 ## Send an existing video as a video message
@@ -25,30 +25,30 @@ message.
 
 ## Downloads and cache
 
-Nicegram can expose extra controls for saving video to the gallery, automatic media
+Luckgram can expose extra controls for saving video to the gallery, automatic media
 handling, and local cache. Clearing cache removes local copies, not Telegram cloud
 messages. Files downloaded outside the app remain on the device until removed there.
 
-## Can I call WhatsApp or FaceTime from Nicegram?
+## Can I call WhatsApp or FaceTime from Luckgram?
 
-No. Nicegram is a Telegram app: its voice and video calls are Telegram calls, and
+No. Luckgram is a Telegram app: its voice and video calls are Telegram calls, and
 they reach Telegram users only. It cannot call someone on WhatsApp, FaceTime, or
 another messenger.
 
 - **To call a Telegram user,** open their profile and choose the voice or video
   call option.
 - **A contact who isn’t on Telegram** can only be invited to join; there is no
-  call to them from Nicegram.
+  call to them from Luckgram.
 - **“Doesn’t accept calls”** means that person’s privacy settings don’t allow
   calls from you.
 
 ## How do I post a story?
 
-Stories are a Telegram feature: Nicegram shows and posts them as Telegram does
+Stories are a Telegram feature: Luckgram shows and posts them as Telegram does
 and adds nothing of its own to posting. A story is a photo or video your contacts see at
 the top of their chat list; you choose who can see it.
 
-On iPhone, iPad or Android (Nicegram Desktop shows stories but can’t post them):
+On iPhone, iPad or Android (Luckgram Desktop shows stories but can’t post them):
 
 1. Tap **My Story** at the top of the chat list.
 2. Take a photo or video, or pick one from your gallery. You can add text,
@@ -61,14 +61,14 @@ On iPhone, iPad or Android (Nicegram Desktop shows stories but can’t post them
 
 A story lasts 24 hours. **Telegram Premium**, Telegram’s own subscription, adds
 6, 12 and 48 hours, more stories at a time, links and formatting in captions,
-and Stealth Mode. Nicegram Premium is a separate plan and doesn’t include these
+and Stealth Mode. Luckgram Premium is a separate plan and doesn’t include these
 (see [Plans, Gems, and referrals](plans-and-rewards.md)).
 
 Who may post, and how many stories a week or month, is set by Telegram for every
 app. When posting is limited to Telegram Premium, the app shows that message.
-Nicegram adds no limit of its own: if your Telegram account can post stories in
-the official Telegram app, it can post them in Nicegram for iPhone, iPad and
-Android, and Nicegram Premium does not unlock posting.
+Luckgram adds no limit of its own: if your Telegram account can post stories in
+the official Telegram app, it can post them in Luckgram for iPhone, iPad and
+Android, and Luckgram Premium does not unlock posting.
 A channel or group can post stories once it has enough boosts, through an
 admin allowed to post them. On iPhone and iPad, you can’t post during a call or
 a video chat.
@@ -80,14 +80,14 @@ the build, recording can be manual or automatic and the result can be delivered 
 Saved Messages or another configured chat surface.
 
 Before recording, tell every participant and obtain the consent required in every
-relevant jurisdiction. Nicegram does not decide whether recording is lawful for
+relevant jurisdiction. Luckgram does not decide whether recording is lawful for
 your call. Treat the saved audio as sensitive content and check where it was sent.
 
 **Availability:** video-message conversion on iOS and Android; call recording on
 iOS in current evidence. Other platforms are not confirmed.
 
-**Sources:** [Official status labels](https://nicegram.me/download) ·
-[Terms of Use](https://nicegram.me/terms-of-use) ·
-[iOS source](https://github.com/nicegram/Nicegram-iOS) ·
+**Sources:** [Official status labels](https://luckgram.me/download) ·
+[Terms of Use](https://luckgram.me/terms-of-use) ·
+[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
 [Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
 [Evidence ledger: stories](../docs/evidence/help-telegram-basics-2026-10-13.md)

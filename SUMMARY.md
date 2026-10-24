@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Nicegram Help Center](README.md)
+* [Luckgram Help Center](README.md)
 * [Getting started](getting-started/README.md)
-  * [Install Nicegram](getting-started/install.md)
+  * [Install Luckgram](getting-started/install.md)
   * [Add and manage accounts](getting-started/accounts.md)
   * [Platforms and availability](getting-started/availability.md)
 * [Feature guide](features/README.md)
@@ -11,7 +11,7 @@
   * [Translation and speech-to-text](features/translation-and-voice.md)
   * [Media and call tools](features/media-and-calls.md)
   * [Profiles, folders, and interface](features/profiles-and-folders.md)
-  * [Nicegram AI](features/ai.md)
+  * [Luckgram AI](features/ai.md)
   * [Former wallet](features/wallet.md)
   * [Plans, Gems, and referrals](features/plans-and-rewards.md)
   * [Beta and limited-rollout features](features/beta.md)
@@ -22,11 +22,11 @@
   * [Someone pretending to be you](help/impersonation.md)
   * [Get Telegram Stars](help/get-telegram-stars.md)
   * [Telegram Stars missing](help/telegram-stars.md)
-  * [Nicegram Premium renewal and expiration](help/premium-renewal.md)
+  * [Luckgram Premium renewal and expiration](help/premium-renewal.md)
   * [Sensitive and restricted content](help/sensitive-content.md)
   * [Privacy and data](help/privacy-and-data.md)
   * [Support and source code](help/support-and-source.md)
-<!-- generated-pages:start (generated from the Nicegram data room; do not edit between the markers) -->
+<!-- generated-pages:start (generated from the Luckgram data room; do not edit between the markers) -->
 * [Quick reference](reference/README.md)
   * [Quick answers](reference/quick-answers.md)
   * [What's new](reference/whats-new.md)

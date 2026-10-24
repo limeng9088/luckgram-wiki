@@ -1,4 +1,4 @@
-# Nicegram public-help UX foundation
+# Luckgram public-help UX foundation
 
 ## Users
 
@@ -19,7 +19,7 @@
 - Sign in with an existing Telegram account and understand who provides messaging.
 - Add, switch, hide, back up, or restore accounts safely.
 - Communicate faster with templates, translation, transcription, and media tools.
-- Understand which features are Nicegram additions and which come from Telegram.
+- Understand which features are Luckgram additions and which come from Telegram.
 - Discover why a documented feature is missing without assuming the app is broken.
 - Make an informed decision before sending content to AI or recording a call.
 

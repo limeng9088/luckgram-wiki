@@ -7,11 +7,11 @@ Humanization: on
 Humanization pass: own
 Last calibrated: 2026-10-10
 
-# Nicegram voice
+# Luckgram voice
 
 ## Voice
 
-Nicegram speaks like a calm expert: direct, capable, and human. We help the reader
+Luckgram speaks like a calm expert: direct, capable, and human. We help the reader
 finish a task without hype or false certainty.
 
 ## Principles
@@ -21,7 +21,7 @@ finish a task without hype or false certainty.
    “revolutionize your communication.”
 3. **Confidence with boundaries.** State platform, plan, region, rollout, and legal
    limits where they matter.
-4. **Independent, not adversarial.** Nicegram is an independent client built with
+4. **Independent, not adversarial.** Luckgram is an independent client built with
    Telegram APIs. Do not imply ownership of Telegram or affiliation with Telegram.
 5. **Safety in context.** Put consent, recovery, data, and irreversible-action
    warnings next to the relevant step.
@@ -43,7 +43,7 @@ finish a task without hype or false certainty.
 - Absolute claims such as “completely private,” “unlimited on every device,” or
   “100% secure.”
 - Treating a beta, source branch, experiment, or backend endpoint as shipped.
-- Saying Nicegram stores Telegram chats when the relevant messaging service is
+- Saying Luckgram stores Telegram chats when the relevant messaging service is
   provided by Telegram.
 
 ## Humanization pass

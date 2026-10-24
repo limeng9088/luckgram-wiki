@@ -1,11 +1,11 @@
 ---
-description: The former Nicegram in-app wallet is retired. Find help with historical wallet-linked access.
+description: The former Luckgram in-app wallet is retired. Find help with historical wallet-linked access.
 ---
 
-# Where is the Nicegram wallet?
+# Where is the Luckgram wallet?
 
 The former in-app wallet financial functionality is no longer available in
-Nicegram. Older instructions for creating a wallet, sending assets, swaps, NFTs
+Luckgram. Older instructions for creating a wallet, sending assets, swaps, NFTs
 inside the wallet, or connecting dApps do not describe the current app.
 
 ## What about wallet-linked sign-in?
@@ -28,4 +28,4 @@ reversal of a transaction cannot be promised.
 
 **Status:** retired financial feature; reviewed October 10, 2026.
 
-**Source:** [Nicegram wallet update](https://t.me/nicegramapp/1017).
+**Source:** [Luckgram wallet update](https://t.me/luckgramapp/1017).

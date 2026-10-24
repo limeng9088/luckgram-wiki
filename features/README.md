@@ -1,10 +1,10 @@
 ---
-description: A complete, status-aware index of documented Nicegram features.
+description: A complete, status-aware index of documented Luckgram features.
 ---
 
-# What features does Nicegram add?
+# What features does Luckgram add?
 
-Nicegram combines Telegram-compatible messaging with its own account, privacy,
+Luckgram combines Telegram-compatible messaging with its own account, privacy,
 productivity, and AI surfaces. This index separates generally available
 features from beta, limited-rollout, and source-only work.
 
@@ -49,7 +49,7 @@ Read [Messaging tools](messaging.md),
 | Clickable bio links | Makes supported links in profile bios directly actionable | Platform-dependent |
 | Remember last folder | Returns to the previously selected chat folder | Platform-dependent |
 | Keyword folders | Organizes or surfaces chats around configured keywords | Limited rollout |
-| Hide unused tabs | Removes selected Nicegram navigation items | Platform-dependent |
+| Hide unused tabs | Removes selected Luckgram navigation items | Platform-dependent |
 
 Read [Profiles, folders, and interface](profiles-and-folders.md).
 
@@ -66,16 +66,16 @@ Read [Profiles, folders, and interface](profiles-and-folders.md).
 | Referrals and campaigns | Shows eligible campaign routes and historical results | No new ATT earning inferred; current terms required |
 | AI Agent Marketplace | Discovers and uses eligible AI agents | Beta |
 | HyperLancer | Project relaunch is being worked on | No date or currently available escrow service promised |
-| God’s Eye / Spy on Friends | Contact-activity insight surfaces listed by Nicegram | Limited rollout; results are not guaranteed |
+| God’s Eye / Spy on Friends | Contact-activity insight surfaces listed by Luckgram | Limited rollout; results are not guaranteed |
 
-Read [Nicegram AI](ai.md), [Former wallet](wallet.md),
+Read [Luckgram AI](ai.md), [Former wallet](wallet.md),
 [Plans, Gems, and referrals](plans-and-rewards.md), and
 [Beta and limited-rollout features](beta.md).
 
-## What is not listed as a Nicegram feature
+## What is not listed as a Luckgram feature
 
 Normal Telegram chats, channels, calls, Secret Chats, Stories, bots, and Telegram
-Business features remain Telegram capabilities when Nicegram does not add a
+Business features remain Telegram capabilities when Luckgram does not add a
 distinct workflow. Their behavior follows Telegram and can change with upstream
 client updates.
 

@@ -1,10 +1,10 @@
 ---
-description: Add, switch, back up, and hide Telegram accounts in Nicegram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
+description: Add, switch, back up, and hide Telegram accounts in Luckgram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
 ---
 
-# How do accounts work in Nicegram?
+# How do accounts work in Luckgram?
 
-Nicegram signs in to Telegram accounts and lets you keep more of them in one client
+Luckgram signs in to Telegram accounts and lets you keep more of them in one client
 than a standard Telegram setup typically exposes. The account switcher keeps each
 account’s chats and settings separate.
 
@@ -16,7 +16,7 @@ account’s chats and settings separate.
 4. Complete Telegram’s login-code and two-step-verification flow, if enabled.
 
 The exact account ceiling is platform-specific and can also be constrained by
-memory, storage, notification load, or Telegram. Nicegram’s public source currently
+memory, storage, notification load, or Telegram. Luckgram’s public source currently
 contains a much higher iOS ceiling and Android options for 10 or 100 accounts, so
 “unlimited” should be understood as expanded multi-account use rather than a
 guarantee that every device can run an arbitrary number.
@@ -40,7 +40,7 @@ end sessions you do not recognise. On an account bought through Account Shop,
 ## I lost my phone or SIM card
 
 Telegram ties your account to its phone number. To get back in you need that
-number or a device where you are still signed in; neither Telegram nor Nicegram
+number or a device where you are still signed in; neither Telegram nor Luckgram
 support can restore an account without one of them.
 
 **Still signed in on another device** (a tablet, computer, or Telegram Web):
@@ -92,7 +92,7 @@ On the password screen, tap **Forgot password?**:
   gives you an empty account. Telegram may delay it by a week if the
   account was recently active; the app tells you when.
 
-Neither Telegram nor Nicegram support can tell you this password. Never share
+Neither Telegram nor Luckgram support can tell you this password. Never share
 it or a recovery code, even with someone who claims to be support. Lost the
 phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
 
@@ -100,7 +100,7 @@ phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
 
 ## Register a new Telegram account
 
-A new Telegram account can be created only in the official Telegram app; in Nicegram
+A new Telegram account can be created only in the official Telegram app; in Luckgram
 you sign in to an account you already have. In the official app, enter a mobile
 number that has no Telegram account yet. Once it is confirmed,
 Telegram asks for your name, offers a profile photo, and creates the account when
@@ -113,10 +113,10 @@ before signing up again. For other registration problems, Telegram points to its
 
 ## Back up, import, or export accounts
 
-Supported mobile builds expose Nicegram account-transfer tools. On iOS 15 or
-later they are in **Nicegram Settings → Accounts**: **iCloud Backup**, **Import
+Supported mobile builds expose Luckgram account-transfer tools. On iOS 15 or
+later they are in **Luckgram Settings → Accounts**: **iCloud Backup**, **Import
 from iCloud**, **Import from File** and **Export as File**. Android builds offer
-the same tools in Nicegram’s settings. These tools move account
+the same tools in Luckgram’s settings. These tools move account
 session access; they do not create a Telegram backup of all cloud chats.
 
 - Protect exported account material as you would an active login session.
@@ -166,7 +166,7 @@ The result is a folder of files on your computer. If the other person later
 deletes messages for both sides, a copy saved before still has them. Keep it as
 private as the conversations themselves.
 
-For the option some Nicegram builds offer, see
+For the option some Luckgram builds offer, see
 [the section below](#export-messages-instead-of-sessions).
 
 **Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
@@ -178,18 +178,18 @@ chat-export action can turn accessible messages for the offered period into a
 Markdown document. That document is not a complete media archive and cannot
 restore deleted messages. Follow only the options visible in your installed build.
 
-**Sources:** [Account-shop announcement](https://t.me/nicegramapp/1015) ·
-[Country selection](https://t.me/nicegramapp/1023) ·
+**Sources:** [Account-shop announcement](https://t.me/luckgramapp/1015) ·
+[Country selection](https://t.me/luckgramapp/1023) ·
 [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[iOS source](https://github.com/nicegram/Nicegram-iOS) ·
-[Android source](https://github.com/nicegram/Nicegram-Android)
+[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
+[Android source](https://github.com/luckgram/Luckgram-Android)
 
 ## Can I get back deleted messages, chats or files?
 
 Deleted something by mistake? Usually it cannot come back: once both sides have
 deleted a message, it is deleted for good.
 
-- **Just deleted a chat or left a group?** Nicegram briefly shows **Undo**. The
+- **Just deleted a chat or left a group?** Luckgram briefly shows **Undo**. The
   chat goes only when that bar goes away, so tap **Undo** in time.
 - **A chat with one person:** if you deleted it only for yourself, the other
   person still has their copy of the messages.

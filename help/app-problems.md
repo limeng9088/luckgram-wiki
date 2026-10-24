@@ -1,25 +1,25 @@
 ---
-description: What to do when Nicegram will not open or keeps loading, asks for an update you cannot find, repeats or misses notifications, chats missing after an update, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
+description: What to do when Luckgram will not open or keeps loading, asks for an update you cannot find, repeats or misses notifications, chats missing after an update, drains the battery, or asks for a passcode you forgot, and how to use a proxy.
 ---
 
-# What can I do when Nicegram isn’t working?
+# What can I do when Luckgram isn’t working?
 
 Start with the steps that keep your data. Read
-[Before you reinstall Nicegram](#before-you-reinstall-nicegram) before deleting the app.
+[Before you reinstall Luckgram](#before-you-reinstall-luckgram) before deleting the app.
 
-## Nicegram won’t open, crashes, or keeps loading
+## Luckgram won’t open, crashes, or keeps loading
 
-1. Close Nicegram completely and open it again, then restart the device.
+1. Close Luckgram completely and open it again, then restart the device.
 2. If the chat list shows **Connecting…** or **Waiting for network**, the app
    has no connection to Telegram yet. Check Wi-Fi or mobile data.
 3. Install the newest version from your store or the
-   [official download page](https://nicegram.me/download).
+   [official download page](https://luckgram.me/download).
 4. If the device is almost full, free some space.
 5. Still failing? Report it through
    [Support and source code](support-and-source.md#reporting-a-problem) with the
-   device, system version, Nicegram version, and what you see.
+   device, system version, Luckgram version, and what you see.
 
-## Before you reinstall Nicegram
+## Before you reinstall Luckgram
 
 Uninstalling the app signs it out on this device. You then sign in to each
 account again, including accounts hidden with Double Bottom. Some access cannot
@@ -36,23 +36,23 @@ come back, so check first:
 - **Two-step password:** you need it if you set one (forgot it? see the
   [two-step password help](../getting-started/accounts.md#i-forgot-my-two-step-verification-password)).
 
-Telegram keeps your cloud chats. Secret chats are lost, and local Nicegram data
+Telegram keeps your cloud chats. Secret chats are lost, and local Luckgram data
 such as quick replies and downloads may not be restored.
 
-## Nicegram asks me to update, but the store has no update
+## Luckgram asks me to update, but the store has no update
 
 - **“This message is not supported on your version”** (or story) is about that
   one item; the rest of the app works.
 - **“Please update Telegram to the latest version to log in”** comes from
   Telegram’s servers at login.
-- **The Nicegram Update screen** (iPhone, iPad) appears when Telegram’s servers
-  report an update. **Update Nicegram** opens the App Store; **Skip** is offered
+- **The Luckgram Update screen** (iPhone, iPad) appears when Telegram’s servers
+  report an update. **Update Luckgram** opens the App Store; **Skip** is offered
   unless the update is required.
 
 If the store shows nothing newer, check the
-[official download page](https://nicegram.me/download). Its APK is for Android
+[official download page](https://luckgram.me/download). Its APK is for Android
 devices without Google Play. If Android will not install it over the store
-version, do not uninstall Nicegram; see “Before you reinstall Nicegram” above.
+version, do not uninstall Luckgram; see “Before you reinstall Luckgram” above.
 
 ## My chats are gone after an update
 
@@ -68,12 +68,12 @@ come back when you are signed in to the same account. Check these first:
    message comes in; muted ones stay in the Archive.
 3. **Folders.** If a folder tab is open, switch to **All Chats** (or **All**). A
    folder shows only the chats that match it.
-4. **Hidden chats.** Chats you hid in Nicegram are not deleted (see
+4. **Hidden chats.** Chats you hid in Luckgram are not deleted (see
    [Hidden chats](../features/privacy.md#hidden-chats)); on iPhone and iPad, the
    chat’s menu has **Unhide**.
 5. **The connection.** While the chat list shows **Connecting…** or **Waiting
    for network**, the app has not reached Telegram yet (see
-   [Nicegram won’t open, crashes, or keeps loading](#nicegram-wont-open-crashes-or-keeps-loading)).
+   [Luckgram won’t open, crashes, or keeps loading](#luckgram-wont-open-crashes-or-keeps-loading)).
 
 Secret chats are the exception: they stay only on the device where they
 started and are lost when you log out or uninstall the app. They cannot be
@@ -81,7 +81,7 @@ brought back. What Telegram keeps, and how to save your own copy, is in
 [How do I back up all my chats and media?](../getting-started/accounts.md#how-do-i-back-up-all-my-chats-and-media)
 
 If the update left the app broken and you are about to reinstall it, read
-[Before you reinstall Nicegram](#before-you-reinstall-nicegram) first.
+[Before you reinstall Luckgram](#before-you-reinstall-luckgram) first.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6a-2026-10-16.md)
 
@@ -91,20 +91,20 @@ If the update left the app broken and you are about to reinstall it, read
    you do not need.
 2. With several accounts, **All Accounts** decides whether every signed-in
    account notifies you or only the active one.
-3. If one account is signed in to both Telegram and Nicegram on this phone, both
+3. If one account is signed in to both Telegram and Luckgram on this phone, both
    apps can notify you. Turn notifications off in one of them.
-4. Check the system notification settings, update Nicegram, and reopen it.
+4. Check the system notification settings, update Luckgram, and reopen it.
 
-If it continues, report the platform, Nicegram version, and how often it happens.
+If it continues, report the platform, Luckgram version, and how often it happens.
 
 ## I get no notifications at all
 
 - **Phone settings.** On iPhone and iPad, a red **!** next to **Notifications and
   Sounds** in **Settings** means they are off or limited; that screen offers a
   button to turn them on (**Turn ON in Settings**, **Open Settings** or **Turn
-  Notifications ON**). On Android, if Nicegram asks you to **Turn on
+  Notifications ON**). On Android, if Luckgram asks you to **Turn on
   notifications**, allow it.
-- **Nicegram’s settings.** In **Settings → Notifications and Sounds**, keep
+- **Luckgram’s settings.** In **Settings → Notifications and Sounds**, keep
   **Private Chats**, **Group Chats** (**Groups** on Android) and **Channels** on.
   On Android, open each one, tap **More Options**, and set **Importance** to
   **High** or **Urgent**.
@@ -113,15 +113,15 @@ If it continues, report the platform, Nicegram version, and how often it happens
   menu). A Focus such as Do Not Disturb on iPhone and iPad, or Do Not Disturb on
   Android, silences apps you haven’t allowed.
 - **Android battery saving.** Keep Google Play Services installed and allow
-  Nicegram in any battery-saving app; on Huawei and Xiaomi phones, also in
+  Luckgram in any battery-saving app; on Huawei and Xiaomi phones, also in
   **Protected Apps** or **Autostart**. **Keep-Alive Service** and **Background
   Connection** in **Notifications and Sounds** help, at some battery cost.
-- **Still silent on iPhone or iPad:** close Nicegram, set its alert style in the
-  device’s Settings to None, open Nicegram, then set it back to Banners.
+- **Still silent on iPhone or iPad:** close Luckgram, set its alert style in the
+  device’s Settings to None, open Luckgram, then set it back to Banners.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
 
-## Nicegram drains the battery
+## Luckgram drains the battery
 
 - **Settings → Power Saving** (called **Power Usage** on Android) can switch on
   below a battery level you choose and turns off autoplay, animations, and
@@ -130,12 +130,12 @@ If it continues, report the platform, Nicegram version, and how often it happens
   **Notifications and Sounds** keep the app running in the background for
   reliable notifications. Decide whether you need them.
 
-If battery use stays high, report the device model, system version, and Nicegram
+If battery use stays high, report the device model, system version, and Luckgram
 version.
 
-## Can I use a proxy in Nicegram?
+## Can I use a proxy in Luckgram?
 
-Yes. Nicegram has the same proxy settings as Telegram’s own apps:
+Yes. Luckgram has the same proxy settings as Telegram’s own apps:
 
 - **iPhone and iPad:** **Settings → Data and Storage → Proxy**. After you add a
   proxy, **Proxy** also appears in the main Settings list.
@@ -155,11 +155,11 @@ Use only a proxy from a source you trust. Its operator cannot read your messages
 but can see your IP address and that you use Telegram. An MTProto proxy may also
 add a sponsored channel to your list.
 
-You don’t need a proxy or a VPN for Nicegram where Telegram itself works without
-one: Nicegram connects to Telegram’s official servers. Where Telegram is
-restricted, Nicegram is restricted the same way.
+You don’t need a proxy or a VPN for Luckgram where Telegram itself works without
+one: Luckgram connects to Telegram’s official servers. Where Telegram is
+restricted, Luckgram is restricted the same way.
 
-## I forgot my app passcode and can’t unlock Nicegram
+## I forgot my app passcode and can’t unlock Luckgram
 
 The app passcode is **Passcode Lock** in **Settings → Privacy and Security**.
 Unlocking with your face or fingerprint is an option inside it; the passcode

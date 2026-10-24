@@ -5,7 +5,7 @@ description: Find out why you can read a Telegram group but not write in it, why
 # Why can’t I write in or join a group?
 
 Groups and channels run on Telegram. Each group’s admins and Telegram’s own
-limits decide who can write or join; Nicegram shows the client’s message for each
+limits decide who can write or join; Luckgram shows the client’s message for each
 case.
 
 ## Why can’t I send messages in a group, only read it?
@@ -27,7 +27,7 @@ These are Telegram rules, so another Telegram app shows the same restriction.
 
 Telegram limits how many channels and supergroups one account can join. A
 Telegram Premium account gets a higher limit. Telegram Premium is Telegram’s own
-subscription; Nicegram Premium is a separate plan (see
+subscription; Luckgram Premium is a separate plan (see
 [Plans, Gems, and referrals](../features/plans-and-rewards.md)).
 
 At the limit, the app tells you to leave some groups or channels before joining a
@@ -42,7 +42,7 @@ choose from. The limit applies to each Telegram account separately.
   only once an admin approves the request.
 - **The app is still connecting.** **Connecting…** or **Waiting for network** at
   the top of the screen means no connection to Telegram yet. See
-  [Nicegram won’t open or keeps loading](app-problems.md#nicegram-wont-open-crashes-or-keeps-loading).
+  [Luckgram won’t open or keeps loading](app-problems.md#luckgram-wont-open-crashes-or-keeps-loading).
 - **You hit the join limit.** See the section above.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-troubleshooting-2026-10-12.md)
@@ -82,6 +82,6 @@ people not in their contacts. That is their choice, not a restriction on your
 account.
 
 The restriction is on your Telegram account, not on the app, so every Telegram
-app, Nicegram included, shows it too.
+app, Luckgram included, shows it too.
 
 **Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)

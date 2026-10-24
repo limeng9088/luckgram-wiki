@@ -1,10 +1,10 @@
 ---
-description: View extra profile information and organize the Nicegram interface with folders and tab controls, change your Telegram username, and see how Telegram verification works.
+description: View extra profile information and organize the Luckgram interface with folders and tab controls, change your Telegram username, and see how Telegram verification works.
 ---
 
 # How do profile, folder, and interface tools work?
 
-Nicegram can expose additional identifiers and organization controls around the
+Luckgram can expose additional identifiers and organization controls around the
 standard Telegram interface.
 
 ## Telegram ID
@@ -33,16 +33,16 @@ default list.
 
 ## Hide unused tabs and floating tools
 
-Nicegram settings can hide selected tabs or a floating in-chat menu. Hiding a tab
+Luckgram settings can hide selected tabs or a floating in-chat menu. Hiding a tab
 changes navigation; it does not delete the associated data or turn off a backend
 service by itself.
 
 **Availability:** Telegram ID and RegDate are visible in supported iOS and Android
 builds. Keyword folders and individual interface controls can be limited by rollout.
 
-**Sources:** [Nicegram features](https://nicegram.me/features) ·
-[iOS source](https://github.com/nicegram/Nicegram-iOS) ·
-[Android source](https://github.com/nicegram/Nicegram-Android)
+**Sources:** [Luckgram features](https://luckgram.me/features) ·
+[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
+[Android source](https://github.com/luckgram/Luckgram-Android)
 
 ## How do I change my username?
 
@@ -78,7 +78,7 @@ taken, Telegram can help through @Username_bot.
 
 ## How do I get a verification checkmark?
 
-Only Telegram gives the official verification badge (a checkmark), and Nicegram
+Only Telegram gives the official verification badge (a checkmark), and Luckgram
 cannot add one. A different badge next to a name can be the Telegram Premium
 profile badge, which comes with a Telegram Premium subscription. Telegram
 verifies active official channels, bots and public groups, not personal
@@ -96,14 +96,14 @@ not Telegram's checkmark.
 
 ## Where is the search button (magnifying glass)?
 
-On iPhone and iPad, where you start a search depends on your Nicegram version.
+On iPhone and iPad, where you start a search depends on your Luckgram version.
 
-- **Nicegram 2.6.4:** tap the **Search** field at the top of the chat list.
-- **Nicegram 2.4.1 to 2.6.3:** a magnifying glass button sits at the right end of
+- **Luckgram 2.6.4:** tap the **Search** field at the top of the chat list.
+- **Luckgram 2.4.1 to 2.6.3:** a magnifying glass button sits at the right end of
   the tab bar at the bottom of the screen on the **Chats**, **Contacts**,
-  **Calls**, **Settings** and **Nicegram** tabs. Tap it to search.
+  **Calls**, **Settings** and **Luckgram** tabs. Tap it to search.
 
-The magnifying glass is Telegram's own tab bar search, not a separate Nicegram
+The magnifying glass is Telegram's own tab bar search, not a separate Luckgram
 feature. If it appeared or disappeared, your app version changed. Updating to
 2.6.4 from the App Store moves search to the field at the top of the chat list.
 

@@ -1,5 +1,5 @@
 ---
-description: Diagnose missing features, review privacy guidance, and contact official Nicegram support.
+description: Diagnose missing features, review privacy guidance, and contact official Luckgram support.
 ---
 
 # Help and safety
@@ -11,7 +11,7 @@ description: Diagnose missing features, review privacy guidance, and contact off
   a forgotten app passcode, and using a proxy.
 - [Groups and channels](groups-and-channels.md): why you can read a group but not
   write, the limit on joined groups and channels, and joins that keep loading.
-- [Privacy and data](privacy-and-data.md): understand Telegram data, Nicegram
+- [Privacy and data](privacy-and-data.md): understand Telegram data, Luckgram
   features, AI processing, analytics, and local storage.
 - [Support and source code](support-and-source.md): use official community,
   policies, and public repositories.

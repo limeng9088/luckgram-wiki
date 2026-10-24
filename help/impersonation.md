@@ -4,7 +4,7 @@ description: Report a profile, channel or group that is pretending to be you or 
 
 # Someone is pretending to be me or someone else. How do I report it?
 
-Reports go to Telegram, whose moderators review them. Nicegram can't take a
+Reports go to Telegram, whose moderators review them. Luckgram can't take a
 profile down.
 
 - **Someone is pretending to be you:** write to [@NoToScam](https://t.me/NoToScam),

@@ -1,11 +1,11 @@
 ---
-description: Translate incoming or outgoing messages and transcribe supported voice content in Nicegram.
+description: Translate incoming or outgoing messages and transcribe supported voice content in Luckgram.
 ---
 
 # How do translation and speech-to-text work?
 
-Nicegram can translate received messages, translate text before it is sent, and
-transcribe supported audio. These actions can use Nicegram or third-party processing
+Luckgram can translate received messages, translate text before it is sent, and
+transcribe supported audio. These actions can use Luckgram or third-party processing
 depending on the feature and build.
 
 ## Translate an incoming message
@@ -45,11 +45,11 @@ parity is not confirmed.
 
 ## If it fails
 
-Report the platform, Nicegram version, language pair, exact action, and error text
+Report the platform, Luckgram version, language pair, exact action, and error text
 to [support](../help/support-and-source.md). Do not send private conversation contents. A
 single error does not identify a global outage, and purchasing another plan is
 not a verified fix. A reported fix in an older version does not establish the
 status of a new regression.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://nicegram.me/privacy-policy)
+[Privacy Policy](https://luckgram.me/privacy-policy)

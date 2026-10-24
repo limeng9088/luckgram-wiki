@@ -1,9 +1,9 @@
-# Nicegram public-help scenarios
+# Luckgram public-help scenarios
 
 These scenarios define the behavior the public Wiki must explain. IDs are stable
 and should be referenced when a feature page changes.
 
-## SCR-001: Install Nicegram
+## SCR-001: Install Luckgram
 
 **Given** a user chooses a supported platform, **when** they follow the official
 download route, **then** they reach the current App Store, Google Play, Android APK,
@@ -34,7 +34,7 @@ is explained.
 ## SCR-006: Send existing video as a video message
 
 **Given** a compatible local video, **when** the user chooses video-message
-conversion, **then** Nicegram prepares it as a round video subject to media limits.
+conversion, **then** Luckgram prepares it as a round video subject to media limits.
 
 ## SCR-007: Record a call responsibly
 
@@ -76,7 +76,7 @@ is invented from old marketing.
 
 ## SCR-013: Recover from an app that will not open or keeps loading
 
-**Given** Nicegram does not open, crashes, or stays on Connecting…, **when** the
+**Given** Luckgram does not open, crashes, or stays on Connecting…, **when** the
 user opens the app-problems page, **then** they get steps that keep their data
 first (restart, connection status, update, storage) and learn what a
 reinstall can lose for good (bought or imported accounts, the login-code route,
@@ -89,7 +89,7 @@ them to sign out or delete sessions as a generic repair (consistent with SCR-011
 **when** they open the groups page, **then** they can match the app’s message to
 its Telegram cause (admin restriction, slow mode, account limit, join limit,
 private or approval-only group) and know who can change it. No restriction is
-presented as something Nicegram support or a Nicegram plan can lift.
+presented as something Luckgram support or a Luckgram plan can lift.
 
 ## SCR-015: Forgotten app passcode
 
@@ -115,19 +115,19 @@ imported as a session is routed to support first (consistent with SCR-011).
 
 ## SCR-017: Use a proxy
 
-**Given** a user asks whether Nicegram works with a proxy, **when** they read the
+**Given** a user asks whether Luckgram works with a proxy, **when** they read the
 proxy section, **then** they find where the proxy settings are on iPhone, iPad and
 Android, the two types (SOCKS5: server and port, optional credentials; MTProto:
 server, port and secret), what **Connecting to Proxy…** means and how to switch or
 turn the proxy off, and why to use only a trusted proxy. The section states that
-Nicegram works without a proxy or VPN wherever Telegram does and is restricted the
+Luckgram works without a proxy or VPN wherever Telegram does and is restricted the
 same way where Telegram is. It names no country, lists no proxy and gives no advice
 on getting around any law or restriction.
 
 ## SCR-018: Calls to other apps
 
 **Given** a user wants to call someone on WhatsApp, FaceTime or another app,
-**when** they read the calls section, **then** they learn that Nicegram's voice and
+**when** they read the calls section, **then** they learn that Luckgram's voice and
 video calls are Telegram calls to Telegram users only, that a contact who is not on
 Telegram can only be invited, and what "doesn't accept calls" means.
 
@@ -142,7 +142,7 @@ Privacy and Security → Two-Step Verification**, then after 7 days return and t
 **Reset Password**; cancelling restarts the wait); neither (**Reset account** cannot
 be undone, deletes messages, media, contacts and groups and leaves an empty account
 on signing up again; Telegram may delay it a week for a recently active account). The
-section says neither Telegram nor Nicegram support can tell them the password, never
+section says neither Telegram nor Luckgram support can tell them the password, never
 asks for it or a code, and links the lost-phone section (SCR-016).
 
 ## SCR-020: Back up all chats and media
@@ -155,19 +155,19 @@ or JSON, where it is saved) or one chat (**⋯ → Export chat history**), and t
 copy saved before keeps messages the other side later deletes for both. It says
 secret chats are left out of any copy and are lost on logout or with the device, the
 one-chat export is not offered where copying is turned off, and a newly signed-in computer may have to
-wait before the export starts. Nicegram's
-own export is linked, not repeated, and no Nicegram-specific backup is promised.
+wait before the export starts. Luckgram's
+own export is linked, not repeated, and no Luckgram-specific backup is promised.
 
 ## SCR-021: Post a story
 
 **Given** a user asks how to post a story, **when** they read the media and calls page, **then** they learn that
-stories are a Telegram feature Nicegram adds nothing to posting, and find the steps for iPhone, iPad and
-Android (Nicegram Desktop shows stories but cannot post them) (**My Story** → photo or video → who sees
+stories are a Telegram feature Luckgram adds nothing to posting, and find the steps for iPhone, iPad and
+Android (Luckgram Desktop shows stories but cannot post them) (**My Story** → photo or video → who sees
 it: Everyone, Contacts, Close Friends or Selected Contacts, with exclusions, **Allow Screenshots**, **Keep on My
-Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premium adds (Nicegram Premium is a separate
+Page** → **Post Story**), that a story lasts 24 hours and what Telegram Premium adds (Luckgram Premium is a separate
 plan and doesn't include it), that Telegram sets who may post and how often (the app says when Telegram Premium is
 needed), that channels and groups post once boosted, and that on iPhone and iPad nothing can be posted during a call.
-No Nicegram-only story feature is promised, and no story limit is presented as something a Nicegram plan lifts.
+No Luckgram-only story feature is promised, and no story limit is presented as something a Luckgram plan lifts.
 
 ## SCR-022: Find and restore sticker sets
 
@@ -183,9 +183,9 @@ named as something else: a possible scam that Telegram reviews at `support@teleg
 
 **Given** a user's chats seem gone after an update, **when** they read the app-problems page, **then** they learn
 that cloud chats stay on Telegram's servers and come back on the same account, and check the active account, the
-Archive (swipe down), folder tabs (**All Chats**), Nicegram's hidden chats (not deleted; **Unhide** in the chat's menu on iPhone and iPad) and the connection status.
+Archive (swipe down), folder tabs (**All Chats**), Luckgram's hidden chats (not deleted; **Unhide** in the chat's menu on iPhone and iPad) and the connection status.
 The section says secret chats stay only on their device and cannot be brought back after logout or uninstall,
-links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Nicegram" (SCR-013). Nothing
+links the backup section (SCR-020) and, before any reinstall, "Before you reinstall Luckgram" (SCR-013). Nothing
 that cannot be recovered is promised back.
 
 ## SCR-023: Notifications don't arrive
@@ -196,7 +196,7 @@ notifications** on Android), **Private Chats**, **Group Chats** (**Groups**) and
 **More Options** → **Importance** High or Urgent), a muted chat (**Unmute**), Focus or Do Not Disturb, Android battery saving (Google
 Play Services, battery-saver allowance, **Keep-Alive Service** and **Background Connection**), **All Accounts** with
 several accounts, and Telegram's iOS alert-style reset; then they are routed to support. This section is distinct
-from "Notifications repeat or keep coming back" and promises no Nicegram-specific delivery.
+from "Notifications repeat or keep coming back" and promises no Luckgram-specific delivery.
 
 ## SCR-024: Change a username
 
@@ -205,7 +205,7 @@ the path (**Settings → Edit → Username**, or **Set Username**, on iPhone and
 Android), Telegram's rules (a–z, 0–9 and underscores, case-insensitive, 5–32 characters, not starting with a
 number, one account per username), that after a change the link is `t.me/` plus the new name, that clearing it
 removes it from search without touching existing chats, and that collectible usernames are bought on third-party
-platforms such as Fragment and cannot be assigned by Telegram. No Nicegram-specific username feature is promised,
+platforms such as Fragment and cannot be assigned by Telegram. No Luckgram-specific username feature is promised,
 and nothing is said about when an old username becomes free.
 
 ## SCR-026: Translate a whole chat
@@ -213,12 +213,12 @@ and nothing is said about when an old username becomes free.
 **Given** a user asks whether a whole chat can be translated, **when** they read the translation page, **then** they
 learn that Telegram's **Translate Entire Chat** (Settings → Language) shows a translation bar in chats in another
 language, that Telegram makes it part of Telegram Premium. No
-Nicegram-only feature is promised.
+Luckgram-only feature is promised.
 
 ## SCR-027: Get a verification checkmark
 
 **Given** a user asks how to get a verification badge, **when** they read the profiles page, **then** they learn that only
-Telegram assigns the official checkmark (Nicegram cannot), that Telegram verifies official channels, bots and public groups
+Telegram assigns the official checkmark (Luckgram cannot), that Telegram verifies official channels, bots and public groups
 but not personal accounts, how to apply through @VerifyBot, and that third-party icons are not Telegram's checkmark.
 
 ## SCR-028: Telegram Stars missing
@@ -226,40 +226,40 @@ but not personal accounts, how to apply through @VerifyBot, and that third-party
 **Given** a user paid for Telegram Stars that never reached their balance, **when** they read the Telegram Stars Help
 page, **then** they learn that Stars are Telegram's own currency, check **Settings → Your Stars**, and, by where the
 Stars came from, ask the store that charged them for the Stars (Apple and Google Play help links) or the site or bot
-they bought the Stars from (on iPhone and iPad, Nicegram's Stars screen links to NiceStars, Fragment and @PremiumBot).
-Other Stars questions get one link to Telegram's FAQ. The page uses Stars words only; no delivery, refund or Nicegram
+they bought the Stars from (on iPhone and iPad, Luckgram's Stars screen links to NiceStars, Fragment and @PremiumBot).
+Other Stars questions get one link to Telegram's FAQ. The page uses Stars words only; no delivery, refund or Luckgram
 fix is promised.
 
-## SCR-029: When Nicegram Premium renews or expires
+## SCR-029: When Luckgram Premium renews or expires
 
-**Given** a user asks when their Nicegram Premium renews or expires, or where its expiration date is, **when** they
+**Given** a user asks when their Luckgram Premium renews or expires, or where its expiration date is, **when** they
 read the Premium renewal Help page, **then** they find the App Store subscriptions list (Settings → your name →
 Subscriptions, where a red expiration message means it will not renew) or subscriptions on Google Play (a subscription
 that will not renew works until its current period ends). Plans, Gems, and referrals is unchanged, and nothing is
-claimed about a date shown inside Nicegram.
+claimed about a date shown inside Luckgram.
 
 ## SCR-030: Report an impersonator
 
 **Given** someone is pretending to be the user or another person, **when** they read the impersonation Help page,
-**then** they learn that Telegram reviews reports and Nicegram cannot take a profile down, that @NoToScam handles
+**then** they learn that Telegram reviews reports and Luckgram cannot take a profile down, that @NoToScam handles
 someone pretending to be them, and how to report a person (Android: profile **⋮ → Report**; iPhone and iPad:
 **Report Spam** in a chat from a non-contact), a channel or group (**More → Report** or **⋮ → Report**) and a message
 in a group or channel, with a “See also” link to the existing group-limit section (SCR-014).
 
 ## SCR-031: Find a quick answer, the release notes or an official link
 
-**Given** a user wants a short answer (is Nicegram free or safe, where to download it, how to delete an account),
+**Given** a user wants a short answer (is Luckgram free or safe, where to download it, how to delete an account),
 the "What's new" text of a version, or an official channel, bot or address, **when** they open the Quick reference
 section, **then** Quick answers gives one question heading per answer, What's new lists the store's text per
-platform with the newest release first, and Official links and downloads lists Nicegram's public apps, websites,
-channels, chats, bots and addresses. The pages are generated from the Nicegram data room (`generated_from` in their
+platform with the newest release first, and Official links and downloads lists Luckgram's public apps, websites,
+channels, chats, bots and addresses. The pages are generated from the Luckgram data room (`generated_from` in their
 front matter) and are never edited here: only answers decided for every channel appear, release notes that name a
 retired feature are left out, and no answer that has expired is shown after the next regeneration.
 
-## SCR-032: Advertise a channel, group or bot on Nicegram
+## SCR-032: Advertise a channel, group or bot on Luckgram
 
-**Given** a user wants to promote their channel, group, bot or project to Nicegram's audience, **when** they read
-[Quick answers](../../reference/quick-answers.md), **then** they find Nicegram Ads (@NiceAdsBot, ads.nicegram.me),
+**Given** a user wants to promote their channel, group, bot or project to Luckgram's audience, **when** they read
+[Quick answers](../../reference/quick-answers.md), **then** they find Luckgram Ads (@NiceAdsBot, ads.luckgram.me),
 generated from the data room's decided fact. No hand-written page restates it, so "remove ads" questions keep their
 own answer.
 
@@ -272,7 +272,7 @@ account-deletion fact states. No hand-written page restates it.
 ## SCR-034: Sensitive (18+) or restricted content is not shown
 
 **Given** a user cannot see sensitive (18+) or restricted channels or content, **when** they read the sensitive
-content Help page, **then** they learn that Nicegram follows Telegram's rules and the App Store and Google Play
+content Help page, **then** they learn that Luckgram follows Telegram's rules and the App Store and Google Play
 policies (one link each), that what is shown on iPhone, iPad or Android depends on those rules and on their sensitive
-content settings on Telegram, and that Nicegram does not open deleted or private content. The page describes no way
+content settings on Telegram, and that Luckgram does not open deleted or private content. The page describes no way
 around a restriction.

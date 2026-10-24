@@ -1,22 +1,22 @@
 ---
-description: Use Nicegram quick replies, forwarding options, private replies, and message-selection tools, and find or restore Telegram sticker sets.
+description: Use Luckgram quick replies, forwarding options, private replies, and message-selection tools, and find or restore Telegram sticker sets.
 ---
 
-# What messaging tools does Nicegram add?
+# What messaging tools does Luckgram add?
 
-Nicegram’s messaging additions reduce repeated typing and add shortcuts around
+Luckgram’s messaging additions reduce repeated typing and add shortcuts around
 forwarding, saving, selecting, and replying to messages.
 
 ## Quick replies
 
-Quick replies are reusable text templates stored for a Nicegram account.
+Quick replies are reusable text templates stored for a Luckgram account.
 
-1. Create or edit templates in Nicegram settings or from the quick-reply surface.
+1. Create or edit templates in Luckgram settings or from the quick-reply surface.
 2. Open a chat and invoke the quick-reply control offered by your platform.
 3. Select a template and review the text before sending it.
 
-Nicegram quick replies are not necessarily the same as Telegram Business cloud
-quick replies. Do not assume a local Nicegram template will appear in another
+Luckgram quick replies are not necessarily the same as Telegram Business cloud
+quick replies. Do not assume a local Luckgram template will appear in another
 Telegram client.
 
 ## Anonymous forwarding and forward as copy
@@ -47,9 +47,9 @@ external content and verify the destination before signing in or connecting a wa
 **Availability:** primarily iOS and Android; individual actions vary by platform,
 chat type, permissions, and version.
 
-**Sources:** [Nicegram FAQ](https://nicegram.me/faq) ·
-[iOS source](https://github.com/nicegram/Nicegram-iOS) ·
-[Android source](https://github.com/nicegram/Nicegram-Android)
+**Sources:** [Luckgram FAQ](https://luckgram.me/faq) ·
+[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
+[Android source](https://github.com/luckgram/Luckgram-Android)
 
 ## Where are my stickers, and how do I get them back?
 

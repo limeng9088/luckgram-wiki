@@ -1,10 +1,10 @@
 ---
-description: Understand why Nicegram features differ by platform, plan, region, account, and rollout.
+description: Understand why Luckgram features differ by platform, plan, region, account, and rollout.
 ---
 
-# Which Nicegram features are available on my device?
+# Which Luckgram features are available on my device?
 
-Nicegram does not have one universal feature set. Check the status on a feature page
+Luckgram does not have one universal feature set. Check the status on a feature page
 before following its instructions.
 
 | Capability | iOS | Android | Desktop | Public status |
@@ -17,7 +17,7 @@ before following its instructions.
 | Extra message and profile actions | Yes | Yes | Not confirmed | Platform-dependent |
 | Existing video as a video message | Yes | Yes | Not confirmed | Available on mobile |
 | Call recording | Yes | Not confirmed | Not confirmed | iOS only in current evidence |
-| Nicegram AI | Yes | Yes | Separate source-visible AI compose | Beta / plan-dependent |
+| Luckgram AI | Yes | Yes | Separate source-visible AI compose | Beta / plan-dependent |
 | Former wallet and dApps | No | No | No | No longer offered |
 | AI Agent Marketplace | Eligible builds | Eligible builds | Not confirmed | Beta |
 | Escrow / HyperLancer | Eligible builds | Eligible builds | Not confirmed | Beta |
@@ -27,7 +27,7 @@ before following its instructions.
 
 A feature may depend on:
 
-- the operating system and Nicegram version;
+- the operating system and Luckgram version;
 - a free, Premium, Premium+, or usage-credit entitlement;
 - country, store, or legal restrictions;
 - a staged rollout or experiment;
@@ -38,5 +38,5 @@ A feature may depend on:
 build. See [Feature not visible](../help/feature-not-visible.md) for a diagnostic
 checklist.
 
-**Sources:** [Official availability labels](https://nicegram.me/download) ·
+**Sources:** [Official availability labels](https://luckgram.me/download) ·
 [Public feature evidence](../docs/evidence/feature-sources.md)
