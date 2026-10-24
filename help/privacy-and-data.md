@@ -34,7 +34,7 @@ Center because it is incompatible with those disclosures.
   conversation from another signed-in device.
 - Read the current policy for legal definitions, retention, processors, and rights.
 
-**Authoritative sources:** [Luckgram Privacy Policy](https://luckgram.me/privacy-policy) ·
+**Authoritative sources:** [Luckgram Privacy Policy](https://luckgram.cc/privacy-policy) ·
 [Telegram Privacy Policy](https://telegram.org/privacy) ·
-[Apple App Store](https://apps.apple.com/app/id1608870673) ·
-[Google Play](https://play.google.com/store/apps/details?id=app.luckgram)
+[iOS build (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest) ·
+[Android APK (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)

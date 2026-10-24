@@ -13,7 +13,7 @@ Start with the steps that keep your data. Read
 2. If the chat list shows **Connecting…** or **Waiting for network**, the app
    has no connection to Telegram yet. Check Wi-Fi or mobile data.
 3. Install the newest version from your store or the
-   [official download page](https://luckgram.me/download).
+   [official download page](https://luckgram.cc/download).
 4. If the device is almost full, free some space.
 5. Still failing? Report it through
    [Support and source code](support-and-source.md#reporting-a-problem) with the
@@ -50,7 +50,7 @@ such as quick replies and downloads may not be restored.
   unless the update is required.
 
 If the store shows nothing newer, check the
-[official download page](https://luckgram.me/download). Its APK is for Android
+[official download page](https://luckgram.cc/download). Its APK is for Android
 devices without Google Play. If Android will not install it over the store
 version, do not uninstall Luckgram; see “Before you reinstall Luckgram” above.
 

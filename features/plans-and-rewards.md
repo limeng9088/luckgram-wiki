@@ -43,6 +43,6 @@ longer represented a reliable current user promise.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
 [ATT program update](https://t.me/luckgramapp/1011) ·
-[Terms of Use](https://luckgram.me/terms-of-use) ·
-[Apple App Store](https://apps.apple.com/app/id1608870673) ·
-[Google Play](https://play.google.com/store/apps/details?id=app.luckgram)
+[Terms of Use](https://luckgram.cc/terms-of-use) ·
+[iOS build (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest) ·
+[Android APK (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)

@@ -16,7 +16,7 @@ Contract: brand-contract v1
 | available | live | User-facing clarity |
 | beta | coming soon | Beta can already be available to some users |
 | limited rollout | available to everyone | Honest distribution status |
-| `luckgram.me` | the retired public domain | Current public domain |
+| `luckgram.cc` | the retired public domain | Current public domain |
 
 Do not name private modules, internal services, feature flags, or backend routes in
 public pages.

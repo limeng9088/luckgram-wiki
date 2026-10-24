@@ -46,11 +46,11 @@ that status before explaining the feature.
 
 ## Official links
 
-- [Luckgram website](https://luckgram.me)
-- [Official downloads](https://luckgram.me/download)
-- [Privacy Policy](https://luckgram.me/privacy-policy)
-- [Terms of Use](https://luckgram.me/terms-of-use)
-- [Luckgram on GitHub](https://github.com/luckgram)
+- [Luckgram website](https://luckgram.cc)
+- [Official downloads](https://luckgram.cc/download)
+- [Privacy Policy](https://luckgram.cc/privacy-policy)
+- [Terms of Use](https://luckgram.cc/terms-of-use)
+- [Luckgram on GitHub](https://github.com/limeng9088)
 - [Community chat](https://t.me/luckgramchat)
 
 Product knowledge was reviewed against implementation and product documentation

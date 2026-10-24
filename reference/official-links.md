@@ -13,25 +13,25 @@ addresses.
 
 ## Where can I download Luckgram?
 
-- [Luckgram: AI for Telegram (App Store)](https://apps.apple.com/us/app/luckgram-ai-for-telegram/id1608870673)
+- [Luckgram for iOS (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest)
 - Luckgram IPA: [@luckgram_ipa](https://t.me/luckgram_ipa)
-- [Luckgram: AI x Dual Telegram (Google Play)](https://play.google.com/store/apps/details?id=app.luckgram)
-- [Luckgram Android APK (GitHub)](https://github.com/luckgram/Luckgram-Android/releases/latest/download/app.apk)
+- [Luckgram for Android (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)
+- [Luckgram Android APK (GitHub)](https://github.com/limeng9088/luckgram-android/releases/latest)
 - Luckgram APK: [@luckgram_apk](https://t.me/luckgram_apk)
 - [Luckgram Desktop for macOS](https://static.luckgram.cloud/desktop-versions/Luckgram+Desktop.dmg)
-- [Luckgram VR (Meta Quest)](https://github.com/luckgram/Luckgram-VR)
+- Luckgram VR (Meta Quest)
 
 ## How do I contact Luckgram support?
 
-- Support e-mail: <support@luckgram.me>
+- Support e-mail: <support@luckgram.cc>
 - Luckgram Support (person): [@luckgram_support_manager](https://t.me/luckgram_support_manager)
 
 ## Which websites are Luckgram's?
 
-- [luckgram.me](https://luckgram.me)
-- [Luckgram Hub](https://luckgram.me/hub)
-- [my.luckgram.me](https://my.luckgram.me)
-- [Luckgram Help Center](https://wiki.luckgram.me)
+- [luckgram.cc](https://luckgram.cc)
+- [Luckgram Hub](https://luckgram.cc/hub)
+- [my.luckgram.cc](https://my.luckgram.cc)
+- [Luckgram Help Center](https://wiki.luckgram.cc)
 
 ## Which Telegram channels and chats are official?
 
@@ -56,14 +56,14 @@ addresses.
 
 ## How do I advertise with Luckgram?
 
-- [Luckgram Ads (web)](https://ads.luckgram.me)
+- [Luckgram Ads (web)](https://ads.luckgram.cc)
 - Luckgram Advertisement: [@LuckgramAds](https://t.me/LuckgramAds)
 - Luckgram Ads Bot: [@NiceAdsBot](https://t.me/NiceAdsBot)
-- Advertising e-mail: <ads@luckgram.me>
+- Advertising e-mail: <ads@luckgram.cc>
 
 ## Where is Luckgram on social networks?
 
-- [Luckgram on GitHub](https://github.com/luckgram)
+- [Luckgram on GitHub](https://github.com/limeng9088)
 - [Luckgram on Facebook](https://www.facebook.com/luckgram.messenger)
 - [Luckgram on LinkedIn](https://www.linkedin.com/company/luckgramapp)
 - [Luckgram on YouTube](https://youtube.com/@luckgramapp)
@@ -72,7 +72,7 @@ addresses.
 
 ## Which other e-mail addresses does Luckgram use?
 
-- General contact e-mail: <contact@luckgram.me>
+- General contact e-mail: <contact@luckgram.cc>
 
 ## Where is Luckgram Business?
 

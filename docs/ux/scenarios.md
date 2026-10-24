@@ -259,7 +259,7 @@ retired feature are left out, and no answer that has expired is shown after the 
 ## SCR-032: Advertise a channel, group or bot on Luckgram
 
 **Given** a user wants to promote their channel, group, bot or project to Luckgram's audience, **when** they read
-[Quick answers](../../reference/quick-answers.md), **then** they find Luckgram Ads (@NiceAdsBot, ads.luckgram.me),
+[Quick answers](../../reference/quick-answers.md), **then** they find Luckgram Ads (@NiceAdsBot, ads.luckgram.cc),
 generated from the data room's decided fact. No hand-written page restates it, so "remove ads" questions keep their
 own answer.
 

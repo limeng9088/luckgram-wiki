@@ -47,6 +47,6 @@ separate Telegram conversation type with their own encryption and device behavio
 
 **Availability:** iOS and Android; exact labels and recovery behavior vary.
 
-**Sources:** [Official feature list](https://luckgram.me/features) ·
-[Official status labels](https://luckgram.me/download) ·
+**Sources:** [Official feature list](https://luckgram.cc/features) ·
+[Official status labels](https://luckgram.cc/download) ·
 [Telegram privacy FAQ](https://telegram.org/faq#privacy)

@@ -25,18 +25,18 @@ if rg -n 'luckgram[.]app' --glob '*.md' .; then
   exit 1
 fi
 
-test "$(tr -d '\r\n' < CNAME)" = "wiki.luckgram.me" || {
+test "$(tr -d '\r\n' < CNAME)" = "wiki.luckgram.cc" || {
   echo "unexpected CNAME" >&2
   exit 1
 }
 
 test ! -e .well-known/assetlinks.json || {
-  echo "Android association belongs on luckgram.me, not the Wiki host" >&2
+  echo "Android association belongs on luckgram.cc, not the Wiki host" >&2
   exit 1
 }
 
 test ! -e .well-known/apple-app-site-association || {
-  echo "Apple association belongs on luckgram.me, not the Wiki host" >&2
+  echo "Apple association belongs on luckgram.cc, not the Wiki host" >&2
   exit 1
 }
 

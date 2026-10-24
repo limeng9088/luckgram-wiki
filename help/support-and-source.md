@@ -6,15 +6,15 @@ description: Find official Luckgram support, policies, downloads, and source rep
 
 ## Product and support
 
-- Support by e-mail: [support@luckgram.me](mailto:support@luckgram.me)
+- Support by e-mail: [support@luckgram.cc](mailto:support@luckgram.cc)
 - Complex cases go to a person at [@luckgram_support_manager](https://t.me/luckgram_support_manager).
-- [Luckgram website](https://luckgram.me)
-- [Download Luckgram](https://luckgram.me/download)
-- [Luckgram FAQ](https://luckgram.me/faq)
+- [Luckgram website](https://luckgram.cc)
+- [Download Luckgram](https://luckgram.cc/download)
+- [Luckgram FAQ](https://luckgram.cc/faq)
 - [Community chat](https://t.me/luckgramchat)
 - [Official Telegram channel](https://t.me/luckgramapp)
-- [Privacy Policy](https://luckgram.me/privacy-policy)
-- [Terms of Use](https://luckgram.me/terms-of-use)
+- [Privacy Policy](https://luckgram.cc/privacy-policy)
+- [Terms of Use](https://luckgram.cc/terms-of-use)
 
 Community participants are not automatically Luckgram employees. Never share login
 codes, two-step passwords, exported account sessions, private keys, recovery
@@ -22,10 +22,10 @@ material, or remote-access control of your device.
 
 ## Public source
 
-- [Luckgram for iOS](https://github.com/luckgram/Luckgram-iOS)
-- [Luckgram for Android](https://github.com/luckgram/Luckgram-Android)
-- [Luckgram Desktop](https://github.com/luckgram/luckgram-desktop)
-- [Luckgram organization](https://github.com/luckgram)
+- [Luckgram for iOS](https://github.com/limeng9088/luckgram-ios)
+- [Luckgram for Android](https://github.com/limeng9088/luckgram-android)
+- Luckgram Desktop
+- [Luckgram organization](https://github.com/limeng9088)
 
 Luckgram is built from open-source Telegram clients and adds platform-specific
 code. Some product integrations are not present in the public checkout, so public
@@ -45,4 +45,4 @@ Include:
 
 For source-code issues, use the relevant repository’s issue tracker when enabled.
 For account, billing, wallet, or private-data problems, write to
-[support@luckgram.me](mailto:support@luckgram.me), also when the app does not open.
+[support@luckgram.cc](mailto:support@luckgram.cc), also when the app does not open.

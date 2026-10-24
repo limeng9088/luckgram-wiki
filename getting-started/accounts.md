@@ -181,8 +181,8 @@ restore deleted messages. Follow only the options visible in your installed buil
 **Sources:** [Account-shop announcement](https://t.me/luckgramapp/1015) ·
 [Country selection](https://t.me/luckgramapp/1023) ·
 [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
-[Android source](https://github.com/luckgram/Luckgram-Android)
+[iOS source](https://github.com/limeng9088/luckgram-ios) ·
+[Android source](https://github.com/limeng9088/luckgram-android)
 
 ## Can I get back deleted messages, chats or files?
 

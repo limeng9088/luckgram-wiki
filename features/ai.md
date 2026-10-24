@@ -35,7 +35,7 @@ not promise a specific model name unless the active product surface identifies i
 Prompts and any context you deliberately include can be processed by Luckgram and a
 selected model provider to return the result. Do not assume that opening an AI
 action submits an entire chat, but always review the current screen and
-[Privacy Policy](https://luckgram.me/privacy-policy) before sending sensitive text.
+[Privacy Policy](https://luckgram.cc/privacy-policy) before sending sensitive text.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://luckgram.me/privacy-policy)
+[Privacy Policy](https://luckgram.cc/privacy-policy)

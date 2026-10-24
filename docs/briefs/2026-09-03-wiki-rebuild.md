@@ -20,8 +20,8 @@ is available, and what can prevent it from appearing.
 
 | Source | Use | Authority | Contradictions |
 |---|---|---|---|
-| `https://luckgram.me` | Current public product language and canonical domain | Public | Some older privacy and feature copy is broader than store or code evidence |
-| `https://luckgram.me/download` | Live/beta labels and official download links | Public | “Unlimited” is implemented with platform-specific practical limits |
+| `https://luckgram.cc` | Current public product language and canonical domain | Public | Some older privacy and feature copy is broader than store or code evidence |
+| `https://luckgram.cc/download` | Live/beta labels and official download links | Public | “Unlimited” is implemented with platform-specific practical limits |
 | Apple App Store and Google Play | Current distribution and store disclosures | Public | Store privacy disclosures contradict the retired Wiki’s “no personal data” claim |
 | `luckgram/Luckgram-iOS` | iOS source and build requirements | Public source | Private feature packages limit implementation visibility |
 | `luckgram/Luckgram-Android` | Android source and build requirements | Public source | A private composite build limits implementation visibility |
@@ -39,7 +39,7 @@ guarantee.
 | REQ-01 | Remove the old market, token, earning, and vision Wiki | `git ls-files` and `SUMMARY.md` contain no retired content pages |
 | REQ-02 | Publish a task-oriented feature catalog | Every supported feature family appears in `features/README.md` and navigation |
 | REQ-03 | Explain purpose, operation, availability, and limitations | Documentation structure check |
-| REQ-04 | Use `luckgram.me` for current public Luckgram links | repository-wide link scan |
+| REQ-04 | Use `luckgram.cc` for current public Luckgram links | repository-wide link scan |
 | REQ-05 | Do not present source-only or beta work as generally available | status labels and source review |
 | REQ-06 | Add voice, terminology, facts, UX foundation, and scenarios | required authoring files exist |
 | REQ-07 | Update public iOS, Android, Desktop, and organization descriptions | README diff and GitHub metadata check |

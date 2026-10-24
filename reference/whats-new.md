@@ -156,4 +156,4 @@ have changed since; [Quick answers](quick-answers.md) says what is current.
 
 ## What's new in Luckgram for Android?
 
-[Google Play](https://play.google.com/store/apps/details?id=app.luckgram) has no “What's new” text for Luckgram's Android releases.
+[Android APK (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest) has no “What's new” text for Luckgram's Android releases.

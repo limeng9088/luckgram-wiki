@@ -86,8 +86,8 @@ your call. Treat the saved audio as sensitive content and check where it was sen
 **Availability:** video-message conversion on iOS and Android; call recording on
 iOS in current evidence. Other platforms are not confirmed.
 
-**Sources:** [Official status labels](https://luckgram.me/download) ·
-[Terms of Use](https://luckgram.me/terms-of-use) ·
-[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
+**Sources:** [Official status labels](https://luckgram.cc/download) ·
+[Terms of Use](https://luckgram.cc/terms-of-use) ·
+[iOS source](https://github.com/limeng9088/luckgram-ios) ·
 [Evidence ledger, October 13](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
 [Evidence ledger: stories](../docs/evidence/help-telegram-basics-2026-10-13.md)

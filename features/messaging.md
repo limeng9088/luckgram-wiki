@@ -47,9 +47,9 @@ external content and verify the destination before signing in or connecting a wa
 **Availability:** primarily iOS and Android; individual actions vary by platform,
 chat type, permissions, and version.
 
-**Sources:** [Luckgram FAQ](https://luckgram.me/faq) ·
-[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
-[Android source](https://github.com/luckgram/Luckgram-Android)
+**Sources:** [Luckgram FAQ](https://luckgram.cc/faq) ·
+[iOS source](https://github.com/limeng9088/luckgram-ios) ·
+[Android source](https://github.com/limeng9088/luckgram-android)
 
 ## Where are my stickers, and how do I get them back?
 

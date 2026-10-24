@@ -52,4 +52,4 @@ not a verified fix. A reported fix in an older version does not establish the
 status of a new regression.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://luckgram.me/privacy-policy)
+[Privacy Policy](https://luckgram.cc/privacy-policy)

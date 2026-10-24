@@ -40,9 +40,9 @@ service by itself.
 **Availability:** Telegram ID and RegDate are visible in supported iOS and Android
 builds. Keyword folders and individual interface controls can be limited by rollout.
 
-**Sources:** [Luckgram features](https://luckgram.me/features) ·
-[iOS source](https://github.com/luckgram/Luckgram-iOS) ·
-[Android source](https://github.com/luckgram/Luckgram-Android)
+**Sources:** [Luckgram features](https://luckgram.cc/features) ·
+[iOS source](https://github.com/limeng9088/luckgram-ios) ·
+[Android source](https://github.com/limeng9088/luckgram-android)
 
 ## How do I change my username?
 
