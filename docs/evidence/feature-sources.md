@@ -7,7 +7,7 @@ source list is preferable to repeating implementation details.
 
 - [Luckgram](https://luckgram.cc)
 - [Features](https://luckgram.cc/features)
-- [Download and availability](https://luckgram.cc/download)
+- [Download and availability](https://wiki.luckgram.cc/getting-started/install.html)
 - [FAQ](https://luckgram.cc/faq)
 - [Privacy Policy](https://luckgram.cc/privacy-policy)
 - [Terms of Use](https://luckgram.cc/terms-of-use)

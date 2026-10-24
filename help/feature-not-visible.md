@@ -10,7 +10,7 @@ buying a subscription does not restore a retired feature. Otherwise check these
 causes in order.
 
 1. **Platform:** confirm the feature page lists iOS, Android, or Desktop.
-2. **Version:** update from the [official download page](https://luckgram.cc/download).
+2. **Version:** update from the [official download page](https://wiki.luckgram.cc/getting-started/install.html).
 3. **Plan or balance:** check whether the action requires Premium, Premium+, Gems,
    or another usage allowance.
 4. **Region or store:** legal and distribution rules can hide a feature.

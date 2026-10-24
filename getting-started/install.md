@@ -4,8 +4,8 @@ description: Use the current official Luckgram download links for iOS, Android, 
 
 # How do I install Luckgram?
 
-Start from the [official Luckgram download page](https://luckgram.cc/download). It
-is the canonical route when a store or package link changes.
+Luckgram is distributed through GitHub Releases. The links below always point to
+the latest build.
 
 ## iPhone and iPad
 

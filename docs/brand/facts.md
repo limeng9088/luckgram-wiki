@@ -8,7 +8,7 @@ from availability in a shipped app. Existing voice and terminology are retained.
 | Fact | Value | Source | Checked | Review by | Public |
 |---|---|---|---|---|---|
 | product | Independent Telegram client | [Public iOS source](https://github.com/limeng9088/luckgram-ios) | 2026-10-10 | 2026-11-10 | yes |
-| official download route | luckgram.cc/download | [Download](https://luckgram.cc/download) | 2026-10-10 | 2026-10-17 | yes |
+| official download route | wiki.luckgram.cc/getting-started/install.html | [Install](https://wiki.luckgram.cc/getting-started/install.html) | 2026-10-10 | 2026-10-17 | yes |
 | wallet financial functions | Retired; old create/send/swap/dApp instructions are not current | Wallet update, operator correction 2026-10-10 | 2026-10-10 | 2026-11-10 | yes |
 | wallet-linked access | Historical sign-in is separate from a financial wallet; recovery not guaranteed | Wallet update | 2026-10-10 | 2026-11-10 | yes |
 | account shop | Public purchase and country-selection flow; no stock or universal subscription benefit promised | Country selection | 2026-10-10 | 2026-10-17 | yes |

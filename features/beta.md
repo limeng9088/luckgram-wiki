@@ -38,6 +38,6 @@ public feature parity have not been verified. They are not marked Available.
 
 If a beta feature is absent, use the [availability checklist](../help/feature-not-visible.md).
 
-**Sources:** [Official beta labels](https://luckgram.cc/download) ·
+**Sources:** [Official beta labels](https://wiki.luckgram.cc/getting-started/install.html) ·
 [Luckgram feature list](https://luckgram.cc/features) ·
 Luckgram Desktop source

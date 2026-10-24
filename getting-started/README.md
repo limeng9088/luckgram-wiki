@@ -20,5 +20,5 @@ Never share a Telegram login code, two-step verification password, wallet passwo
 or recovery material with another person, including someone claiming to be
 Luckgram support.
 
-**Sources:** [Official download page](https://luckgram.cc/download) ·
+**Sources:** [Official download page](https://wiki.luckgram.cc/getting-started/install.html) ·
 [Telegram account security](https://telegram.org/faq#q-what-if-someone-pretends-to-be-me)

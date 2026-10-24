@@ -8,7 +8,7 @@ description: Find official Luckgram support, policies, downloads, and source rep
 
 - Support by e-mail: [support@luckgram.cc](mailto:support@luckgram.cc)
 - [Luckgram website](https://luckgram.cc)
-- [Download Luckgram](https://luckgram.cc/download)
+- [Download Luckgram](https://wiki.luckgram.cc/getting-started/install.html)
 - [Luckgram FAQ](https://luckgram.cc/faq)
 - [Privacy Policy](https://luckgram.cc/privacy-policy)
 - [Terms of Use](https://luckgram.cc/terms-of-use)

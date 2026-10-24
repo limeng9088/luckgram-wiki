@@ -21,7 +21,7 @@ is available, and what can prevent it from appearing.
 | Source | Use | Authority | Contradictions |
 |---|---|---|---|
 | `https://luckgram.cc` | Current public product language and canonical domain | Public | Some older privacy and feature copy is broader than store or code evidence |
-| `https://luckgram.cc/download` | Live/beta labels and official download links | Public | “Unlimited” is implemented with platform-specific practical limits |
+| `https://wiki.luckgram.cc/getting-started/install.html` | Live/beta labels and official download links | Public | “Unlimited” is implemented with platform-specific practical limits |
 | Apple App Store and Google Play | Current distribution and store disclosures | Public | Store privacy disclosures contradict the retired Wiki’s “no personal data” claim |
 | `luckgram/Luckgram-iOS` | iOS source and build requirements | Public source | Private feature packages limit implementation visibility |
 | `luckgram/Luckgram-Android` | Android source and build requirements | Public source | A private composite build limits implementation visibility |
