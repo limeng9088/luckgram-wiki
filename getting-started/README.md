@@ -1,4 +1,5 @@
 ---
+permalink: /getting-started/
 description: Install Luckgram, sign in with Telegram, and understand which features your platform supports.
 ---
 

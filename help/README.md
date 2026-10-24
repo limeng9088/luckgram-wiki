@@ -1,4 +1,5 @@
 ---
+permalink: /help/
 description: Diagnose missing features, review privacy guidance, and contact official Luckgram support.
 ---
 

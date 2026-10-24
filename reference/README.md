@@ -1,4 +1,5 @@
 ---
+permalink: /reference/
 description: Quick answers, release notes and official links for Luckgram.
 generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23

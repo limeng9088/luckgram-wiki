@@ -1,4 +1,5 @@
 ---
+permalink: /
 description: Learn what Luckgram adds to Telegram, where each feature is available, and how to use it safely.
 ---
 

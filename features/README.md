@@ -1,4 +1,5 @@
 ---
+permalink: /features/
 description: A complete, status-aware index of documented Luckgram features.
 ---
 
