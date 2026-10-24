@@ -20,15 +20,23 @@ and messaging service; Luckgram provides the client and its additional features.
 - [Browse every documented feature](features/README.md)
 - [Fix a feature that is missing](help/feature-not-visible.md)
 
-## Core Luckgram additions
+## What Luckgram offers
 
-- More Telegram accounts in one app, with platform-specific practical limits.
+Available now (standard Telegram features):
+
+- Your Telegram chats, channels, groups, calls, Stories, and Secret Chats.
+- Up to 3 Telegram accounts in one app (4 with Telegram Premium).
+- Translation of incoming messages.
+
+In development (see each feature page for the planned behavior):
+
+- More accounts in one app, and account import/export.
 - Hidden chats and accounts through Double Bottom.
-- Quick replies and message actions for repetitive conversations.
-- Incoming and outgoing message translation.
-- Speech-to-text and media conveniences on supported mobile builds.
+- Quick replies and extra message actions.
+- Translation before sending, and speech-to-text without Premium.
 - Sending an existing video as a Telegram video message.
-- Call recording on supported iOS builds, with consent requirements.
+- Call recording, with consent requirements.
+- Luckgram AI, plans, and rewards.
 
 AI, agent, account-shop, and payment features can depend on the app version,
 platform, subscription, region, account, or staged rollout. Their pages always show
@@ -51,7 +59,6 @@ that status before explaining the feature.
 - [Privacy Policy](https://luckgram.cc/privacy-policy)
 - [Terms of Use](https://luckgram.cc/terms-of-use)
 - [Luckgram on GitHub](https://github.com/limeng9088)
-- [Community chat](https://t.me/luckgramchat)
 
 Product knowledge was reviewed against implementation and product documentation
 on **October 10, 2026**. Source presence is not proof of availability in every

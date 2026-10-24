@@ -28,16 +28,14 @@ it for updates.
 
 ## macOS
 
-Use the macOS download offered on the
-[official download page](https://luckgram.cc/download). Desktop feature parity is
-not the same as mobile feature parity; check the [availability guide](availability.md).
+> **Not available.** There is no Luckgram app for macOS or other desktops yet. Use
+> [Telegram Desktop](https://desktop.telegram.org) with the same account in the meantime.
 
 ## Source builds
 
 Developers can inspect or build the public clients from
-[Luckgram for iOS](https://github.com/limeng9088/luckgram-ios),
-[Luckgram for Android](https://github.com/limeng9088/luckgram-android), and
-Luckgram Desktop. A source build is
-not an official store release and can require private configuration or dependencies.
+[Luckgram for iOS](https://github.com/limeng9088/luckgram-ios) and
+[Luckgram for Android](https://github.com/limeng9088/luckgram-android). A source build is
+not an official release and needs your own Telegram API credentials and signing setup.
 
 **Verified:** September 3, 2026.

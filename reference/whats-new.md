@@ -134,21 +134,21 @@ have changed since; [Quick answers](quick-answers.md) says what is current.
   - Ultimate profile picture privacy. You can set 'Who can see my profile photos' to 'Nobody' and add some users or groups as exceptions. Hiding Members in Large Groups
   - Member list privacy. Owners of large groups can hide the list of members.
 - **1.1.7** (December 26, 2022): Thank you for using our app! We are constantly working to improve the app and bring you new features. This update includes fixes for issues reported by our Luckgram community, including improved stability and the resolution of app crashes. Thank you for your continued support and please keep sending us your feedback!
-- **1.1.6** (November 26, 2022): Updated to the Telegram Version, 9.2.1 as well as bug fixes. Enjoy! <https://t.me/luckgramapp>
-- **Versions 1.1.4 to 1.1.5** (2 releases, October 2022 to November 2022): Hey! We've fixed minor bugs. Enjoy! <https://t.me/luckgramapp>
+- **1.1.6** (November 26, 2022): Updated to the Telegram Version, 9.2.1 as well as bug fixes. Enjoy!
+- **Versions 1.1.4 to 1.1.5** (2 releases, October 2022 to November 2022): Hey! We've fixed minor bugs. Enjoy!
 - **1.1.3** (September 13, 2022):
   - Meet Double Bottom! A new way to keep your personal data safe in the messenger. Double Bottom is an in-chat data protection tool that allows you to create a secret account for yourself and select it as "Double bottom," which will keep your main accounts safe from discovery.
-  - Download user and channel profile images via long tap <https://t.me/luckgramapp>
+  - Download user and channel profile images via long tap
 - **1.1.2** (August 16, 2022):
   - Fixed bugs and crashes you encountered in the previous update
   - Quick access to the account deletion function
   - The latest update of the official Telegram has already been added
   - Improved message and media cache settings for better performance
   - Added quick replies from templates
-  - Translator of the sent message Luckgram by following us in our telegram channel: <https://t.me/luckgramapp>
-- **1.1.1** (July 12, 2022): We are super excited to announce our first business integration eSIM! This means you can now use mobile internet anywhere in the world. Check out what else is going on with Luckgram by following us in our telegram channel: <https://t.me/luckgramapp>
-- **Versions 1.0.3 to 1.0.7** (5 releases, April 2022 to May 2022): Fixed bugs and crashes, improved stability. Subscribe to our Telegram channel to receive the latest information from the Luckgram team! <https://t.me/luckgramapp>
-- **1.0.2** (March 23, 2022): In this version bugs and crashes were fixed, the problem with the color of the folders panel was fixed, the Skip History setting works again! Subscribe to our Telegram channel to receive the latest information from the Luckgram team! <https://t.me/luckgramapp>
+  - Translator of the sent message Luckgram by following us in our telegram channel
+- **1.1.1** (July 12, 2022): We are super excited to announce our first business integration eSIM! This means you can now use mobile internet anywhere in the world. Check out what else is going on with Luckgram by following us in our telegram channel
+- **Versions 1.0.3 to 1.0.7** (5 releases, April 2022 to May 2022): Fixed bugs and crashes, improved stability. Subscribe to our Telegram channel to receive the latest information from the Luckgram team!
+- **1.0.2** (March 23, 2022): In this version bugs and crashes were fixed, the problem with the color of the folders panel was fixed, the Skip History setting works again! Subscribe to our Telegram channel to receive the latest information from the Luckgram team!
 - **1.0.1** (March 14, 2022):
   - New Telegram features now available in Luckgram!
   - Fixed bug with annoying notifications.

@@ -4,6 +4,8 @@ description: See which Luckgram features are beta or limited rollout and what th
 
 # Which Luckgram features are beta or limited rollout?
 
+> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+
 Beta features can change, disappear, reset data, or have narrower eligibility than
 generally available messaging tools. A feature listed here is not a promise that it
 will appear on every account.

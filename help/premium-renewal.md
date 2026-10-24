@@ -4,6 +4,8 @@ description: When Luckgram Premium renews or expires, and where the App Store or
 
 # When does my Luckgram Premium renew or expire? Where is the expiration date?
 
+> **In development.** Luckgram Premium does not exist yet. For Telegram Premium, see your App Store or Google Play subscriptions.
+
 If you subscribed in the App Store or Google Play, the store's subscriptions
 list shows it:
 

@@ -9,6 +9,8 @@ forwarding, saving, selecting, and replying to messages.
 
 ## Quick replies
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Quick replies are reusable text templates stored for a Luckgram account.
 
 1. Create or edit templates in Luckgram settings or from the quick-reply surface.
@@ -21,12 +23,16 @@ Telegram client.
 
 ## Anonymous forwarding and forward as copy
 
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+
 Where available, this action sends the content as a new message or copy instead of
 preserving the normal “Forwarded from” attribution. Review media captions and
 embedded links before sending; removing attribution does not grant permission to
 republish someone else’s content.
 
 ## Direct save and reply privately
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
 
 - **Direct Save to Messages** shortens the path for sending selected content to
   Saved Messages.
@@ -35,11 +41,15 @@ republish someone else’s content.
 
 ## Bulk selection and extra actions
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Supported mobile builds add selection or context-menu actions such as selecting
 messages by author, copying or saving variants, and moderation shortcuts. Available
 actions depend on chat type and your permissions.
 
 ## Clickable profile links
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
 
 Supported links in a profile bio can open directly. Treat unfamiliar links as
 external content and verify the destination before signing in or connecting a wallet.
@@ -52,6 +62,8 @@ chat type, permissions, and version.
 [Android source](https://github.com/limeng9088/luckgram-android)
 
 ## Where are my stickers, and how do I get them back?
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
 Sticker sets you add are saved to your Telegram account, not to the phone, so
 they come back on every device where you sign in to that account. Each account

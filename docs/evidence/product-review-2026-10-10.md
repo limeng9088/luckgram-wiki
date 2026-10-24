@@ -8,9 +8,9 @@ excluded from this ledger.
 
 ## Corrections
 
-- Wallet financial functionality is retired: [public update](https://t.me/luckgramapp/1017). Historical sign-in is separate.
-- [ATT update](https://t.me/luckgramapp/1011): old earning instructions are not a current reward promise.
-- [Account shop](https://t.me/luckgramapp/1015) and [country selection](https://t.me/luckgramapp/1023) have public announcements; stock and entitlement still require a current check.
+- Wallet financial functionality is retired: public update. Historical sign-in is separate.
+- ATT update: old earning instructions are not a current reward promise.
+- Account shop and country selection have public announcements; stock and entitlement still require a current check.
 - HyperLancer: operator-approved holding statement on October 10 says work on a relaunch is underway. No date, escrow availability or payment guarantee is approved.
 
 ## Public implementation references

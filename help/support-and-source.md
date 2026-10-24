@@ -7,12 +7,9 @@ description: Find official Luckgram support, policies, downloads, and source rep
 ## Product and support
 
 - Support by e-mail: [support@luckgram.cc](mailto:support@luckgram.cc)
-- Complex cases go to a person at [@luckgram_support_manager](https://t.me/luckgram_support_manager).
 - [Luckgram website](https://luckgram.cc)
 - [Download Luckgram](https://luckgram.cc/download)
 - [Luckgram FAQ](https://luckgram.cc/faq)
-- [Community chat](https://t.me/luckgramchat)
-- [Official Telegram channel](https://t.me/luckgramapp)
 - [Privacy Policy](https://luckgram.cc/privacy-policy)
 - [Terms of Use](https://luckgram.cc/terms-of-use)
 
@@ -24,7 +21,6 @@ material, or remote-access control of your device.
 
 - [Luckgram for iOS](https://github.com/limeng9088/luckgram-ios)
 - [Luckgram for Android](https://github.com/limeng9088/luckgram-android)
-- Luckgram Desktop
 - [Luckgram organization](https://github.com/limeng9088)
 
 Luckgram is built from open-source Telegram clients and adds platform-specific

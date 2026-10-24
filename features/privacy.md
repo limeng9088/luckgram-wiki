@@ -4,6 +4,8 @@ description: Hide selected Luckgram accounts or chats and understand what these 
 
 # How do Luckgram privacy controls work?
 
+> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+
 Luckgram adds controls that reduce what appears in the normal app interface. They
 are useful when several people can see or temporarily handle your device, but they
 do not replace device security or Telegram’s account protections.

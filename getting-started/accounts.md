@@ -10,6 +10,8 @@ account’s chats and settings separate.
 
 ## Add an account
 
+> **Telegram limit applies.** Luckgram currently allows the standard Telegram number of accounts (3, or 4 with Telegram Premium). Support for more accounts is in development.
+
 1. Open **Settings**.
 2. Open the account switcher or choose **Add Account**.
 3. Enter the phone number attached to the Telegram account.
@@ -113,6 +115,8 @@ before signing up again. For other registration problems, Telegram points to its
 
 ## Back up, import, or export accounts
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Supported mobile builds expose Luckgram account-transfer tools. On iOS 15 or
 later they are in **Luckgram Settings → Accounts**: **iCloud Backup**, **Import
 from iCloud**, **Import from File** and **Export as File**. Android builds offer
@@ -128,6 +132,8 @@ To keep an account out of the normal app surface, use
 exported session with another device.
 
 ## Telegram Sessions and Account Shop
+
+> **Under review.** This is not part of Luckgram and is not scheduled.
 
 Where available, open **Telegram Sessions → Buy Account**, choose from the
 currently offered countries or **Any country**, and review the purchase. Country
@@ -178,8 +184,8 @@ chat-export action can turn accessible messages for the offered period into a
 Markdown document. That document is not a complete media archive and cannot
 restore deleted messages. Follow only the options visible in your installed build.
 
-**Sources:** [Account-shop announcement](https://t.me/luckgramapp/1015) ·
-[Country selection](https://t.me/luckgramapp/1023) ·
+**Sources:** Account-shop announcement ·
+Country selection ·
 [Product review](../docs/evidence/product-review-2026-10-10.md) ·
 [iOS source](https://github.com/limeng9088/luckgram-ios) ·
 [Android source](https://github.com/limeng9088/luckgram-android)

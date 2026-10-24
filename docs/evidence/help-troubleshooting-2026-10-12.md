@@ -53,7 +53,7 @@ core.telegram.org/api/config, /api/rights, /api/auth, /method/channels.joinChann
 |---|---|---|
 | help/app-problems.md | A reinstall means signing in to each account again, including Double Bottom accounts | [features/privacy.md § Double Bottom](../../features/privacy.md) (hidden accounts are signed-in Telegram accounts) · iOS strings:3141-3142 |
 |  | Back up or export accounts first; menu Luckgram Settings → Accounts (iCloud Backup, Import from iCloud, Import from File, Export as File), all gated to iOS 15+ (NiceLocalizable.strings:237-242, LuckgramSettingsController.swift:616-618); Android import/export (label in a private module); a locked app cannot export; Import from iCloud only if iCloud Backup was on before | LuckgramSettingsController.swift:474-532 · AccountsExportHelper.kt · dataroom feature record `sessions-backup` (how_to) · [accounts.md § Back up, import, or export accounts](../../getting-started/accounts.md) |
-|  | Bought or imported accounts may use a number you do not control; contact support before deleting; no sign-out as generic repair | [accounts.md § Telegram Sessions and Account Shop](../../getting-started/accounts.md) (“Do not delete sessions or sign out as a generic repair”) · scenario SCR-011 · [Account-shop announcement](https://t.me/luckgramapp/1015) |
+|  | Bought or imported accounts may use a number you do not control; contact support before deleting; no sign-out as generic repair | [accounts.md § Telegram Sessions and Account Shop](../../getting-started/accounts.md) (“Do not delete sessions or sign out as a generic repair”) · scenario SCR-011 · Account-shop announcement |
 |  | Didn’t get the code? → Get the code via SMS | iOS strings:427 · iOS strings:3874 |
 |  | Forgotten two-step password: recovery email | [Telegram FAQ: two-step verification](https://telegram.org/faq#q-how-does-2-step-verification-work) |
 |  | APK only for devices without Google Play | [getting-started/install.md:18-20](../../getting-started/install.md) (“When Google Play is unavailable …”) |
@@ -63,7 +63,7 @@ core.telegram.org/api/config, /api/rights, /api/auth, /method/channels.joinChann
 | help/groups-and-channels.md | Not joined: the message field shows Join / Join Group | iOS strings:1626 · iOS strings:7648 · Android strings:522 |
 | getting-started/accounts.md | Telegram may ask for an email address at sign-up | iOS strings:8117-8121 · [Telegram API: email verification](https://core.telegram.org/api/auth#email-verification) |
 |  | On an account bought through Account Shop, contact support first if unsure before ending sessions (the shop owner confirms current client behaviour) | [accounts.md § Telegram Sessions and Account Shop](../../getting-started/accounts.md) · scenario SCR-011 |
-| getting-started/availability.md | Former wallet and dApps: no longer offered on any platform | [features/wallet.md](../../features/wallet.md) · [docs/brand/facts.md](../brand/facts.md) (wallet financial functions retired) · [Wallet update](https://t.me/luckgramapp/1017) |
+| getting-started/availability.md | Former wallet and dApps: no longer offered on any platform | [features/wallet.md](../../features/wallet.md) · [docs/brand/facts.md](../brand/facts.md) (wallet financial functions retired) · Wallet update |
 
 ## Lost phone or SIM card (W4-P2, 2026-10-12)
 

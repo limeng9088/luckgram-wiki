@@ -4,6 +4,8 @@ description: The former Luckgram in-app wallet is retired. Find help with histor
 
 # Where is the Luckgram wallet?
 
+> **Not in Luckgram.** Luckgram has no wallet and never had one. The text below is kept for reference only.
+
 The former in-app wallet financial functionality is no longer available in
 Luckgram. Older instructions for creating a wallet, sending assets, swaps, NFTs
 inside the wallet, or connecting dApps do not describe the current app.
@@ -28,4 +30,4 @@ reversal of a transaction cannot be promised.
 
 **Status:** retired financial feature; reviewed October 10, 2026.
 
-**Source:** [Luckgram wallet update](https://t.me/luckgramapp/1017).
+**Source:** Luckgram wallet update.

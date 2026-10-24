@@ -4,6 +4,8 @@ description: Understand Luckgram subscriptions, usage credits, Gems, and referra
 
 # How do plans, Gems, and referrals work?
 
+> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+
 Luckgram can gate features through a subscription, a usage balance, or both. The
 price and included features shown in your current store and purchase screen are
 authoritative because plans differ by platform, country, currency, and time.
@@ -42,7 +44,7 @@ The previous Scroll-to-Earn and Wallet-to-Earn guides were removed because they 
 longer represented a reliable current user promise.
 
 **Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[ATT program update](https://t.me/luckgramapp/1011) ·
+ATT program update ·
 [Terms of Use](https://luckgram.cc/terms-of-use) ·
 [iOS build (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest) ·
 [Android APK (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)

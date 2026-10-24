@@ -4,6 +4,8 @@ description: Understand Luckgram AI tools, eligibility, data use, and result lim
 
 # How does Luckgram AI work?
 
+> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+
 Luckgram AI adds assistant and content actions to eligible app surfaces. Depending
 on the current build, these can include answering prompts, explaining a topic,
 summarizing selected chat context, drafting or rewriting text, and invoking an

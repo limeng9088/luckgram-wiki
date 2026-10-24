@@ -49,11 +49,11 @@ Luckgram has been installed more than 57 million times on iPhone, iPad and Andro
 
 ## Where do I download Luckgram?
 
-Download Luckgram for iPhone and iPad from GitHub Releases (<https://github.com/limeng9088/luckgram-ios/releases/latest>), for Android from GitHub Releases (<https://github.com/limeng9088/luckgram-android/releases/latest>) or as an APK from GitHub (<https://github.com/limeng9088/luckgram-android/releases/latest>), and Luckgram Desktop for macOS from the website <https://luckgram.cc>. Official Luckgram places: the website <https://luckgram.cc>, the channel <https://t.me/luckgramapp>, the community chat <https://t.me/luckgramchat>, and <https://t.me/LuckgramNavigation>, which lists all official chats and channels.
+Download Luckgram for iPhone and iPad from GitHub Releases (<https://github.com/limeng9088/luckgram-ios/releases/latest>), for Android from GitHub Releases (<https://github.com/limeng9088/luckgram-android/releases/latest>) or as an APK from GitHub (<https://github.com/limeng9088/luckgram-android/releases/latest>). The official Luckgram website is <https://luckgram.cc>. Luckgram has no official Telegram channels, chats, or bots yet. Do not trust accounts that claim to be Luckgram; contact <support@luckgram.cc> to check.
 
 ## Which Luckgram website and Telegram channels are official?
 
-Official Luckgram places: website <https://luckgram.cc>, community chat <https://t.me/luckgramchat>, official Telegram channel <https://t.me/luckgramapp>.
+The official Luckgram website is <https://luckgram.cc>. Luckgram has no official Telegram channels, chats, or bots yet. Do not trust accounts that claim to be Luckgram; contact <support@luckgram.cc> to check.
 
 ## How do I change the language of the app?
 
@@ -73,11 +73,11 @@ Luckgram app support by e-mail: <support@luckgram.cc>.
 
 ## How do I reach a person at Luckgram support?
 
-For something bought in Luckgram (Account Shop, Telegram Sessions), or an unusual problem nothing else covers, write to a person at Luckgram support in Telegram: @luckgram_support_manager (<https://t.me/luckgram_support_manager>).
+For something bought in Luckgram (Account Shop, Telegram Sessions), or an unusual problem nothing else covers, write to Luckgram support at <support@luckgram.cc>.
 
 ## How do I advertise my channel or project on Luckgram?
 
-To promote your channel, group, bot or project to Luckgram's audience, use Luckgram's ad platform: the bot @NiceAdsBot (<https://t.me/NiceAdsBot>) or the website <https://ads.luckgram.cc>.
+To promote your channel, group, bot or project to Luckgram's audience, write to <ads@luckgram.cc>.
 
 ## Why didn't my login code arrive?
 
@@ -133,7 +133,7 @@ Luckgram is free to download. A Luckgram Premium subscription unlocks additional
 
 ## How do I cancel a subscription or ask for a refund?
 
-Luckgram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to a person at Luckgram support in Telegram: @luckgram_support_manager (<https://t.me/luckgram_support_manager>). A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
+Luckgram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to Luckgram support at <support@luckgram.cc>. A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
 
 ## Why does my free trial show no active subscription?
 

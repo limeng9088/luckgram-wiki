@@ -9,17 +9,23 @@ standard Telegram interface.
 
 ## Telegram ID
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 **Show ID** displays the numeric Telegram identifier for a supported user, chat, or
 channel surface. An ID is useful for support and integrations, but it is not proof
 that a person controls or officially represents an account.
 
 ## Registration date estimate
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 **RegDate** estimates when a Telegram account was registered. The result is derived
 from known reference points and can be approximate; it is not a Telegram-issued
 identity or trust certificate.
 
 ## Keyword folders
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
 
 Where enabled, keyword folders help surface or organize conversations around
 configured terms. Matching can depend on the active rollout and the content the
@@ -28,10 +34,14 @@ it for confidential work.
 
 ## Remember the last folder
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Supported builds can reopen the chat folder you last used instead of returning to a
 default list.
 
 ## Hide unused tabs and floating tools
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
 
 Luckgram settings can hide selected tabs or a floating in-chat menu. Hiding a tab
 changes navigation; it does not delete the associated data or turn off a backend
@@ -45,6 +55,8 @@ builds. Keyword folders and individual interface controls can be limited by roll
 [Android source](https://github.com/limeng9088/luckgram-android)
 
 ## How do I change my username?
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
 A username is the public name of your Telegram account. It is optional: anyone
 who finds you by it can write to you by your username alone.
@@ -77,6 +89,8 @@ taken, Telegram can help through @Username_bot.
 **Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
 
 ## How do I get a verification checkmark?
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
 Only Telegram gives the official verification badge (a checkmark), and Luckgram
 cannot add one. A different badge next to a name can be the Telegram Premium

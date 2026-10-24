@@ -9,12 +9,12 @@ from availability in a shipped app. Existing voice and terminology are retained.
 |---|---|---|---|---|---|
 | product | Independent Telegram client | [Public iOS source](https://github.com/limeng9088/luckgram-ios) | 2026-10-10 | 2026-11-10 | yes |
 | official download route | luckgram.cc/download | [Download](https://luckgram.cc/download) | 2026-10-10 | 2026-10-17 | yes |
-| wallet financial functions | Retired; old create/send/swap/dApp instructions are not current | [Wallet update](https://t.me/luckgramapp/1017), operator correction 2026-10-10 | 2026-10-10 | 2026-11-10 | yes |
-| wallet-linked access | Historical sign-in is separate from a financial wallet; recovery not guaranteed | [Wallet update](https://t.me/luckgramapp/1017) | 2026-10-10 | 2026-11-10 | yes |
-| account shop | Public purchase and country-selection flow; no stock or universal subscription benefit promised | [Country selection](https://t.me/luckgramapp/1023) | 2026-10-10 | 2026-10-17 | yes |
+| wallet financial functions | Retired; old create/send/swap/dApp instructions are not current | Wallet update, operator correction 2026-10-10 | 2026-10-10 | 2026-11-10 | yes |
+| wallet-linked access | Historical sign-in is separate from a financial wallet; recovery not guaranteed | Wallet update | 2026-10-10 | 2026-11-10 | yes |
+| account shop | Public purchase and country-selection flow; no stock or universal subscription benefit promised | Country selection | 2026-10-10 | 2026-10-17 | yes |
 | account transfer | Transfers sessions, not a complete archive of messages/media | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-11-10 | yes |
 | AI | Client tools remain; available actions/models/usage are conditional, no universal parity or unlimited use | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-10-17 | yes |
-| ATT earning | Old earning guides are not current instructions; historical balances do not prove new accrual | [ATT update](https://t.me/luckgramapp/1011) | 2026-10-10 | 2026-11-10 | yes |
+| ATT earning | Old earning guides are not current instructions; historical balances do not prove new accrual | ATT update | 2026-10-10 | 2026-11-10 | yes |
 | HyperLancer | Working on project relaunch; updates will follow, no date promised | Operator-approved public holding statement, 2026-10-10 | 2026-10-10 | 2026-10-17 | yes |
 | Android source account limits | Options for 10 or 100, not unlimited device capacity | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-11-10 | yes |
 | platform and service eligibility | Depends on platform, version, plan, region, rollout and account | [Implementation review](../evidence/product-review-2026-10-10.md) | 2026-10-10 | 2026-10-17 | yes |

@@ -10,12 +10,16 @@ depending on the feature and build.
 
 ## Translate an incoming message
 
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram. Turn it on in **Settings → Language → Show Translate Button**.
+
 1. Open the message context menu.
 2. Choose **Translate**.
 3. Select a target language if the app asks for one.
 4. Review the translation alongside the original meaning and context.
 
 ## Translate a whole chat
+
+> **Telegram Premium.** Whole-chat translation is available today through Telegram Premium. A Luckgram version without Premium is in development.
 
 Telegram can translate a whole chat at once. Turn on **Translate Entire Chat** in
 **Settings → Language**; a chat in another language then shows a bar at the top
@@ -26,11 +30,15 @@ with **Translate to …** and **Show Original**. Telegram makes this part of
 
 ## Translate before sending
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Use the input translator offered by supported builds, choose the destination
 language, and review the generated text before sending. Names, slang, legal text,
 and technical terms can be mistranslated.
 
 ## Convert speech to text
+
+> **Telegram Premium.** Speech-to-text is available today through Telegram Premium. A Luckgram version without Premium is in development.
 
 Open the action menu for a supported voice message or audio item and choose the
 transcription option. Some builds offer a model choice or transcript cleanup.

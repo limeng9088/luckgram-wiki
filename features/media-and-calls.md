@@ -9,6 +9,8 @@ cache, and (on supported iOS builds) call recording.
 
 ## Send an existing video as a video message
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 1. Open the attachment or media action in a chat.
 2. Choose a compatible video from the device.
 3. Select the video-message or round-video conversion action.
@@ -19,11 +21,15 @@ frame to a circle and may re-encode the file.
 
 ## Start with the rear camera
 
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
 Supported mobile builds can remember a rear-camera preference for video capture.
 This changes the starting camera, not the recipient or privacy of the resulting
 message.
 
 ## Downloads and cache
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram. Find it in **Settings → Data and Storage**.
 
 Luckgram can expose extra controls for saving video to the gallery, automatic media
 handling, and local cache. Clearing cache removes local copies, not Telegram cloud
@@ -43,6 +49,8 @@ another messenger.
   calls from you.
 
 ## How do I post a story?
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
 Stories are a Telegram feature: Luckgram shows and posts them as Telegram does
 and adds nothing of its own to posting. A story is a photo or video your contacts see at
@@ -74,6 +82,8 @@ admin allowed to post them. On iPhone and iPad, you can’t post during a call o
 a video chat.
 
 ## Record a call
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
 
 Call recording is currently documented and source-verified for iOS. Depending on
 the build, recording can be manual or automatic and the result can be delivered to

@@ -7,21 +7,21 @@ description: Understand why Luckgram features differ by platform, plan, region, 
 Luckgram does not have one universal feature set. Check the status on a feature page
 before following its instructions.
 
-| Capability | iOS | Android | Desktop | Public status |
-|---|---:|---:|---:|---|
-| Expanded multi-account use | Yes | Yes | Not confirmed | Available on mobile |
-| Account import/export | Yes | Yes | Not confirmed | Platform-dependent |
-| Double Bottom / hidden chats | Yes | Yes | Not confirmed | Available on mobile |
-| Quick replies | Yes | Yes | Not confirmed | Available on mobile |
-| Extra translation / speech-to-text | Yes | Yes | Source-visible components | Platform/plan-dependent |
-| Extra message and profile actions | Yes | Yes | Not confirmed | Platform-dependent |
-| Existing video as a video message | Yes | Yes | Not confirmed | Available on mobile |
-| Call recording | Yes | Not confirmed | Not confirmed | iOS only in current evidence |
-| Luckgram AI | Yes | Yes | Separate source-visible AI compose | Beta / plan-dependent |
-| Former wallet and dApps | No | No | No | No longer offered |
-| AI Agent Marketplace | Eligible builds | Eligible builds | Not confirmed | Beta |
-| Escrow / HyperLancer | Eligible builds | Eligible builds | Not confirmed | Beta |
-| Communities, rich messages, ephemeral bot messages | No mobile parity confirmed | No mobile parity confirmed | Source-visible | Release not confirmed |
+| Capability | iOS | Android | Status |
+|---|---:|---:|---|
+| Telegram messaging, calls, Stories, Secret Chats, bots | Yes | Yes | Available (Telegram) |
+| Multiple accounts (Telegram limit: 3, or 4 with Premium) | Yes | Yes | Available (Telegram) |
+| Translate incoming messages | Yes | Yes | Available (Telegram) |
+| Whole-chat translation, speech-to-text | Premium | Premium | Telegram Premium; free version in development |
+| More accounts, account import/export | No | No | In development |
+| Double Bottom / hidden chats | No | No | In development |
+| Quick replies, extra message and profile actions | No | No | In development |
+| Existing video as a video message | No | No | In development |
+| Call recording | No | No | In development |
+| Luckgram AI | No | No | In development |
+| Plans, Gems, referrals | No | No | In development |
+| Wallet | No | No | Not in Luckgram |
+| Desktop and VR apps | — | — | Not available |
 
 ## Why availability changes
 
