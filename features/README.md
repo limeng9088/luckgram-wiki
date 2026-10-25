@@ -5,8 +5,7 @@ description: 按状态整理的 Luckgram 功能完整索引。
 
 # Luckgram 增加了哪些功能？
 
-Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在就能用（Telegram 标准功能），
-哪些 Luckgram 新增功能仍在开发中。
+Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在就能用（Telegram 标准功能），哪些 Luckgram 新增功能仍在开发中。
 
 ## 账号与隐私 {#accounts-and-privacy}
 
@@ -36,9 +35,7 @@ Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在�
 | 通话录音 | 录制受支持的通话，并通过应用流程保存 | 开发中 |
 | 高级缓存/下载控制 | 对本地媒体的处理提供更多控制 | Telegram 存储设置已可用；扩展功能开发中 |
 
-请阅读[消息工具](messaging.md)、
-[翻译与语音转文字](translation-and-voice.md)和
-[媒体与通话工具](media-and-calls.md)。
+请阅读[消息工具](messaging.md)、[翻译与语音转文字](translation-and-voice.md)和[媒体与通话工具](media-and-calls.md)。
 
 ## 资料与整理 {#profiles-and-organization}
 
@@ -68,15 +65,11 @@ Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在�
 | HyperLancer | 项目正在重新筹备 | 评估中 |
 | God’s Eye / Spy on Friends | Luckgram 列出的联系人动态洞察功能 | 评估中 |
 
-请阅读 [Luckgram AI](ai.md)、[原钱包](wallet.md)、
-[套餐、Gems 与邀请奖励](plans-and-rewards.md)和
-[测试版与限量上线功能](beta.md)。
+请阅读 [Luckgram AI](ai.md)、[原钱包](wallet.md)、[套餐、Gems 与邀请奖励](plans-and-rewards.md)和[测试版与限量上线功能](beta.md)。
 
 ## 不算作 Luckgram 功能的内容 {#what-is-not-listed-as-a-luckgram-feature}
 
-普通的 Telegram 聊天、频道、通话、私密聊天、快拍、机器人和 Telegram Business 功能，
-在 Luckgram 没有增加独立流程时，仍然属于 Telegram 本身的能力。它们的行为以 Telegram 为准，
-并可能随上游客户端的更新而变化。
+普通的 Telegram 聊天、频道、通话、私密聊天、快拍、机器人和 Telegram Business 功能，在 Luckgram 没有增加独立流程时，仍然属于 Telegram 本身的能力。它们的行为以 Telegram 为准，并可能随上游客户端的更新而变化。
 
 **来源：** [实现审核](../docs/evidence/product-review-2026-10-10.md) ·
 [公开功能依据](../docs/evidence/feature-sources.md)。源码中有对应实现，和当前发布版本中可用，是两项独立的核实。

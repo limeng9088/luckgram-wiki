@@ -1,6 +1,5 @@
 ---
-description: iPhone、iPad 和 Android 版 Luckgram 的更新说明，按时间从新到旧排列。
-generated_from: luckgram/dataroom@e1b032f
+description: iPhone、iPad 和 Android 版 Luckgram 的更新说明，按时间从新到旧排列。generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
 translated_from: en/reference/whats-new.md
 ---
@@ -9,8 +8,7 @@ translated_from: en/reference/whats-new.md
 
 # Luckgram 有哪些更新？
 
-下面是每个应用商店版本的“新功能”说明，按时间从新到旧排列，保留应用商店当时显示的英文原文。
-提到 Luckgram 已下线功能的说明已被略去；较早的说明所描述的功能可能已经变化，当前情况以[快速解答](quick-answers.md)为准。
+下面是每个应用商店版本的“新功能”说明，按时间从新到旧排列，保留应用商店当时显示的英文原文。提到 Luckgram 已下线功能的说明已被略去；较早的说明所描述的功能可能已经变化，当前情况以[快速解答](quick-answers.md)为准。
 
 ## iPhone 和 iPad 版有哪些更新？ {#whats-new-in-luckgram-for-iphone-and-ipad}
 

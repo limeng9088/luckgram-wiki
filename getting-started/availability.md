@@ -33,8 +33,7 @@ Luckgram 并不是所有人都有同一套功能。照着某个功能页面操�
 - Telegram 账号状态和服务器可用性；
 - 该功能依赖的后端或第三方服务商。
 
-“源码可见”并不代表当前公开版本里就有这个功能。排查步骤请看
-[看不到某个功能](../help/feature-not-visible.md)。
+“源码可见”并不代表当前公开版本里就有这个功能。排查步骤请看[看不到某个功能](../help/feature-not-visible.md)。
 
 **来源：** [官方可用性标注](https://wiki.luckgram.cc/getting-started/install.html) ·
 [公开功能依据](../docs/evidence/feature-sources.md)

@@ -5,8 +5,7 @@ description: 了解 Luckgram 在 Telegram 之上增加了什么、每个功能�
 
 # Luckgram 帮助中心
 
-Luckgram 是一款独立的 Telegram 客户端。你用现有的 Telegram 账号登录，继续使用你的 Telegram 聊天，
-同时 Luckgram 在支持的地方增加了多账号、隐私、更快收发消息、翻译、媒体和 AI 等工具。
+Luckgram 是一款独立的 Telegram 客户端。你用现有的 Telegram 账号登录，继续使用你的 Telegram 聊天，同时 Luckgram 在支持的地方增加了多账号、隐私、更快收发消息、翻译、媒体和 AI 等工具。
 
 Luckgram 与 Telegram 没有隶属关系。Telegram 提供底层的账号和消息服务；Luckgram 提供客户端及其附加功能。
 
@@ -36,8 +35,7 @@ Luckgram 与 Telegram 没有隶属关系。Telegram 提供底层的账号和消�
 - 通话录音（需遵守同意要求）。
 - Luckgram AI、套餐和奖励。
 
-AI、智能体、账号商店和支付功能可能取决于应用版本、平台、订阅、地区、账号或分批上线。
-它们的页面总会先标明状态，再介绍功能。
+AI、智能体、账号商店和支付功能可能取决于应用版本、平台、订阅、地区、账号或分批上线。它们的页面总会先标明状态，再介绍功能。
 
 ## 状态标签 {#status-labels}
 
@@ -57,5 +55,4 @@ AI、智能体、账号商店和支付功能可能取决于应用版本、平台
 - [使用条款](https://luckgram.cc/terms-of-use)
 - [Luckgram 的 GitHub](https://github.com/limeng9088)
 
-产品信息已于 **2026 年 10 月 10 日** 对照实现和产品文档进行审核。源码中存在并不代表每个发布版本都可用。
-[原应用内钱包](features/wallet.md)已下线。
+产品信息已于 **2026 年 10 月 10 日** 对照实现和产品文档进行审核。源码中存在并不代表每个发布版本都可用。[原应用内钱包](features/wallet.md)已下线。

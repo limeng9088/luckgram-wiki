@@ -1,6 +1,5 @@
 ---
-description: Luckgram 官方下载、网站、Telegram 频道和聊天、客服联系方式、社交网络和邮箱地址。
-generated_from: luckgram/dataroom@e1b032f
+description: Luckgram 官方下载、网站、Telegram 频道和聊天、客服联系方式、社交网络和邮箱地址。generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
 translated_from: en/reference/official-links.md
 ---

@@ -1,6 +1,5 @@
 ---
-description: 关于 Luckgram 安全、VPN、下载、官方频道、界面语言、查找频道和群组、搜索、客服、广告、登录验证码、号码被封、账号被盗或删除、隐私、权限、诈骗、垃圾信息、Premium、退款、敏感内容、钱包、ATT 积分、已删除消息、幽灵模式的简短回答。
-generated_from: luckgram/dataroom@e1b032f
+description: 关于 Luckgram 安全、VPN、下载、官方频道、界面语言、查找频道和群组、搜索、客服、广告、登录验证码、号码被封、账号被盗或删除、隐私、权限、诈骗、垃圾信息、Premium、退款、敏感内容、钱包、ATT 积分、已删除消息、幽灵模式的简短回答。generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
 translated_from: en/reference/quick-answers.md
 ---
