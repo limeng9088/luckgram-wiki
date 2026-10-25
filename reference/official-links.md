@@ -1,49 +1,50 @@
 ---
-description: Official Luckgram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
+description: Luckgram 官方下载、网站、Telegram 频道和聊天、客服联系方式、社交网络和邮箱地址。
 generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
+translated_from: en/reference/official-links.md
 ---
 
-<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
+<!-- 中文译本：英文原文 en/reference/ 由 Luckgram 数据室生成。修改请改数据室源文件，重新生成后再同步翻译。 -->
 
-# Official links and downloads
+# 官方链接与下载
 
-Luckgram's own apps, websites, source code and e-mail addresses.
+Luckgram 自己的应用、网站、源码和邮箱地址。
 
-## Where can I download Luckgram?
+## 在哪里下载 Luckgram？ {#where-can-i-download-luckgram}
 
-- [Luckgram for iOS (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest)
-- [Luckgram for Android (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)
-- [Luckgram Android APK (GitHub)](https://github.com/limeng9088/luckgram-android/releases/latest)
+- [Luckgram iOS 版（GitHub Releases）](https://github.com/limeng9088/luckgram-ios/releases/latest)
+- [Luckgram Android 版（GitHub Releases）](https://github.com/limeng9088/luckgram-android/releases/latest)
+- [Luckgram Android APK（GitHub）](https://github.com/limeng9088/luckgram-android/releases/latest)
 
-## How do I contact Luckgram support?
+## 怎样联系 Luckgram 客服？ {#how-do-i-contact-luckgram-support}
 
-- Support e-mail: <support@luckgram.cc>
+- 客服邮箱：<support@luckgram.cc>
 
-## Which websites are Luckgram's?
+## 哪些网站属于 Luckgram？ {#which-websites-are-luckgrams}
 
 - [luckgram.cc](https://luckgram.cc)
 - [Luckgram Hub](https://luckgram.cc/hub)
 - [my.luckgram.cc](https://my.luckgram.cc)
-- [Luckgram Help Center](https://wiki.luckgram.cc)
+- [Luckgram 帮助中心](https://wiki.luckgram.cc)
 
-## Which Telegram channels and chats are official?
+## 哪些 Telegram 频道和聊天是官方的？ {#which-telegram-channels-and-chats-are-official}
 
-Luckgram has no official Telegram channels, chats, or bots yet. Do not trust accounts that claim to be Luckgram; contact <support@luckgram.cc> to check.
+Luckgram 目前还没有官方的 Telegram 频道、聊天或机器人。不要相信自称 Luckgram 的账号；如需核实，请联系 <support@luckgram.cc>。
 
-## How do I advertise with Luckgram?
+## 怎样在 Luckgram 投放广告？ {#how-do-i-advertise-with-luckgram}
 
-- [Luckgram Ads (web)](https://ads.luckgram.cc)
-- Advertising e-mail: <ads@luckgram.cc>
+- [Luckgram Ads（网页版）](https://ads.luckgram.cc)
+- 广告邮箱：<ads@luckgram.cc>
 
-## Where is Luckgram on social networks?
+## Luckgram 在哪些社交网络上？ {#where-is-luckgram-on-social-networks}
 
-- [Luckgram on GitHub](https://github.com/limeng9088)
+- [Luckgram 的 GitHub](https://github.com/limeng9088)
 
-## Which other e-mail addresses does Luckgram use?
+## Luckgram 还使用哪些邮箱地址？ {#which-other-e-mail-addresses-does-luckgram-use}
 
-- General contact e-mail: <contact@luckgram.cc>
+- 综合联系邮箱：<contact@luckgram.cc>
 
-## Where is Luckgram Business?
+## Luckgram Business 在哪里？ {#where-is-luckgram-business}
 
-Luckgram Business is in development.
+Luckgram Business 正在开发中。

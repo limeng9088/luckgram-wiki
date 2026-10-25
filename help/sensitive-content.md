@@ -1,19 +1,17 @@
 ---
-description: Why sensitive (18+) or restricted channels and content may not show in Luckgram.
+description: 为什么敏感（18+）或受限的频道和内容在 Luckgram 中可能不显示。
 ---
 
-# Why can't I see sensitive (18+) or restricted content?
+# 为什么我看不到敏感（18+）或受限内容？
 
-Luckgram follows Telegram's rules and the App Store and Google Play policies:
+Luckgram 遵守 Telegram 的规则以及 App Store 和 Google Play 的政策：
 
-- [Telegram Terms of Service](https://telegram.org/tos)
-- [App Store Review Guidelines: user-generated content](https://developer.apple.com/app-store/review/guidelines/#user-generated-content)
-- [Google Play: user-generated content](https://support.google.com/googleplay/android-developer/answer/9876937)
+- [Telegram 服务条款](https://telegram.org/tos)
+- [App Store 审核指南：用户生成的内容](https://developer.apple.com/app-store/review/guidelines/#user-generated-content)
+- [Google Play：用户生成的内容](https://support.google.com/googleplay/android-developer/answer/9876937)
 
-Whether sensitive or restricted channels and content are shown on iPhone, iPad
-or Android depends on those rules and on your sensitive content settings on
-Telegram.
+在 iPhone、iPad 或 Android 上是否显示敏感或受限的频道和内容，取决于这些规则以及你在 Telegram 上的敏感内容设置。
 
-Luckgram does not open deleted or private content.
+Luckgram 不会打开已删除或私有的内容。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w3-2026-10-18.md)
+**来源：** [依据记录](../docs/evidence/help-w3-2026-10-18.md)

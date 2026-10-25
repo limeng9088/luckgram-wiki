@@ -7,6 +7,8 @@ cd "$repo_root"
 required=(
   README.md
   SUMMARY.md
+  en/README.md
+  en/SUMMARY.md
   docs/DOCMAP.md
   docs/ux/foundation.md
   docs/ux/scenarios.md
@@ -40,21 +42,30 @@ test ! -e .well-known/apple-app-site-association || {
   exit 1
 }
 
-while IFS= read -r link; do
-  target="${link%%#*}"
-  case "$target" in
-    ''|http://*|https://*|mailto:*|tel:* ) continue ;;
-  esac
-  test -e "$target" || { echo "broken navigation target: $target" >&2; exit 1; }
-done < <(sed -n 's/.*](\([^)]*\)).*/\1/p' SUMMARY.md)
+# Chinese pages live at the root, English pages under en/; both trees must match.
+for root in . en; do
+  while IFS= read -r link; do
+    target="${link%%#*}"
+    case "$target" in
+      ''|http://*|https://*|mailto:*|tel:* ) continue ;;
+    esac
+    test -e "$root/$target" || { echo "broken navigation target: $root/$target" >&2; exit 1; }
+  done < <(sed -n 's/.*](\([^)]*\)).*/\1/p' "$root/SUMMARY.md")
 
-missing_navigation="$(comm -3 \
-  <(find getting-started features help reference -name '*.md' -type f | sort) \
-  <(sed -n 's/.*](\([^)]*\.md\)).*/\1/p' SUMMARY.md | grep -v '^README.md$' | sort))"
+  missing_navigation="$(comm -3 \
+    <(cd "$root" && find getting-started features help reference -name '*.md' -type f | sort) \
+    <(sed -n 's/.*](\([^)]*\.md\)).*/\1/p' "$root/SUMMARY.md" | grep -v '^README.md$' | sort))"
 
-if [[ -n "$missing_navigation" ]]; then
-  echo "public pages and navigation differ:" >&2
-  echo "$missing_navigation" >&2
+  if [[ -n "$missing_navigation" ]]; then
+    echo "public pages and navigation differ in $root:" >&2
+    echo "$missing_navigation" >&2
+    exit 1
+  fi
+done
+
+if ! diff <(find getting-started features help reference README.md -name '*.md' | sort) \
+          <(cd en && find getting-started features help reference README.md -name '*.md' | sort) >/dev/null; then
+  echo "Chinese and English page sets differ" >&2
   exit 1
 fi
 

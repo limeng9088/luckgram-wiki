@@ -1,33 +1,27 @@
 ---
-description: The former Luckgram in-app wallet is retired. Find help with historical wallet-linked access.
+description: 原 Luckgram 应用内钱包已下线。了解与钱包关联的历史登录方式的相关帮助。
 ---
 
-# Where is the Luckgram wallet?
+# Luckgram 钱包在哪里？
 
-> **Not in Luckgram.** Luckgram has no wallet and never had one. The text below is kept for reference only.
+> **Luckgram 不提供。** Luckgram 没有钱包，也从来没有过。下面的内容仅供参考。
 
-The former in-app wallet financial functionality is no longer available in
-Luckgram. Older instructions for creating a wallet, sending assets, swaps, NFTs
-inside the wallet, or connecting dApps do not describe the current app.
+原应用内钱包的金融功能在 Luckgram 中已不再提供。以前关于创建钱包、发送资产、兑换、钱包内 NFT
+或连接 dApp 的说明，都不适用于当前应用。
 
-## What about wallet-linked sign-in?
+## 与钱包关联的登录方式呢？ {#what-about-wallet-linked-sign-in}
 
-Historical wallet-linked account access is separate from an in-app financial
-wallet. Seeing a linked sign-in method does not mean that asset transfers or
-other wallet functions are available.
+历史上与钱包关联的账号登录方式，与应用内的金融钱包是两回事。看到某个关联的登录方式，
+并不代表可以转移资产或使用其他钱包功能。
 
-## I used the old wallet and need help
+## 我用过旧钱包，需要帮助 {#i-used-the-old-wallet-and-need-help}
 
-Contact [official support](../help/support-and-source.md) and describe the action you were
-trying to perform, your platform, and app version. Do not send recovery phrases,
-private keys, passwords, login codes, or exported sessions to anyone, including
-support. Avoid signing out of a working account before your access options are
-clear.
+联系[官方客服](../help/support-and-source.md)，说明你当时想进行的操作、你的平台和应用版本。
+不要把助记词、私钥、密码、登录验证码或导出的会话发给任何人，包括客服。
+在弄清自己有哪些登录方式之前，不要退出仍然可用的账号。
 
-There is no verified universal asset-migration or recovery procedure in this
-Help Center. Support must check the specific historical setup; recovery or the
-reversal of a transaction cannot be promised.
+本帮助中心没有经过验证的通用资产迁移或恢复流程。客服需要检查具体的历史设置；无法承诺能恢复或撤销交易。
 
-**Status:** retired financial feature; reviewed October 10, 2026.
+**状态：** 已下线的金融功能；2026 年 10 月 10 日审核。
 
-**Source:** Luckgram wallet update.
+**来源：** Luckgram 钱包更新公告。

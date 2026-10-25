@@ -1,24 +1,21 @@
 ---
 permalink: /getting-started/
-description: Install Luckgram, sign in with Telegram, and understand which features your platform supports.
+description: 安装 Luckgram，用 Telegram 账号登录，并了解你的平台支持哪些功能。
 ---
 
-# Getting started
+# 新手入门
 
-Luckgram uses Telegram accounts. You do not create a separate Luckgram messaging
-account: install the client, sign in with the phone number connected to Telegram,
-and complete Telegram’s verification flow.
+Luckgram 使用的是 Telegram 账号。你不需要另外注册 Luckgram 账号：安装客户端，
+用绑定 Telegram 的手机号登录，再完成 Telegram 的验证流程即可。
 
-1. [Install Luckgram from an official source](install.md).
-2. Sign in and confirm that your chats have loaded.
-3. [Add more accounts](accounts.md) if you keep work and personal communication
-   separate.
-4. Check [platform and feature availability](availability.md) before looking for a
-   feature that may be limited by build, plan, or rollout.
+1. [从官方渠道安装 Luckgram](install.md)。
+2. 登录并确认聊天记录已经加载出来。
+3. 如果你想把工作和生活分开，可以[添加更多账号](accounts.md)。
+4. 某些功能可能受版本、套餐或分批上线的限制，找功能之前先看看
+   [平台与功能可用性](availability.md)。
 
-Never share a Telegram login code, two-step verification password, wallet password,
-or recovery material with another person, including someone claiming to be
-Luckgram support.
+不要把 Telegram 登录验证码、两步验证密码、钱包密码或恢复资料告诉任何人，
+包括自称 Luckgram 客服的人。
 
-**Sources:** [Official download page](https://wiki.luckgram.cc/getting-started/install.html) ·
-[Telegram account security](https://telegram.org/faq#q-what-if-someone-pretends-to-be-me)
+**来源：** [官方下载页面](https://wiki.luckgram.cc/getting-started/install.html) ·
+[Telegram 账号安全](https://telegram.org/faq#q-what-if-someone-pretends-to-be-me)

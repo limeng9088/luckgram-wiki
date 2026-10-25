@@ -1,172 +1,172 @@
 ---
-description: Short answers about Luckgram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
+description: 关于 Luckgram 安全、VPN、下载、官方频道、界面语言、查找频道和群组、搜索、客服、广告、登录验证码、号码被封、账号被盗或删除、隐私、权限、诈骗、垃圾信息、Premium、退款、敏感内容、钱包、ATT 积分、已删除消息、幽灵模式的简短回答。
 generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
+translated_from: en/reference/quick-answers.md
 ---
 
-<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
+<!-- 中文译本：英文原文 en/reference/ 由 Luckgram 数据室生成。修改请改数据室源文件，重新生成后再同步翻译。 -->
 
-# Quick answers
+# 快速解答
 
-Short answers to common questions about Luckgram. The feature guide and Help and safety explain
-each topic step by step.
+关于 Luckgram 常见问题的简短回答。功能指南和“帮助与安全”会一步步讲解每个主题。
 
-**About Luckgram:** [How is Luckgram different from the official Telegram app?](#how-is-luckgram-different-from-the-official-telegram-app) · [Is Luckgram safe to use?](#is-luckgram-safe-to-use) · [Do I need a VPN to use Luckgram?](#do-i-need-a-vpn-to-use-luckgram) · [How many times has Luckgram been installed?](#how-many-times-has-luckgram-been-installed)
+**关于 Luckgram：** [Luckgram 和官方 Telegram 应用有什么区别？](#how-is-luckgram-different-from-the-official-telegram-app) · [Luckgram 安全吗？](#is-luckgram-safe-to-use) · [使用 Luckgram 需要 VPN 吗？](#do-i-need-a-vpn-to-use-luckgram) · [Luckgram 被安装过多少次？](#how-many-times-has-luckgram-been-installed)
 
-**Downloads and official places:** [Where do I download Luckgram?](#where-do-i-download-luckgram) · [Which Luckgram website and Telegram channels are official?](#which-luckgram-website-and-telegram-channels-are-official)
+**下载与官方渠道：** [在哪里下载 Luckgram？](#where-do-i-download-luckgram) · [哪些 Luckgram 网站和 Telegram 频道是官方的？](#which-luckgram-website-and-telegram-channels-are-official)
 
-**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**使用应用：** [怎样更改应用语言？](#how-do-i-change-the-language-of-the-app) · [怎样查找 Telegram 频道和群组？](#how-do-i-find-telegram-channels-and-groups) · [iPhone 上标签栏旁边的放大镜是什么？](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
 
-**Support and advertising:** [What is the Luckgram support e-mail?](#what-is-the-luckgram-support-e-mail) · [How do I reach a person at Luckgram support?](#how-do-i-reach-a-person-at-luckgram-support) · [How do I advertise my channel or project on Luckgram?](#how-do-i-advertise-my-channel-or-project-on-luckgram)
+**客服与广告：** [Luckgram 的客服邮箱是什么？](#what-is-the-luckgram-support-e-mail) · [怎样联系 Luckgram 人工客服？](#how-do-i-reach-a-person-at-luckgram-support) · [怎样在 Luckgram 推广我的频道或项目？](#how-do-i-advertise-my-channel-or-project-on-luckgram)
 
-**Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Luckgram say my phone was banned?](#why-does-luckgram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
+**账号与登录：** [为什么收不到登录验证码？](#why-didnt-my-login-code-arrive) · [为什么 Luckgram 提示我的号码被封了？](#why-does-luckgram-say-my-phone-was-banned) · [账号被盗了怎么办？](#what-should-i-do-if-my-account-was-hacked) · [怎样删除账号？](#how-do-i-delete-my-account) · [登录时提示“尝试次数过多”是什么意思？](#what-does-too-many-attempts-at-sign-in-mean)
 
-**Privacy and permissions:** [Can Luckgram read my messages?](#can-luckgram-read-my-messages) · [What data does Luckgram collect?](#what-data-does-luckgram-collect) · [Why does Luckgram ask for my contacts, location or call log?](#why-does-luckgram-ask-for-my-contacts-location-or-call-log) · [Why does Luckgram ask for camera and microphone access?](#why-does-luckgram-ask-for-camera-and-microphone-access)
+**隐私与权限：** [Luckgram 能看到我的消息吗？](#can-luckgram-read-my-messages) · [Luckgram 收集哪些数据？](#what-data-does-luckgram-collect) · [为什么 Luckgram 要访问我的联系人、位置或通话记录？](#why-does-luckgram-ask-for-my-contacts-location-or-call-log) · [为什么 Luckgram 要访问相机和麦克风？](#why-does-luckgram-ask-for-camera-and-microphone-access)
 
-**Safety and scams:** [Can I trust someone in a Luckgram chat who offers to help?](#can-i-trust-someone-in-a-luckgram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
+**安全与诈骗：** [Luckgram 聊天里主动提出帮忙的人可信吗？](#can-i-trust-someone-in-a-luckgram-chat-who-offers-to-help) · [我的 NFT 贴纸或礼物去哪了？](#where-did-my-nft-stickers-or-gifts-go) · [怎样举报垃圾信息？](#how-do-i-report-spam)
 
-**Premium and subscriptions:** [Is Luckgram free?](#is-luckgram-free) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
+**Premium 与订阅：** [Luckgram 免费吗？](#is-luckgram-free) · [怎样取消订阅或申请退款？](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [为什么免费试用显示没有有效订阅？](#why-does-my-free-trial-show-no-active-subscription) · [每个套餐包含多少条 AI 消息？](#how-many-ai-messages-does-each-plan-include)
 
-**Content:** [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
+**内容：** [为什么我看不到敏感（18+）或受限内容？](#why-cant-i-see-sensitive-18-or-restricted-content)
 
-**Features that changed or were retired:** [Where is the Luckgram wallet?](#where-is-the-luckgram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Luckgram have eSIM?](#does-luckgram-have-esim)
+**已变更或下线的功能：** [Luckgram 钱包在哪里？](#where-is-the-luckgram-wallet) · [还能赚 ATT 积分吗？](#can-i-still-earn-att-points) · [ATT 积分和 NFT 贴纸的奖励什么时候发？](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [能看到已删除的消息吗？](#can-i-see-deleted-messages) · [幽灵模式在哪里？](#where-is-ghost-mode) · [Luckgram 有 eSIM 吗？](#does-luckgram-have-esim)
 
-## How is Luckgram different from the official Telegram app?
+## Luckgram 和官方 Telegram 应用有什么区别？ {#how-is-luckgram-different-from-the-official-telegram-app}
 
-Luckgram is an unofficial Telegram client for iPhone and iPad, Android and macOS, built on Telegram's open-source apps and connected to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram app, it adds its own features, such as AI tools and managing several accounts in one place.
+Luckgram 是一款非官方的 Telegram 客户端，支持 iPhone 和 iPad、Android 和 macOS。它基于 Telegram 的开源应用构建，连接 Telegram 官方服务器，所以使用的是你现有的 Telegram 账号、聊天和联系人。与官方 Telegram 应用不同，它增加了自己的功能，比如 AI 工具和在一处管理多个账号。
 
-## Is Luckgram safe to use?
+## Luckgram 安全吗？ {#is-luckgram-safe-to-use}
 
-Luckgram's apps are open source: the iOS, Android and desktop clients are published on GitHub (<https://github.com/limeng9088>), so what runs on your device can be checked. Luckgram connects to Telegram's official servers, and your account and chats stay on Telegram. Luckgram's Terms of Use say it does not store or have access to your conversations; what Luckgram itself collects is described in its Privacy Policy (<https://luckgram.cc/privacy-policy>).
+Luckgram 的应用是开源的：iOS、Android 和桌面客户端都发布在 GitHub 上（<https://github.com/limeng9088>），所以你设备上运行的代码可以被检查。Luckgram 连接的是 Telegram 官方服务器，你的账号和聊天都保留在 Telegram 上。Luckgram 的使用条款写明它不存储、也无法访问你的对话；Luckgram 自身收集哪些信息，见其隐私政策（<https://luckgram.cc/privacy-policy>）。
 
-## Do I need a VPN to use Luckgram?
+## 使用 Luckgram 需要 VPN 吗？ {#do-i-need-a-vpn-to-use-luckgram}
 
-Luckgram connects to Telegram's official servers, so it works without a VPN wherever Telegram itself works without a VPN. Where Telegram is restricted, Luckgram is restricted the same way.
+Luckgram 连接的是 Telegram 官方服务器，所以在 Telegram 本身不需要 VPN 就能用的地方，Luckgram 也不需要 VPN。在 Telegram 受限的地方，Luckgram 也同样受限。
 
-## How many times has Luckgram been installed?
+## Luckgram 被安装过多少次？ {#how-many-times-has-luckgram-been-installed}
 
-Luckgram has been installed more than 57 million times on iPhone, iPad and Android.
+Luckgram 在 iPhone、iPad 和 Android 上的安装次数已超过 5700 万次。
 
-## Where do I download Luckgram?
+## 在哪里下载 Luckgram？ {#where-do-i-download-luckgram}
 
-Download Luckgram for iPhone and iPad from GitHub Releases (<https://github.com/limeng9088/luckgram-ios/releases/latest>), for Android from GitHub Releases (<https://github.com/limeng9088/luckgram-android/releases/latest>) or as an APK from GitHub (<https://github.com/limeng9088/luckgram-android/releases/latest>). The official Luckgram website is <https://luckgram.cc>. Luckgram has no official Telegram channels, chats, or bots yet. Do not trust accounts that claim to be Luckgram; contact <support@luckgram.cc> to check.
+iPhone 和 iPad 版请从 GitHub Releases 下载（<https://github.com/limeng9088/luckgram-ios/releases/latest>），Android 版请从 GitHub Releases 下载（<https://github.com/limeng9088/luckgram-android/releases/latest>），或从 GitHub 下载 APK（<https://github.com/limeng9088/luckgram-android/releases/latest>）。Luckgram 官方网站是 <https://luckgram.cc>。Luckgram 目前还没有官方的 Telegram 频道、聊天或机器人。不要相信自称 Luckgram 的账号；如需核实，请联系 <support@luckgram.cc>。
 
-## Which Luckgram website and Telegram channels are official?
+## 哪些 Luckgram 网站和 Telegram 频道是官方的？ {#which-luckgram-website-and-telegram-channels-are-official}
 
-The official Luckgram website is <https://luckgram.cc>. Luckgram has no official Telegram channels, chats, or bots yet. Do not trust accounts that claim to be Luckgram; contact <support@luckgram.cc> to check.
+Luckgram 官方网站是 <https://luckgram.cc>。Luckgram 目前还没有官方的 Telegram 频道、聊天或机器人。不要相信自称 Luckgram 的账号；如需核实，请联系 <support@luckgram.cc>。
 
-## How do I change the language of the app?
+## 怎样更改应用语言？ {#how-do-i-change-the-language-of-the-app}
 
-To change the language of the Luckgram interface, open Settings, then Language, and choose a language from the list. It is the same setting as in Telegram, and the list shows the languages Telegram offers. Luckgram's own menus follow the language you choose; where a Luckgram menu has no translation into that language, it is shown in English.
+要更改 Luckgram 的界面语言，打开“设置”，再进入“语言”，从列表中选择一种语言。这和 Telegram 中的设置相同，列表显示的是 Telegram 提供的语言。Luckgram 自己的菜单会跟随你选择的语言；如果某个 Luckgram 菜单没有该语言的翻译，则以英文显示。
 
-## How do I find Telegram channels and groups?
+## 怎样查找 Telegram 频道和群组？ {#how-do-i-find-telegram-channels-and-groups}
 
-To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Luckgram Hub on the website: <https://luckgram.cc/hub>. It lists the top ones by category and language, and opens any of them in Luckgram in one tap.
+要查找 Telegram 频道、聊天、群组、机器人、贴纸和小程序，可以在网站上浏览 Luckgram Hub：<https://luckgram.cc/hub>。它按类别和语言列出热门内容，一点就能在 Luckgram 中打开。
 
-## What is the magnifying glass next to the tab bar on iPhone?
+## iPhone 上标签栏旁边的放大镜是什么？ {#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone}
 
-If a magnifying glass appeared at the right of the bottom tab bar in Luckgram for iPhone, it is the search button of the current tab. Version 2.6.4 removed it; the search field stays at the top of the list.
+如果 iPhone 版 Luckgram 底部标签栏的右侧出现了一个放大镜，那是当前标签页的搜索按钮。2.6.4 版移除了它；搜索框仍在列表顶部。
 
-## What is the Luckgram support e-mail?
+## Luckgram 的客服邮箱是什么？ {#what-is-the-luckgram-support-e-mail}
 
-Luckgram app support by e-mail: <support@luckgram.cc>.
+Luckgram 应用的邮件客服：<support@luckgram.cc>。
 
-## How do I reach a person at Luckgram support?
+## 怎样联系 Luckgram 人工客服？ {#how-do-i-reach-a-person-at-luckgram-support}
 
-For something bought in Luckgram (Account Shop, Telegram Sessions), or an unusual problem nothing else covers, write to Luckgram support at <support@luckgram.cc>.
+如果是在 Luckgram 中购买的东西（账号商店、Telegram 会话），或者遇到其他内容都没有涵盖的特殊问题，请写信给 Luckgram 客服：<support@luckgram.cc>。
 
-## How do I advertise my channel or project on Luckgram?
+## 怎样在 Luckgram 推广我的频道或项目？ {#how-do-i-advertise-my-channel-or-project-on-luckgram}
 
-To promote your channel, group, bot or project to Luckgram's audience, write to <ads@luckgram.cc>.
+想向 Luckgram 的用户推广你的频道、群组、机器人或项目，请写信到 <ads@luckgram.cc>。
 
-## Why didn't my login code arrive?
+## 为什么收不到登录验证码？ {#why-didnt-my-login-code-arrive}
 
-The login code is sent to the Telegram account of the phone number you enter. If the code doesn't arrive, check where you request it. A new account can be created only in the official Telegram app, so sign up there. To sign in to an account you already have, the code goes to the other app where that account is already signed in: open it, find the code in the chat with Telegram, and enter it in Luckgram. If you have no other signed-in device, tap “Didn't get the code?” and choose to get it by SMS if that is offered.
+登录验证码会发送到你输入的手机号所对应的 Telegram 账号。如果没收到，请检查你是在哪里申请的。新账号只能在官方 Telegram 应用中注册，所以请在那里注册。登录已有账号时，验证码会发到该账号已登录的另一个应用里：打开那个应用，在与 Telegram 的对话中找到验证码，然后在 Luckgram 中输入。如果你没有其他已登录的设备，点“没有收到验证码？”，在提供短信选项时选择通过短信获取。
 
-## Why does Luckgram say my phone was banned?
+## 为什么 Luckgram 提示我的号码被封了？ {#why-does-luckgram-say-my-phone-was-banned}
 
-If Luckgram says “Your phone was banned.” when you try to log in, Telegram has banned that number. A number can be banned for various reasons, and Luckgram cannot lift the ban: only Telegram can review it: write to <support@telegram.org>. If your account is only limited after spam reports (you can't message people who don't have you as a contact), ask Telegram's @SpamBot to review it.
+如果登录时 Luckgram 提示“你的号码已被封禁。”，说明 Telegram 封禁了这个号码。号码被封的原因有很多，Luckgram 无法解封，只有 Telegram 能复核：请写信到 <support@telegram.org>。如果你的账号只是因被举报垃圾信息而受限（无法给没有把你加为联系人的人发消息），请让 Telegram 的 @SpamBot 复核。
 
-## What should I do if my account was hacked?
+## 账号被盗了怎么办？ {#what-should-i-do-if-my-account-was-hacked}
 
-If your account may be compromised (someone got into it or changed your password), first secure your Telegram account from a trusted Telegram app: review your active sessions, end any sessions you don't recognise, and turn on two-step verification. Never send a login code or recovery secret to support.
+如果你的账号可能已被盗（有人登录了它或改了你的密码），请先在可信的 Telegram 应用中保护好你的 Telegram 账号：检查活跃会话，结束你不认识的会话，并开启两步验证。永远不要把登录验证码或恢复用的密钥发给客服。
 
-## How do I delete my account?
+## 怎样删除账号？ {#how-do-i-delete-my-account}
 
-To remove an account only from Luckgram on this device, log out of it instead (Log Out in the account's settings): the Telegram account and its chats stay, and logging out ends its Secret Chats. To delete your account, use Telegram's deactivation page: <https://my.telegram.org/auth?to=delete>. Deleting the account permanently removes your messages, contacts and other data, must be confirmed through your Telegram account and cannot be undone. Groups and channels you created stay without a creator (admins keep their rights), and your contacts keep their copies of the messages you sent them. If you sign up again, you start as a new user and do not get your history, contacts or groups back.
+如果只是想把某个账号从这台设备上的 Luckgram 中移除，请退出登录（在账号设置中点“退出登录”）：Telegram 账号和聊天都会保留，退出登录会结束该账号的私密聊天。要删除账号，请使用 Telegram 的注销页面：<https://my.telegram.org/auth?to=delete>。删除账号会永久移除你的消息、联系人和其他数据，需要通过你的 Telegram 账号确认，且无法撤销。你创建的群组和频道会保留下来但没有创建者（管理员保留权限），你的联系人也会保留你发给他们的消息副本。如果你重新注册，你将作为新用户开始，无法找回历史记录、联系人或群组。
 
-## What does "Too many attempts" at sign-in mean?
+## 登录时提示“尝试次数过多”是什么意思？ {#what-does-too-many-attempts-at-sign-in-mean}
 
-"Too many attempts, please try again later" when you sign in is Telegram's own limit on sign-in attempts, not a Luckgram error. Wait and try again later. If the message says you deleted and re-created your account too many times, wait a few days before signing up again.
+登录时出现“尝试次数过多，请稍后再试”，是 Telegram 自己对登录尝试次数的限制，不是 Luckgram 的错误。请稍等一段时间再试。如果提示说你删除并重新注册账号的次数过多，请等几天再注册。
 
-## Can Luckgram read my messages?
+## Luckgram 能看到我的消息吗？ {#can-luckgram-read-my-messages}
 
-Your Telegram chats, channels, login and ordinary calls go through Telegram's services and the app on your device; messages you publish are stored and processed by Telegram's servers. Luckgram's Terms of Use say Luckgram uses the Telegram API only for technical processing and does not own, control, store or have access to your conversations. When you use AI, translation or transcription features, your request and any chat context you select are processed by Luckgram and/or the provider that feature uses.
+你的 Telegram 聊天、频道、登录和普通通话都通过 Telegram 的服务和你设备上的应用进行；你发布的消息由 Telegram 的服务器存储和处理。Luckgram 的使用条款写明，Luckgram 只将 Telegram API 用于技术处理，不拥有、控制、存储也无法访问你的对话。当你使用 AI、翻译或转写功能时，你的请求和你选中的聊天上下文会由 Luckgram 和/或该功能使用的服务商处理。
 
-## What data does Luckgram collect?
+## Luckgram 收集哪些数据？ {#what-data-does-luckgram-collect}
 
-Luckgram's Privacy Policy (<https://luckgram.cc/privacy-policy>) says Luckgram collects information you choose to provide, such as your name, e-mail and phone number; information collected automatically, such as usage and device information, cookies, and your location when you share it; and app usage information through third-party analytics: Google Play Services and Firebase, plus Facebook SDK and AppsFlyer on Android. The policy says this analytics information is anonymized and cannot be tied to a specific user. Many of the services you use in Luckgram are provided by Telegram, and Telegram's Privacy Policy (<https://telegram.org/privacy>) covers them.
+Luckgram 的隐私政策（<https://luckgram.cc/privacy-policy>）写明，Luckgram 会收集你主动提供的信息，例如名字、邮箱和手机号；自动收集的信息，例如使用情况和设备信息、Cookie，以及你分享位置时的位置信息；还会通过第三方统计工具收集应用使用信息：Google Play 服务和 Firebase，Android 上还有 Facebook SDK 和 AppsFlyer。政策写明这些统计信息是匿名的，无法关联到具体用户。你在 Luckgram 中使用的许多服务由 Telegram 提供，适用 Telegram 的隐私政策（<https://telegram.org/privacy>）。
 
-## Why does Luckgram ask for my contacts, location or call log?
+## 为什么 Luckgram 要访问我的联系人、位置或通话记录？ {#why-does-luckgram-ask-for-my-contacts-location-or-call-log}
 
-Luckgram asks your permission before syncing your contacts; you can stop syncing or delete synced contacts in Settings > Privacy & Security > Data Settings. When you share your location in a chat or turn on "Make me visible to people nearby", Luckgram uses it to show your location to the people you share it with. On Android, Luckgram may ask for access to your call log so it can verify your account with a phone call instead of a code; it uses this only to confirm that verification call.
+Luckgram 在同步联系人之前会征求你的许可；你可以在“设置 > 隐私与安全 > 数据设置”中停止同步或删除已同步的联系人。当你在聊天中分享位置，或开启“让附近的人看到我”时，Luckgram 会用它向你分享的对象显示你的位置。在 Android 上，Luckgram 可能会请求访问通话记录，以便用电话而不是验证码来验证你的账号；它只用通话记录来确认这通验证电话。
 
-## Why does Luckgram ask for camera and microphone access?
+## 为什么 Luckgram 要访问相机和麦克风？ {#why-does-luckgram-ask-for-camera-and-microphone-access}
 
-On iPhone and iPad, Luckgram asks for camera access so you can take and share photos and videos and make video calls, and for microphone access so you can send voice messages and videos with sound.
+在 iPhone 和 iPad 上，Luckgram 请求相机权限，是为了让你拍摄和分享照片、视频以及进行视频通话；请求麦克风权限，是为了让你发送语音消息和有声音的视频。
 
-## Can I trust someone in a Luckgram chat who offers to help?
+## Luckgram 聊天里主动提出帮忙的人可信吗？ {#can-i-trust-someone-in-a-luckgram-chat-who-offers-to-help}
 
-Community participants are not automatically Luckgram employees. Never share login codes, two-step passwords, exported account sessions, private keys, recovery material or remote access to your device.
+社区里的参与者并不一定是 Luckgram 的员工。永远不要分享登录验证码、两步验证密码、导出的账号会话、私钥、恢复资料，也不要让别人远程控制你的设备。
 
-## Where did my NFT stickers or gifts go?
+## 我的 NFT 贴纸或礼物去哪了？ {#where-did-my-nft-stickers-or-gifts-go}
 
-If your NFT stickers or gifts disappeared, you may have been scammed. A common scheme: someone promises NFT gifts or stickers and asks you to export your account session from Luckgram. Only scammers ask for this. Never export your session for anyone. Telegram reviews such cases: write to <support@telegram.org>.
+如果你的 NFT 贴纸或礼物不见了，你可能遇到了诈骗。常见手法：有人承诺送你 NFT 礼物或贴纸，要求你从 Luckgram 导出账号会话。只有骗子才会这样要求。永远不要为任何人导出你的会话。Telegram 会处理这类情况：请写信到 <support@telegram.org>。
 
-## How do I report spam?
+## 怎样举报垃圾信息？ {#how-do-i-report-spam}
 
-To report spam in Luckgram, the same as in Telegram: in the chat, tap Report Spam when Luckgram offers it, or press and hold a message, tap Report and choose Spam. You can also block the sender with Block User. Telegram's team reviews every report.
+在 Luckgram 中举报垃圾信息的方法和 Telegram 相同：在聊天中，Luckgram 提供“举报垃圾信息”时点它，或者长按一条消息，点“举报”并选择“垃圾信息”。你也可以用“屏蔽用户”屏蔽发送者。Telegram 的团队会审核每一条举报。
 
-## Is Luckgram free?
+## Luckgram 免费吗？ {#is-luckgram-free}
 
-Luckgram is free to download. A Luckgram Premium subscription unlocks additional features, including features for business. The price and what it includes are shown in the app and in the store.
+Luckgram 可以免费下载。Luckgram Premium 订阅会解锁更多功能，包括面向商务的功能。价格和包含的内容以应用和应用商店中的显示为准。
 
-## How do I cancel a subscription or ask for a refund?
+## 怎样取消订阅或申请退款？ {#how-do-i-cancel-a-subscription-or-ask-for-a-refund}
 
-Luckgram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to Luckgram support at <support@luckgram.cc>. A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
+在 App Store 或 Google Play 购买的 Luckgram 订阅，付款、取消和退款都遵循该商店的规则。请在处理该订阅的 App Store 或 Google Play 账号中取消订阅或更改付款方式；取消后会在当前周期最后一天之后停止续订，并不会自动退款。如需申请退款，请写信给 Luckgram 客服：<support@luckgram.cc>。免费试用会自动续订为付费订阅，除非在试用结束前至少 24 小时关闭自动续订。
 
-## Why does my free trial show no active subscription?
+## 为什么免费试用显示没有有效订阅？ {#why-does-my-free-trial-show-no-active-subscription}
 
-If you started a free trial of Luckgram Premium but your profile shows no active subscription: the trial runs in the App Store or Google Play, and your Luckgram profile shows Premium only after Luckgram confirms the purchase. Open the Premium screen and tap "Restore purchase" while signed in with the same Apple ID or Google account that started the trial. A subscription counts for the Luckgram account that confirmed it last.
+如果你开始了 Luckgram Premium 免费试用，但资料页显示没有有效订阅：试用是在 App Store 或 Google Play 中进行的，只有在 Luckgram 确认购买后，你的 Luckgram 资料才会显示 Premium。请用开始试用时的同一个 Apple ID 或 Google 账号登录，打开 Premium 页面并点“恢复购买”。订阅会计入最后一次确认它的 Luckgram 账号。
 
-## How many AI messages does each plan include?
+## 每个套餐包含多少条 AI 消息？ {#how-many-ai-messages-does-each-plan-include}
 
-Luckgram AI has no fixed number of messages per plan. Each AI request is paid from your AI Tokens balance: a Premium subscription includes monthly tokens, Premium+ includes more, and anyone can buy a top-up. If the balance runs out, the app says there are not enough AI tokens. Between two requests there is a short pause, longer without Premium. Your balance and the current amounts are shown in the app.
+Luckgram AI 没有按套餐固定的消息条数。每次 AI 请求都从你的 AI Tokens 余额中扣除：Premium 订阅每月包含一定的 Tokens，Premium+ 包含更多，任何人都可以购买充值。余额用完时，应用会提示 AI Tokens 不足。两次请求之间会有短暂的间隔，没有 Premium 时间隔更长。你的余额和当前的额度以应用中的显示为准。
 
-## Why can't I see sensitive (18+) or restricted content?
+## 为什么我看不到敏感（18+）或受限内容？ {#why-cant-i-see-sensitive-18-or-restricted-content}
 
-Sensitive (18+) and restricted content: Luckgram follows Telegram's rules and the App Store and Google Play policies. Whether sensitive or restricted channels and content are shown on iPhone, iPad or Android depends on those rules and on your account settings. Luckgram does not open deleted, private or paid content.
+关于敏感（18+）和受限内容：Luckgram 遵守 Telegram 的规则以及 App Store 和 Google Play 的政策。在 iPhone、iPad 或 Android 上是否显示敏感或受限的频道和内容，取决于这些规则和你的账号设置。Luckgram 不会打开已删除、私有或付费的内容。
 
-## Where is the Luckgram wallet?
+## Luckgram 钱包在哪里？ {#where-is-the-luckgram-wallet}
 
-Luckgram no longer offers the in-app wallet (balances, sending, swaps, NFTs in the wallet and dApp connections). A sign-in method left over from the wallet is separate and does not mean the wallet still exists.
+Luckgram 已不再提供应用内钱包（余额、发送、兑换、钱包内 NFT 和 dApp 连接）。钱包遗留下来的登录方式是另一回事，并不代表钱包仍然存在。
 
-## Can I still earn ATT points?
+## 还能赚 ATT 积分吗？ {#can-i-still-earn-att-points}
 
-Luckgram no longer gives ATT points for scrolling or chatting, and the ATT autopilot no longer runs. The old Scroll-to-Earn and autopilot guides are not current instructions.
+Luckgram 不再因刷动态或聊天发放 ATT 积分，ATT 自动驾驶也已停止运行。旧的 Scroll-to-Earn 和自动驾驶指南都不是现行说明。
 
-## When do I get rewards for my ATT points and NFT stickers?
+## ATT 积分和 NFT 贴纸的奖励什么时候发？ {#when-do-i-get-rewards-for-my-att-points-and-nft-stickers}
 
-Rewards for the ATT points and NFT stickers you collected are being calculated now; an update with the details is coming soon in the official Luckgram channel @luckgramapp.
+你收集的 ATT 积分和 NFT 贴纸的奖励正在计算中；详情将很快在 Luckgram 官方频道 @luckgramapp 公布。
 
-## Can I see deleted messages?
+## 能看到已删除的消息吗？ {#can-i-see-deleted-messages}
 
-Luckgram has no option to see deleted messages. An iOS option that kept messages deleted by others visible existed only briefly, in January 2024 (version 1.5.3), and was removed in the next update. It never recovered messages deleted before it was turned on.
+Luckgram 没有查看已删除消息的选项。iOS 上曾短暂存在一个让别人删除的消息保持可见的选项，仅在 2024 年 1 月（1.5.3 版）出现过，在下一次更新中就被移除了。它从来不能恢复在开启之前被删除的消息。
 
-## Where is Ghost mode?
+## 幽灵模式在哪里？ {#where-is-ghost-mode}
 
-Luckgram replaced Ghost mode with Preview mode in version 5.15.4 (29 February 2020) to comply with Telegram's API terms of service.
+为遵守 Telegram 的 API 服务条款，Luckgram 在 5.15.4 版（2020 年 2 月 29 日）中用预览模式取代了幽灵模式。
 
-## Does Luckgram have eSIM?
+## Luckgram 有 eSIM 吗？ {#does-luckgram-have-esim}
 
-Luckgram has no built-in eSIM or mobile data feature. An early eSIM integration from 2022 was removed from the app in 2024.
+Luckgram 没有内置的 eSIM 或移动数据功能。2022 年的早期 eSIM 集成已于 2024 年从应用中移除。

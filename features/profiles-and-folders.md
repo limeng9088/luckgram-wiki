@@ -1,124 +1,101 @@
 ---
-description: View extra profile information and organize the Luckgram interface with folders and tab controls, change your Telegram username, and see how Telegram verification works.
+description: 查看更多资料信息，用文件夹和标签设置整理 Luckgram 界面，修改 Telegram 用户名，并了解 Telegram 认证是怎么回事。
 ---
 
-# How do profile, folder, and interface tools work?
+# 资料、文件夹和界面工具怎么用？
 
-Luckgram can expose additional identifiers and organization controls around the
-standard Telegram interface.
+Luckgram 可以在标准 Telegram 界面之上，提供更多标识信息和整理选项。
 
-## Telegram ID
+## Telegram ID {#telegram-id}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-**Show ID** displays the numeric Telegram identifier for a supported user, chat, or
-channel surface. An ID is useful for support and integrations, but it is not proof
-that a person controls or officially represents an account.
+**显示 ID** 会在受支持的用户、聊天或频道页面显示数字形式的 Telegram ID。ID 对联系客服和对接集成很有用，
+但它不能证明某个人控制着或正式代表某个账号。
 
-## Registration date estimate
+## 注册时间估算 {#registration-date-estimate}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-**RegDate** estimates when a Telegram account was registered. The result is derived
-from known reference points and can be approximate; it is not a Telegram-issued
-identity or trust certificate.
+**注册时间（RegDate）** 会估算一个 Telegram 账号的注册时间。结果根据已知的参考点推算，可能只是大概；
+它不是 Telegram 颁发的身份或信用证明。
 
-## Keyword folders
+## 关键词文件夹 {#keyword-folders}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Where enabled, keyword folders help surface or organize conversations around
-configured terms. Matching can depend on the active rollout and the content the
-feature is allowed to inspect. Verify the current privacy explanation before using
-it for confidential work.
+开启后，关键词文件夹可以按设定的词语筛出或整理对话。匹配效果可能取决于当前的上线范围，
+以及该功能被允许检查的内容。用于保密工作之前，请先确认当前的隐私说明。
 
-## Remember the last folder
+## 记住上次的文件夹 {#remember-the-last-folder}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Supported builds can reopen the chat folder you last used instead of returning to a
-default list.
+受支持的版本可以重新打开你上次使用的聊天文件夹，而不是回到默认列表。
 
-## Hide unused tabs and floating tools
+## 隐藏不用的标签和悬浮工具 {#hide-unused-tabs-and-floating-tools}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Luckgram settings can hide selected tabs or a floating in-chat menu. Hiding a tab
-changes navigation; it does not delete the associated data or turn off a backend
-service by itself.
+在 Luckgram 设置中可以隐藏选中的标签或聊天内的悬浮菜单。隐藏标签只改变导航，
+不会删除相关数据，本身也不会关闭后端服务。
 
-**Availability:** Telegram ID and RegDate are visible in supported iOS and Android
-builds. Keyword folders and individual interface controls can be limited by rollout.
+**可用平台：** Telegram ID 和注册时间会在受支持的 iOS 和 Android 版本中显示。关键词文件夹和个别界面设置可能受上线范围限制。
 
-**Sources:** [Luckgram features](https://luckgram.cc/features) ·
-[iOS source](https://github.com/limeng9088/luckgram-ios) ·
-[Android source](https://github.com/limeng9088/luckgram-android)
+**来源：** [Luckgram 功能](https://luckgram.cc/features) ·
+[iOS 源码](https://github.com/limeng9088/luckgram-ios) ·
+[Android 源码](https://github.com/limeng9088/luckgram-android)
 
-## How do I change my username?
+## 怎样修改用户名？ {#how-do-i-change-my-username}
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。
 
-A username is the public name of your Telegram account. It is optional: anyone
-who finds you by it can write to you by your username alone.
+用户名是你 Telegram 账号的公开名称。它是可选的：任何通过用户名找到你的人，仅凭用户名就能给你发消息。
 
-1. Open the username screen:
-   - **iPhone and iPad:** **Settings → Edit → Username**. With no username yet,
-     **Set Username** is also in **Settings**.
-   - **Android:** **Settings**, then tap **Username**.
-2. Type the new username. When the app says it is available, tap the check mark
-   to save.
+1. 打开用户名页面：
+   - **iPhone 和 iPad：** **设置 → 编辑 → 用户名**。还没有用户名时，**设置** 里也会显示 **设置用户名**。
+   - **Android：** 打开 **设置**，然后点 **用户名**。
+2. 输入新用户名。应用提示可用后，点对勾保存。
 
-Telegram’s rules:
+Telegram 的规则：
 
-- Use a–z, 0–9 and underscores. Capital letters don’t make it a different
-  username.
-- 5 to 32 characters, not starting with a number.
-- A username belongs to one account at a time. **Sorry, this username is already
-  taken.** means you need to choose another.
+- 只能使用 a–z、0–9 和下划线。大小写不同不算不同的用户名。
+- 长度 5 到 32 个字符，不能以数字开头。
+- 一个用户名同一时间只属于一个账号。提示 **抱歉，该用户名已被占用。** 时需要换一个。
 
-After a change, your link is `t.me/` followed by the new username. To remove the
-username, leave it empty and save: people can no longer find you by it in
-search, and your existing chats stay as they are.
+修改后，你的链接是 `t.me/` 加上新用户名。想删除用户名，就把它清空后保存：别人将无法再通过搜索用户名找到你，
+已有的聊天不受影响。
 
-Collectible usernames are different: they are bought and sold on third-party
-platforms such as Fragment, and Telegram cannot assign them. If the app says a
-username is taken but available for purchase, it is a collectible one. If a basic
-username you also use on at least two of Facebook, Twitter and Instagram is
-taken, Telegram can help through @Username_bot.
+收藏版用户名不一样：它们在 Fragment 等第三方平台上买卖，Telegram 无法分配。如果应用提示某个用户名已被占用但可以购买，
+那就是收藏版用户名。如果一个普通用户名已被占用，而你在 Facebook、Twitter 和 Instagram 中至少两个平台上也使用它，
+可以通过 @Username_bot 向 Telegram 寻求帮助。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w6b-2026-10-16.md)
+**来源：** [依据记录](../docs/evidence/help-w6b-2026-10-16.md)
 
-## How do I get a verification checkmark?
+## 怎样获得认证标志？ {#how-do-i-get-a-verification-checkmark}
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。
 
-Only Telegram gives the official verification badge (a checkmark), and Luckgram
-cannot add one. A different badge next to a name can be the Telegram Premium
-profile badge, which comes with a Telegram Premium subscription. Telegram
-verifies active official channels, bots and public groups, not personal
-accounts. To apply, link your Telegram channel, bot or group from the bios of
-notable verified profiles on at least two other platforms, collect two press
-articles about you or your organization, then contact @VerifyBot in Telegram.
-The full requirements are in Telegram's
-[Page Verification Guidelines](https://telegram.org/verify).
+官方认证标志（对勾）只能由 Telegram 授予，Luckgram 无法添加。名字旁边的其他徽章可能是 Telegram Premium 资料徽章，
+开通 Telegram Premium 订阅后就会显示。Telegram 认证的是活跃的官方频道、机器人和公开群组，不认证个人账号。
+申请方法：在至少两个其他平台上知名的已认证资料简介中链接你的 Telegram 频道、机器人或群组，
+收集两篇关于你或你所在组织的媒体报道，然后在 Telegram 中联系 @VerifyBot。
+完整要求见 Telegram 的[页面认证指南](https://telegram.org/verify)。
 
-Some other services show their own icons next to accounts and chats. These are
-not Telegram's checkmark.
+其他一些服务会在账号和聊天旁边显示它们自己的图标。这些都不是 Telegram 的认证标志。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w8-2026-10-16.md)
+**来源：** [依据记录](../docs/evidence/help-w8-2026-10-16.md)
 
 
-## Where is the search button (magnifying glass)?
+## 搜索按钮（放大镜）在哪里？ {#where-is-the-search-button-magnifying-glass}
 
-On iPhone and iPad, where you start a search depends on your Luckgram version.
+在 iPhone 和 iPad 上，从哪里开始搜索取决于你的 Luckgram 版本。
 
-- **Luckgram 2.6.4:** tap the **Search** field at the top of the chat list.
-- **Luckgram 2.4.1 to 2.6.3:** a magnifying glass button sits at the right end of
-  the tab bar at the bottom of the screen on the **Chats**, **Contacts**,
-  **Calls**, **Settings** and **Luckgram** tabs. Tap it to search.
+- **Luckgram 2.6.4：** 点聊天列表顶部的 **搜索** 框。
+- **Luckgram 2.4.1 到 2.6.3：** 在 **聊天**、**联系人**、**通话**、**设置** 和 **Luckgram** 标签页上，
+  屏幕底部标签栏的最右边有一个放大镜按钮，点它即可搜索。
 
-The magnifying glass is Telegram's own tab bar search, not a separate Luckgram
-feature. If it appeared or disappeared, your app version changed. Updating to
-2.6.4 from the App Store moves search to the field at the top of the chat list.
+这个放大镜是 Telegram 自己的标签栏搜索，不是 Luckgram 的独立功能。如果它出现或消失了，说明你的应用版本变了。
+从 App Store 更新到 2.6.4 后，搜索会移到聊天列表顶部的搜索框。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w10-2026-10-23.md)
+**来源：** [依据记录](../docs/evidence/help-w10-2026-10-23.md)

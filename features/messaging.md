@@ -1,90 +1,77 @@
 ---
-description: Use Luckgram quick replies, forwarding options, private replies, and message-selection tools, and find or restore Telegram sticker sets.
+description: 使用 Luckgram 的快捷回复、转发选项、私下回复和消息选择工具，以及查找或找回 Telegram 贴纸包。
 ---
 
-# What messaging tools does Luckgram add?
+# Luckgram 增加了哪些消息工具？
 
-Luckgram’s messaging additions reduce repeated typing and add shortcuts around
-forwarding, saving, selecting, and replying to messages.
+Luckgram 的消息功能能减少重复打字，并为转发、收藏、选择和回复消息增加快捷方式。
 
-## Quick replies
+## 快捷回复 {#quick-replies}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Quick replies are reusable text templates stored for a Luckgram account.
+快捷回复是为某个 Luckgram 账号保存的可重复使用的文字模板。
 
-1. Create or edit templates in Luckgram settings or from the quick-reply surface.
-2. Open a chat and invoke the quick-reply control offered by your platform.
-3. Select a template and review the text before sending it.
+1. 在 Luckgram 设置或快捷回复面板中创建或编辑模板。
+2. 打开聊天，使用你所在平台提供的快捷回复按钮。
+3. 选择一个模板，发送前检查一下文字。
 
-Luckgram quick replies are not necessarily the same as Telegram Business cloud
-quick replies. Do not assume a local Luckgram template will appear in another
-Telegram client.
+Luckgram 的快捷回复不一定等同于 Telegram Business 的云端快捷回复。
+不要以为本地的 Luckgram 模板会出现在其他 Telegram 客户端里。
 
-## Anonymous forwarding and forward as copy
+## 隐藏来源转发和以副本转发 {#anonymous-forwarding-and-forward-as-copy}
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。
 
-Where available, this action sends the content as a new message or copy instead of
-preserving the normal “Forwarded from” attribution. Review media captions and
-embedded links before sending; removing attribution does not grant permission to
-republish someone else’s content.
+在提供该功能时，这个操作会把内容作为一条新消息或副本发送，而不保留通常的“转发自”来源。
+发送前请检查媒体说明文字和其中的链接；去掉来源并不代表你有权转载别人的内容。
 
-## Direct save and reply privately
+## 一键收藏和私下回复 {#direct-save-and-reply-privately}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-- **Direct Save to Messages** shortens the path for sending selected content to
-  Saved Messages.
-- **Reply Privately** starts a direct response to a participant from a supported
-  group context.
+- **一键存到收藏夹**：缩短把选中内容发送到收藏夹的步骤。
+- **私下回复**：在受支持的群组中，直接私聊回复某位成员。
 
-## Bulk selection and extra actions
+## 批量选择和更多操作 {#bulk-selection-and-extra-actions}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Supported mobile builds add selection or context-menu actions such as selecting
-messages by author, copying or saving variants, and moderation shortcuts. Available
-actions depend on chat type and your permissions.
+受支持的移动端版本会增加选择或长按菜单操作，例如按发送者选择消息、复制或保存的不同方式，以及管理快捷操作。
+可用操作取决于聊天类型和你的权限。
 
-## Clickable profile links
+## 可点击的资料链接 {#clickable-profile-links}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Supported links in a profile bio can open directly. Treat unfamiliar links as
-external content and verify the destination before signing in or connecting a wallet.
+资料简介里受支持的链接可以直接打开。请把不熟悉的链接当作外部内容，
+在登录或连接钱包之前先确认目标地址。
 
-**Availability:** primarily iOS and Android; individual actions vary by platform,
-chat type, permissions, and version.
+**可用平台：** 主要是 iOS 和 Android；具体操作因平台、聊天类型、权限和版本而异。
 
-**Sources:** [Luckgram FAQ](https://luckgram.cc/faq) ·
-[iOS source](https://github.com/limeng9088/luckgram-ios) ·
-[Android source](https://github.com/limeng9088/luckgram-android)
+**来源：** [Luckgram 常见问题](https://luckgram.cc/faq) ·
+[iOS 源码](https://github.com/limeng9088/luckgram-ios) ·
+[Android 源码](https://github.com/limeng9088/luckgram-android)
 
-## Where are my stickers, and how do I get them back?
+## 我的贴纸在哪里，怎么找回？ {#where-are-my-stickers-and-how-do-i-get-them-back}
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。
 
-Sticker sets you add are saved to your Telegram account, not to the phone, so
-they come back on every device where you sign in to that account. Each account
-has its own sets: if you use several, check in the account switcher that the
-active account is the one where you added them.
+你添加的贴纸包保存在 Telegram 账号里，而不是手机上，所以在任何登录该账号的设备上都会出现。
+每个账号有自己的贴纸包：如果你用多个账号，请在账号切换器里确认当前账号就是你添加贴纸的那个。
 
-Your sets are in:
+贴纸包位于：
 
-- **iPhone and iPad:** **Settings → Appearance → Stickers and Emoji**.
-- **Android:** **Settings → Chat Settings → Stickers**.
+- **iPhone 和 iPad：** **设置 → 外观 → 贴纸与表情**。
+- **Android：** **设置 → 聊天设置 → 贴纸**。
 
-**A set is missing from the list after you added new ones?** You can have up to 200 sticker
-sets; when you add more, unused sets are archived, not deleted. Open **Archived
-Stickers** on the same screen and tap **Add** next to a set to bring it back.
+**添加了新贴纸后，某个贴纸包从列表里不见了？** 最多可以有 200 个贴纸包；再添加时，不常用的贴纸包会被归档，而不是删除。
+在同一页面打开 **已归档的贴纸**，点贴纸包旁边的 **添加** 就能找回。
 
-**You removed a set?** Tap any sticker from that set in a chat to open the whole
-set, then tap the button that adds it (for example, **Add 24 Stickers**). A
-sticker-set link (`t.me/addstickers/…`) opens the set the same way.
+**你移除了某个贴纸包？** 在聊天里点该贴纸包中的任意一个贴纸，打开整个贴纸包，然后点添加按钮
+（例如 **添加 24 个贴纸**）。贴纸包链接（`t.me/addstickers/…`）也能用同样方式打开。
 
-NFT stickers and gifts are something else. If you no longer have your NFT stickers
-or gifts, you may have been scammed: Telegram reviews such cases at
-support@telegram.org.
+NFT 贴纸和礼物是另一回事。如果你的 NFT 贴纸或礼物不见了，你可能遇到了诈骗：
+Telegram 通过 support@telegram.org 处理这类情况。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w6a-2026-10-16.md)
+**来源：** [依据记录](../docs/evidence/help-w6a-2026-10-16.md)

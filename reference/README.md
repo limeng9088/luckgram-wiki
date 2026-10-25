@@ -1,14 +1,15 @@
 ---
 permalink: /reference/
-description: Quick answers, release notes and official links for Luckgram.
+description: Luckgram 的快速解答、更新说明和官方链接。
 generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
+translated_from: en/reference/README.md
 ---
 
-<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
+<!-- 中文译本：英文原文 en/reference/ 由 Luckgram 数据室生成。修改请改数据室源文件，重新生成后再同步翻译。 -->
 
-# Quick reference
+# 快速参考
 
-- [Quick answers](quick-answers.md): short answers to common questions about Luckgram.
-- [What's new](whats-new.md): the store release notes for iPhone, iPad and Android.
-- [Official links and downloads](official-links.md): apps, websites, channels and contacts.
+- [快速解答](quick-answers.md)：关于 Luckgram 常见问题的简短回答。
+- [更新说明](whats-new.md)：iPhone、iPad 和 Android 应用商店中的版本更新说明。
+- [官方链接与下载](official-links.md)：应用、网站、频道和联系方式。

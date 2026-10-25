@@ -1,245 +1,186 @@
 ---
-description: Add, switch, back up, and hide Telegram accounts in Luckgram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
+description: 在 Luckgram 中添加、切换、备份和隐藏 Telegram 账号，用验证码和两步验证密码登录，找回忘记的密码，导出聊天记录，以及了解已删除的消息能否恢复。
 ---
 
-# How do accounts work in Luckgram?
+# Luckgram 的账号是怎么用的？
 
-Luckgram signs in to Telegram accounts and lets you keep more of them in one client
-than a standard Telegram setup typically exposes. The account switcher keeps each
-account’s chats and settings separate.
+Luckgram 登录的是 Telegram 账号，并让你在一个客户端里放下比普通 Telegram 更多的账号。
+账号切换器会把每个账号的聊天和设置分开保存。
 
-## Add an account
+## 添加账号 {#add-an-account}
 
-> **Telegram limit applies.** Luckgram currently allows the standard Telegram number of accounts (3, or 4 with Telegram Premium). Support for more accounts is in development.
+> **适用 Telegram 的上限。** Luckgram 目前允许的账号数与 Telegram 官方一致（3 个，开通 Telegram Premium 后为 4 个）。支持更多账号的功能正在开发中。
 
-1. Open **Settings**.
-2. Open the account switcher or choose **Add Account**.
-3. Enter the phone number attached to the Telegram account.
-4. Complete Telegram’s login-code and two-step-verification flow, if enabled.
+1. 打开 **设置**。
+2. 打开账号切换器，或选择 **添加账号**。
+3. 输入该 Telegram 账号绑定的手机号。
+4. 按 Telegram 的流程输入登录验证码；如果开启了两步验证，再输入密码。
 
-The exact account ceiling is platform-specific and can also be constrained by
-memory, storage, notification load, or Telegram. Luckgram’s public source currently
-contains a much higher iOS ceiling and Android options for 10 or 100 accounts, so
-“unlimited” should be understood as expanded multi-account use rather than a
-guarantee that every device can run an arbitrary number.
+具体能登录多少个账号因平台而异，也可能受内存、存储空间、通知数量或 Telegram 本身的限制。
+Luckgram 的公开源码中，iOS 的上限高得多，Android 有 10 个或 100 个账号的选项，
+所以“无限账号”应理解为扩展的多账号使用，而不是保证每台设备都能运行任意数量的账号。
 
-## Switch accounts
+## 切换账号 {#switch-accounts}
 
-Open the account switcher and select an account. Before sending a message, confirm
-the active avatar and identity, especially if you manage client or channel accounts.
+打开账号切换器并选择一个账号。发消息之前先确认当前的头像和身份，
+尤其是在你管理客户账号或频道账号的时候。
 
-## Sign in to the same account on several devices
+## 在多台设备上登录同一个账号 {#sign-in-to-the-same-account-on-several-devices}
 
-Telegram lets you sign in to one account on as many devices as you like, at the
-same time. On a new device, the login code may arrive in the chat with Telegram
-on a device where you are already signed in. You also need your two-step
-password, if set.
+Telegram 允许同一个账号同时登录任意多台设备。在新设备上登录时，验证码可能会发到你
+已登录设备上的 “Telegram” 官方对话里。如果设置了两步验证，还需要输入密码。
 
-Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
-end sessions you do not recognise. On an account bought through Account Shop,
-[contact support](../help/support-and-source.md) first if you are unsure.
+在 **设置 → 设备**（或 **活跃会话**）里查看已登录的设备，结束你不认识的会话。
+如果是通过账号商店购买的账号，拿不准时请先[联系客服](../help/support-and-source.md)。
 
-## I lost my phone or SIM card
+## 手机或 SIM 卡丢了 {#i-lost-my-phone-or-sim-card}
 
-Telegram ties your account to its phone number. To get back in you need that
-number or a device where you are still signed in; neither Telegram nor Luckgram
-support can restore an account without one of them.
+Telegram 账号和手机号绑定。要重新登录，你需要这个手机号，或者一台仍然登录着的设备；
+两者都没有的话，Telegram 和 Luckgram 客服都无法帮你恢复账号。
 
-**Still signed in on another device** (a tablet, computer, or Telegram Web):
+**其他设备上还登录着**（平板、电脑或 Telegram 网页版）：
 
-1. There, turn on **Two-Step Verification** in **Settings → Privacy and
-   Security**, so the SIM alone no longer opens your account.
-2. Under **Settings → Devices** (or **Active Sessions**), end the session of the
-   lost device.
-3. Ask your mobile operator to block the old SIM and reissue it.
+1. 在那台设备上，到 **设置 → 隐私与安全** 开启 **两步验证**，这样仅凭 SIM 卡就无法再打开你的账号。
+2. 在 **设置 → 设备**（或 **活跃会话**）里结束丢失设备的会话。
+3. 联系运营商挂失旧 SIM 卡并补办。
 
-**Not signed in anywhere else:** ask your mobile operator to block the old SIM
-and reissue it. Then sign in again and end the lost device’s session under
-**Settings → Devices**.
+**其他地方都没有登录：** 联系运营商挂失旧 SIM 卡并补办。然后重新登录，
+并在 **设置 → 设备** 里结束丢失设备的会话。
 
-When you sign in again:
+重新登录时：
 
-- The login code goes to Telegram on your other signed-in devices if you have
-  any. If none is available, tap **Didn’t get the code?** and choose SMS if
-  offered.
-- You also need your two-step password, if you set one. Forgot it? The recovery
-  email you added helps you reset it (see
-  [Telegram’s FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
-- An account bought through Account Shop or imported as a session may use a SIM
-  you do not control. [Contact support](../help/support-and-source.md) before
-  you try anything else.
+- 如果你还有其他已登录的设备，验证码会发到那些设备上的 Telegram 里。没有的话，
+  点 **没有收到验证码？**，如果有短信选项就选短信。
+- 如果设置过两步验证密码，也需要输入。忘了？用你绑定的找回邮箱可以重置（见
+  [Telegram 常见问题](https://telegram.org/faq#q-how-does-2-step-verification-work)）。
+- 通过账号商店购买或以会话方式导入的账号，用的可能是不在你手里的 SIM 卡。
+  在做其他尝试之前，请先[联系客服](../help/support-and-source.md)。
 
-Don’t wait too long. Telegram deletes an account that stays offline for the
-period set in **Settings → Privacy and Security** (“If Away For”). To move to a
-new number for good, change it while you still have access: **Settings →** your
-number **→ Change Number**.
+不要拖太久。账号离线超过 **设置 → 隐私与安全** 里设定的时长（“离开多久后删除”），Telegram 会删除该账号。
+如果想彻底换到新号码，请趁还能登录时修改：**设置 →** 你的号码 **→ 更换号码**。
 
-## I forgot my two-step verification password
+## 忘记了两步验证密码 {#i-forgot-my-two-step-verification-password}
 
-Bought this account through Account Shop or imported it as a session?
-[Contact support](../help/support-and-source.md) before you try anything below.
+这个账号是通过账号商店购买的，或者是以会话方式导入的？
+请在尝试下面的操作之前先[联系客服](../help/support-and-source.md)。
 
-On the password screen, tap **Forgot password?**:
+在密码页面点 **忘记密码？**：
 
-- **With a recovery email:** enter the 6-digit code Telegram emails you. The old
-  password is removed, and you can set a new one.
-- **No recovery email (or no access to it), but Telegram is open on another
-  device:** there, go to **Settings → Privacy and Security → Two-Step
-  Verification**, tap **Forgot password?** (with a recovery email, then
-  **Can’t access your email?**) and confirm the reset. After 7 days, open that
-  screen again and tap **Reset Password**; until then it shows how long is
-  left. Cancelling means a new request waits another 7 days.
-- **Neither:** the remaining option is **Reset account**. It cannot be undone:
-  your messages, media, contacts and groups are deleted, and signing up again
-  gives you an empty account. Telegram may delay it by a week if the
-  account was recently active; the app tells you when.
+- **设置过找回邮箱：** 输入 Telegram 发到邮箱的 6 位验证码。旧密码会被移除，你可以设置新密码。
+- **没有找回邮箱（或无法进入邮箱），但另一台设备上 Telegram 还登录着：** 在那台设备上进入
+  **设置 → 隐私与安全 → 两步验证**，点 **忘记密码？**（有找回邮箱的话，再点
+  **无法访问邮箱？**），然后确认重置。7 天后再打开这个页面，点 **重置密码**；在此之前页面会显示剩余时间。
+  如果中途取消，新的申请需要重新等 7 天。
+- **两者都没有：** 剩下的办法只有 **重置账号**。这一步无法撤销：你的消息、媒体、联系人和群组都会被删除，
+  重新注册后得到的是一个空账号。如果账号最近有活动，Telegram 可能会延迟一周执行，应用会告诉你具体时间。
 
-Neither Telegram nor Luckgram support can tell you this password. Never share
-it or a recovery code, even with someone who claims to be support. Lost the
-phone too? See [I lost my phone or SIM card](#i-lost-my-phone-or-sim-card).
+Telegram 和 Luckgram 客服都无法告诉你这个密码。永远不要把密码或找回验证码告诉任何人，
+即使对方自称客服。手机也丢了？请看[手机或 SIM 卡丢了](#i-lost-my-phone-or-sim-card)。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
+**来源：** [依据记录](../docs/evidence/help-telegram-basics-2026-10-13.md)
 
-## Register a new Telegram account
+## 注册新的 Telegram 账号 {#register-a-new-telegram-account}
 
-A new Telegram account can be created only in the official Telegram app; in Luckgram
-you sign in to an account you already have. In the official app, enter a mobile
-number that has no Telegram account yet. Once it is confirmed,
-Telegram asks for your name, offers a profile photo, and creates the account when
-you accept its terms. Landlines are not supported. Telegram may also ask for an
-email address.
+新的 Telegram 账号只能在官方 Telegram 应用里注册；在 Luckgram 里你只能登录已有账号。
+在官方应用里输入一个还没有注册过 Telegram 的手机号。确认之后，Telegram 会让你填写名字、
+设置头像，在你同意服务条款后创建账号。不支持固定电话。Telegram 也可能要求你提供邮箱地址。
 
-After deleting and re-creating an account several times, you wait a few days
-before signing up again. For other registration problems, Telegram points to its
-[support form](https://telegram.org/support).
+多次删除又重新注册账号后，需要等几天才能再次注册。遇到其他注册问题，Telegram 建议使用它的
+[支持表单](https://telegram.org/support)。
 
-## Back up, import, or export accounts
+## 备份、导入或导出账号 {#back-up-import-or-export-accounts}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Supported mobile builds expose Luckgram account-transfer tools. On iOS 15 or
-later they are in **Luckgram Settings → Accounts**: **iCloud Backup**, **Import
-from iCloud**, **Import from File** and **Export as File**. Android builds offer
-the same tools in Luckgram’s settings. These tools move account
-session access; they do not create a Telegram backup of all cloud chats.
+受支持的移动端版本会提供 Luckgram 的账号迁移工具。在 iOS 15 及以上版本中，它们位于
+**Luckgram 设置 → 账号**：**iCloud 备份**、**从 iCloud 导入**、**从文件导入** 和 **导出为文件**。
+Android 版本在 Luckgram 设置中提供同样的工具。这些工具迁移的是账号的会话登录权限，
+并不会为所有云端聊天创建 Telegram 备份。
 
-- Protect exported account material as you would an active login session.
-- Do not upload it to a public drive or send it through an untrusted chat.
-- Availability and compatibility can differ between iOS and Android builds.
+- 像保护正在登录的会话一样保护导出的账号文件。
+- 不要上传到公开网盘，也不要通过不可信的聊天发送。
+- iOS 和 Android 版本之间的可用性和兼容性可能不同。
 
-To keep an account out of the normal app surface, use
-[Double Bottom or hidden chats](../features/privacy.md) instead of sharing an
-exported session with another device.
+如果想让某个账号不出现在平常的界面里，请使用
+[双重空间或隐藏聊天](../features/privacy.md)，而不是把导出的会话分享到另一台设备。
 
-## Telegram Sessions and Account Shop
+## Telegram 会话与账号商店 {#telegram-sessions-and-account-shop}
 
-> **Under review.** This is not part of Luckgram and is not scheduled.
+> **评估中。** 这不是 Luckgram 的功能，也没有排期。
 
-Where available, open **Telegram Sessions → Buy Account**, choose from the
-currently offered countries or **Any country**, and review the purchase. Country
-selection does not guarantee stock. A plan benefit must be shown for your exact
-subscription; do not assume every Premium purchase includes an account.
+在提供该功能的地方，打开 **Telegram 会话 → 购买账号**，从当前可选的国家/地区或 **任意国家** 中选择，
+然后确认购买。选择国家并不保证有货。套餐权益必须以你的具体订阅显示的为准；
+不要以为每次购买 Premium 都附带账号。
 
-For a purchased session showing 403, a password request, or an account-deletion
-warning, keep any working access and contact [support](../help/support-and-source.md). Do not
-delete sessions or sign out as a generic repair, and never share login codes,
-passwords, or session files. Recovery needs an account-specific check.
+如果购买的会话显示 403、要求输入密码或提示账号将被删除，请保留仍然可用的登录，并联系[客服](../help/support-and-source.md)。
+不要把删除会话或退出登录当作通用修复办法，也永远不要分享登录验证码、密码或会话文件。恢复需要针对具体账号进行检查。
 
-## How do I back up all my chats and media?
+## 怎样备份所有聊天和媒体？ {#how-do-i-back-up-all-my-chats-and-media}
 
-Telegram keeps your cloud messages on its servers, so they come back on any
-device you use, even after losing your phone. Secret chats are the exception:
-they stay only on the device where they started, are left out of any copy, and
-are lost if you log out or lose that device.
+Telegram 把云端消息保存在它的服务器上，所以无论你用哪台设备，即使手机丢了，消息也都还在。
+私密聊天是例外：它们只保存在发起聊天的那台设备上，不包含在任何副本里，退出登录或丢失设备后就没了。
 
-For your own copy on a computer, use
-[Telegram Desktop](https://desktop.telegram.org), Telegram’s computer app (on a
-Mac, the one from that site), with the same number:
+想在电脑上保存一份自己的副本，可以用同一个号码登录
+[Telegram Desktop](https://desktop.telegram.org)（Telegram 的电脑版应用；Mac 上请用该网站提供的版本）：
 
-- **Everything:** **Settings → Advanced → Export Telegram data**. Tick what to
-  save: profile information, contacts, story archive, personal and bot chats,
-  groups, channels, and the kinds of media (photos, videos, voice and video
-  messages, stickers, GIFs, files up to a size limit). Pick HTML to read it,
-  JSON for programs, or both, and a folder (Downloads by default). Keep
-  Telegram Desktop running until it finishes.
-- **One conversation:** open it, then **⋯ → Export chat history**. Not offered
-  for chats where copying is turned off.
+- **全部内容：** **设置 → 高级 → 导出 Telegram 数据**。勾选要保存的内容：个人资料、联系人、快拍存档、
+  私人聊天和机器人聊天、群组、频道，以及各类媒体（照片、视频、语音和视频消息、贴纸、GIF、一定大小以内的文件）。
+  选择 HTML（方便阅读）、JSON（方便程序处理）或两者都要，再选择保存位置（默认是“下载”文件夹）。
+  导出完成前请保持 Telegram Desktop 运行。
+- **单个对话：** 打开对话，然后 **⋯ → 导出聊天记录**。关闭了复制功能的聊天不提供这个选项。
 
-On a newly signed-in computer, Telegram may make you wait first for security;
-come back when it says and repeat the request there.
+在新登录的电脑上，Telegram 出于安全考虑可能会让你先等一段时间；按提示的时间回来，在那台电脑上重新发起导出。
 
-The result is a folder of files on your computer. If the other person later
-deletes messages for both sides, a copy saved before still has them. Keep it as
-private as the conversations themselves.
+导出结果是电脑上的一个文件夹。即使对方之后双向删除了消息，之前保存的副本里仍然有。请像对待聊天本身一样保管好它。
 
-For the option some Luckgram builds offer, see
-[the section below](#export-messages-instead-of-sessions).
+部分 Luckgram 版本提供的另一种方式，请看[下面这一节](#export-messages-instead-of-sessions)。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-telegram-basics-2026-10-13.md)
+**来源：** [依据记录](../docs/evidence/help-telegram-basics-2026-10-13.md)
 
-## Export messages instead of sessions
+## 导出消息而不是会话 {#export-messages-instead-of-sessions}
 
-A chat export and an account-session export serve different purposes. A supported
-chat-export action can turn accessible messages for the offered period into a
-Markdown document. That document is not a complete media archive and cannot
-restore deleted messages. Follow only the options visible in your installed build.
+聊天导出和账号会话导出用途不同。受支持的聊天导出操作可以把指定时间段内可访问的消息生成一份 Markdown 文档。
+这份文档不是完整的媒体存档，也无法恢复已删除的消息。请只使用你安装的版本中实际显示的选项。
 
-**Sources:** Account-shop announcement ·
-Country selection ·
-[Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[iOS source](https://github.com/limeng9088/luckgram-ios) ·
-[Android source](https://github.com/limeng9088/luckgram-android)
+**来源：** 账号商店公告 ·
+国家/地区选择 ·
+[产品审核](../docs/evidence/product-review-2026-10-10.md) ·
+[iOS 源码](https://github.com/limeng9088/luckgram-ios) ·
+[Android 源码](https://github.com/limeng9088/luckgram-android)
 
-## Can I get back deleted messages, chats or files?
+## 已删除的消息、聊天或文件还能找回吗？ {#can-i-get-back-deleted-messages-chats-or-files}
 
-Deleted something by mistake? Usually it cannot come back: once both sides have
-deleted a message, it is deleted for good.
+不小心删了东西？通常是找不回来的：一条消息一旦双方都删除，就永久删除了。
 
-- **Just deleted a chat or left a group?** Luckgram briefly shows **Undo**. The
-  chat goes only when that bar goes away, so tap **Undo** in time.
-- **A chat with one person:** if you deleted it only for yourself, the other
-  person still has their copy of the messages.
-- **A group or channel you left:** a public one can be found in search, and
-  anyone can join it again. A private one needs an invite link; an admin can add
-  you back only if you are mutual contacts. Whether you see earlier messages
-  depends on the group’s history setting.
-- **Files in Saved Messages:** Saved Messages is your own cloud storage, and
-  only you are in it, so a file you deleted there cannot be restored. If you
-  saved it there from another chat, the original is still in that chat unless it
-  was deleted there too.
-- **Photos and other media saved to your gallery** with **Save to Camera
-  Roll** or **Save to Gallery** (iPhone, iPad) or **Save to gallery** (Android)
-  are copies in the gallery itself. Look for them there.
+- **刚删除了聊天或退出了群组？** Luckgram 会短暂显示 **撤销**。只有这个提示条消失后聊天才会真正删除，
+  所以要及时点 **撤销**。
+- **和某个人的聊天：** 如果你只为自己删除了，对方那里的消息还在。
+- **退出的群组或频道：** 公开群组或频道可以在搜索中找到，任何人都可以重新加入。私有的需要邀请链接；
+  只有你们互为联系人时，管理员才能把你重新拉进来。能否看到以前的消息取决于群组的历史记录设置。
+- **收藏夹里的文件：** 收藏夹是只有你自己的云端存储，在那里删除的文件无法恢复。
+  如果文件是你从别的聊天存过去的，只要原聊天里没有删除，原文件就还在。
+- **用 **保存到相册**（iPhone、iPad）或 **保存到图库**（Android）保存过的照片和其他媒体**，
+  是存在相册里的副本，去相册里找即可。
 
-**If I delete messages with another person, can they get them back?** Not if
-you delete them for both of you: choose **Delete for me and** *name* (iPhone,
-iPad) or tick **Also delete for** *name* (Android). The messages then leave the
-other person’s chat too, without a mark, and Telegram cannot restore them. If
-you delete only for yourself, they keep their copy, and a copy saved earlier,
-such as a chat export, keeps the messages. In a secret chat, deleting a message
-always deletes it for the other side too. In a group you can delete only your
-own messages.
+**如果我删除了和某人的消息，对方还能找回吗？** 如果你选择了为双方删除，就不能：选择 **同时为**
+*对方名字* **删除**（iPhone、iPad），或勾选 **同时为** *对方名字* **删除**（Android）。
+消息会从对方的聊天里一并消失，不留痕迹，Telegram 也无法恢复。如果只为自己删除，对方仍保留着副本；
+之前保存的副本（比如聊天导出）里也还有这些消息。在私密聊天里，删除消息总是会同时为对方删除。
+在群组里你只能删除自己发的消息。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)
+**来源：** [依据记录](../docs/evidence/help-w11-2026-10-23.md)
 
-## Can I sign in with my password or my email instead of the code?
+## 能用密码或邮箱代替验证码登录吗？ {#can-i-sign-in-with-my-password-or-my-email-instead-of-the-code}
 
-No. Signing in takes the login code Telegram sends you. If you turned on
-**Two-Step Verification**, you enter its password after the code, not instead
-of it.
+不能。登录必须使用 Telegram 发给你的验证码。如果你开启了 **两步验证**，密码是在验证码之后输入，而不是代替验证码。
 
-Telegram chooses where to send the login code:
+Telegram 会决定把验证码发到哪里：
 
-- the chat with **Telegram** (a verified account with a blue check) in any app
-  where you are already signed in;
-- SMS, or a call where offered. If you don’t get it, tap **Didn’t get the
-  code?**, and choose SMS if the app offers it;
-- email, if Telegram asked you to set up a **login email**. Telegram asks for one
-  when you sign in often; the screen then shows **Check Your Email**. That
-  address is only where the code is sent, not a way to sign in by itself.
+- 你已登录的任何应用里与 **Telegram**（带蓝色认证标志的官方账号）的对话；
+- 短信，或在提供时通过电话。如果没收到，点 **没有收到验证码？**，应用提供短信选项时选择短信；
+- 邮箱，前提是 Telegram 要求你设置过 **登录邮箱**。当你频繁登录时 Telegram 会要求设置，
+  这时页面会显示 **查看你的邮箱**。这个地址只是接收验证码的地方，本身不能用来登录。
 
-The recovery email you added for the password does not sign you in either. It
-helps only after the login code, to reset the password; the reset steps are
-earlier on this page.
+你为密码绑定的找回邮箱也不能用来登录。它只在输入验证码之后、重置密码时才有用；重置步骤见本页前面的内容。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w11-2026-10-23.md)
+**来源：** [依据记录](../docs/evidence/help-w11-2026-10-23.md)

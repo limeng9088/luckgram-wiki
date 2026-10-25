@@ -1,85 +1,82 @@
 ---
 permalink: /features/
-description: A complete, status-aware index of documented Luckgram features.
+description: 按状态整理的 Luckgram 功能完整索引。
 ---
 
-# What features does Luckgram add?
+# Luckgram 增加了哪些功能？
 
-Luckgram is built on the official Telegram app. This index shows which documented
-features work today (standard Telegram features) and which Luckgram additions are
-still in development.
+Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在就能用（Telegram 标准功能），
+哪些 Luckgram 新增功能仍在开发中。
 
-## Accounts and privacy
+## 账号与隐私 {#accounts-and-privacy}
 
-| Feature | What it does | Status |
+| 功能 | 作用 | 状态 |
 |---|---|---|
-| Expanded accounts | Keeps more Telegram accounts in one client | In development (Telegram limit applies today) |
-| Account backup/import/export | Transfers supported account sessions between client setups | In development |
-| Double Bottom | Reveals a separate hidden account surface through an alternate access action | In development |
-| Hidden chats | Removes selected chats from the normal chat list | In development |
-| Immediate auto-lock | Shortens the time before the app lock engages | In development |
-| Hide phone number | Adds a client control around phone-number visibility | In development |
+| 更多账号 | 在一个客户端里放下更多 Telegram 账号 | 开发中（目前适用 Telegram 上限） |
+| 账号备份/导入/导出 | 在不同客户端环境之间迁移受支持的账号会话 | 开发中 |
+| 双重空间（Double Bottom） | 通过另一种进入方式打开一个独立的隐藏账号界面 | 开发中 |
+| 隐藏聊天 | 把选中的聊天从普通聊天列表中移除 | 开发中 |
+| 立即自动锁定 | 缩短应用锁生效前的等待时间 | 开发中 |
+| 隐藏手机号 | 增加一个控制手机号可见性的客户端选项 | 开发中 |
 
-Read [Privacy controls](privacy.md).
+请阅读[隐私控制](privacy.md)。
 
-## Messaging, language, and media
+## 消息、语言与媒体 {#messaging-language-and-media}
 
-| Feature | What it does | Status |
+| 功能 | 作用 | 状态 |
 |---|---|---|
-| Quick replies | Reuses saved response templates | In development |
-| Anonymous forwarding / forward as copy | Sends content without the original forwarding attribution where supported | Available (Telegram) |
-| Direct save / private reply | Adds shortcuts around saved messages and group replies | In development |
-| Bulk selection | Selects more messages for a shared action | In development |
-| Incoming and outgoing translation | Translates received text or text before sending | Incoming: available (Telegram); outgoing: in development |
-| Speech-to-text | Produces a transcript from supported audio | Telegram Premium; free version in development |
-| Existing video as video message | Converts a compatible local video into a round message | In development |
-| Rear-camera preference | Starts supported video capture with the rear camera | In development |
-| Call recording | Records supported calls and saves the result through the app flow | In development |
-| Advanced cache/download controls | Gives additional control over local media handling | Telegram storage settings available; extras in development |
+| 快捷回复 | 重复使用保存好的回复模板 | 开发中 |
+| 隐藏来源转发 / 以副本转发 | 在支持时发送内容而不带原来的转发来源 | 已上线（Telegram） |
+| 一键收藏 / 私下回复 | 增加收藏消息和群内回复的快捷方式 | 开发中 |
+| 批量选择 | 一次选中更多消息进行同一操作 | 开发中 |
+| 收发消息翻译 | 翻译收到的文字，或在发送前翻译 | 收到的：已上线（Telegram）；发送的：开发中 |
+| 语音转文字 | 把受支持的音频转成文字 | Telegram Premium；免费版开发中 |
+| 已有视频发成视频消息 | 把兼容的本地视频转成圆形视频消息 | 开发中 |
+| 优先使用后置摄像头 | 受支持的视频拍摄默认用后置摄像头开始 | 开发中 |
+| 通话录音 | 录制受支持的通话，并通过应用流程保存 | 开发中 |
+| 高级缓存/下载控制 | 对本地媒体的处理提供更多控制 | Telegram 存储设置已可用；扩展功能开发中 |
 
-Read [Messaging tools](messaging.md),
-[Translation and speech-to-text](translation-and-voice.md), and
-[Media and call tools](media-and-calls.md).
+请阅读[消息工具](messaging.md)、
+[翻译与语音转文字](translation-and-voice.md)和
+[媒体与通话工具](media-and-calls.md)。
 
-## Profiles and organization
+## 资料与整理 {#profiles-and-organization}
 
-| Feature | What it does | Status |
+| 功能 | 作用 | 状态 |
 |---|---|---|
-| Show Telegram ID | Displays an account or peer identifier in supported profile surfaces | In development |
-| Registration date estimate | Shows an estimated Telegram-account registration period | In development |
-| Clickable bio links | Makes supported links in profile bios directly actionable | In development |
-| Remember last folder | Returns to the previously selected chat folder | In development |
-| Keyword folders | Organizes or surfaces chats around configured keywords | In development |
-| Hide unused tabs | Removes selected Luckgram navigation items | In development |
+| 显示 Telegram ID | 在受支持的资料页面显示账号或对方的 ID | 开发中 |
+| 注册时间估算 | 显示 Telegram 账号大致的注册时间段 | 开发中 |
+| 可点击的简介链接 | 资料简介里受支持的链接可以直接点开 | 开发中 |
+| 记住上次的文件夹 | 回到之前选中的聊天文件夹 | 开发中 |
+| 关键词文件夹 | 按设定的关键词整理或筛出聊天 | 开发中 |
+| 隐藏不用的标签 | 移除选中的 Luckgram 导航项 | 开发中 |
 
-Read [Profiles, folders, and interface](profiles-and-folders.md).
+请阅读[资料、文件夹与界面](profiles-and-folders.md)。
 
-## AI, plans, and programs
+## AI、套餐与活动 {#ai-plans-and-programs}
 
-| Feature | What it does | Status |
+| 功能 | 作用 | 状态 |
 |---|---|---|
-| AI Assistant | Answers prompts and assists with writing or understanding content | In development |
-| AI chat shortcuts | Summarizes, explains, rewrites, or generates content from supported contexts | In development |
-| AI generation and problem-solving actions | Actions depend on the current client, available models and account access | In development |
-| Former in-app wallet | Historical wallet-linked access is separate from financial functionality | Not in Luckgram |
-| Telegram Sessions / Account Shop | Offers account purchase from the currently available selection | Under review |
-| Gems / AI balance | Represents eligible usage credit for supported paid actions | In development |
-| Referrals and campaigns | Shows eligible campaign routes and historical results | In development |
-| AI Agent Marketplace | Discovers and uses eligible AI agents | In development |
-| HyperLancer | Project relaunch is being worked on | Under review |
-| God’s Eye / Spy on Friends | Contact-activity insight surfaces listed by Luckgram | Under review |
+| AI 助手 | 回答问题，帮你写作或理解内容 | 开发中 |
+| AI 聊天快捷操作 | 在受支持的场景中总结、解释、改写或生成内容 | 开发中 |
+| AI 生成与解题操作 | 可用操作取决于当前客户端、可用模型和账号权限 | 开发中 |
+| 原应用内钱包 | 历史上与钱包关联的入口，与金融功能是两回事 | Luckgram 不提供 |
+| Telegram 会话 / 账号商店 | 从当前可选范围内购买账号 | 评估中 |
+| Gems / AI 余额 | 代表可用于受支持付费操作的用量额度 | 开发中 |
+| 邀请与活动 | 显示符合条件的活动入口和历史结果 | 开发中 |
+| AI 智能体市场 | 发现并使用符合条件的 AI 智能体 | 开发中 |
+| HyperLancer | 项目正在重新筹备 | 评估中 |
+| God’s Eye / Spy on Friends | Luckgram 列出的联系人动态洞察功能 | 评估中 |
 
-Read [Luckgram AI](ai.md), [Former wallet](wallet.md),
-[Plans, Gems, and referrals](plans-and-rewards.md), and
-[Beta and limited-rollout features](beta.md).
+请阅读 [Luckgram AI](ai.md)、[原钱包](wallet.md)、
+[套餐、Gems 与邀请奖励](plans-and-rewards.md)和
+[测试版与限量上线功能](beta.md)。
 
-## What is not listed as a Luckgram feature
+## 不算作 Luckgram 功能的内容 {#what-is-not-listed-as-a-luckgram-feature}
 
-Normal Telegram chats, channels, calls, Secret Chats, Stories, bots, and Telegram
-Business features remain Telegram capabilities when Luckgram does not add a
-distinct workflow. Their behavior follows Telegram and can change with upstream
-client updates.
+普通的 Telegram 聊天、频道、通话、私密聊天、快拍、机器人和 Telegram Business 功能，
+在 Luckgram 没有增加独立流程时，仍然属于 Telegram 本身的能力。它们的行为以 Telegram 为准，
+并可能随上游客户端的更新而变化。
 
-**Sources:** [Implementation review](../docs/evidence/product-review-2026-10-10.md) ·
-[Public feature evidence](../docs/evidence/feature-sources.md). Source-backed
-behavior and current release availability are separate checks.
+**来源：** [实现审核](../docs/evidence/product-review-2026-10-10.md) ·
+[公开功能依据](../docs/evidence/feature-sources.md)。源码中有对应实现，和当前发布版本中可用，是两项独立的核实。

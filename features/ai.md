@@ -1,43 +1,36 @@
 ---
-description: Understand Luckgram AI tools, eligibility, data use, and result limitations.
+description: 了解 Luckgram AI 工具、使用条件、数据用途和结果的局限。
 ---
 
-# How does Luckgram AI work?
+# Luckgram AI 是怎么工作的？
 
-> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+> **开发中。** 本页的功能 Luckgram 目前还没有。它们已列入路线图，本页描述的是计划中的行为。
 
-Luckgram AI adds assistant and content actions to eligible app surfaces. Depending
-on the current build, these can include answering prompts, explaining a topic,
-summarizing selected chat context, drafting or rewriting text, and invoking an
-AI shortcut from a conversation. Use the actions and models actually offered by
-your build; older lists of image, voice, and other assistant actions may be stale.
+Luckgram AI 会在符合条件的应用界面中增加助手和内容操作。根据当前版本，可能包括回答问题、解释某个话题、
+总结选中的聊天内容、起草或改写文字，以及在对话中调用 AI 快捷操作。请以你的版本实际提供的操作和模型为准；
+早期列出的图片、语音等助手操作可能已经过时。
 
-## Typical flow
+## 典型流程 {#typical-flow}
 
-1. Open the AI Assistant or an AI action in a supported chat or composer.
-2. Review which conversation content will be included.
-3. Enter a prompt or choose a predefined action.
-4. Review the result before sending, publishing, or acting on it.
+1. 在受支持的聊天或输入框中打开 AI 助手或某个 AI 操作。
+2. 确认哪些对话内容会被包含进去。
+3. 输入问题，或选择预设的操作。
+4. 在发送、发布或据此行动之前，先检查结果。
 
-AI output can be wrong, incomplete, or fabricated. Verify financial, medical,
-legal, security, and identity-related results independently.
+AI 输出可能是错误的、不完整的，甚至是编造的。涉及财务、医疗、法律、安全和身份的结果，请独立核实。
 
-## Availability and limits
+## 可用性与限制 {#availability-and-limits}
 
-Current client implementations still contain AI tools. Changes to older
-assistant services do not mean that all Luckgram AI has been removed. Access can
-vary by platform, version, subscription, usage balance, provider capacity, region,
-and rollout; a source implementation does not verify your installed build.
+当前的客户端实现中仍然包含 AI 工具。旧版助手服务的变动，并不代表 Luckgram 的所有 AI 功能都已移除。
+能否使用可能因平台、版本、订阅、用量余额、服务商容量、地区和上线范围而异；源码中有实现，并不能证明你安装的版本就有。
 
-Luckgram may change the model or provider behind an action. This Help Center does
-not promise a specific model name unless the active product surface identifies it.
+Luckgram 可能会更换某个操作背后的模型或服务商。除非当前产品界面明确标出，本帮助中心不承诺具体的模型名称。
 
-## Data sent for processing
+## 发送处理的数据 {#data-sent-for-processing}
 
-Prompts and any context you deliberately include can be processed by Luckgram and a
-selected model provider to return the result. Do not assume that opening an AI
-action submits an entire chat, but always review the current screen and
-[Privacy Policy](https://luckgram.cc/privacy-policy) before sending sensitive text.
+你输入的问题以及你主动包含的上下文，可能会由 Luckgram 和所选的模型服务商处理，以返回结果。
+不要以为打开 AI 操作就会提交整个聊天，但在发送敏感文字之前，请务必看清当前页面并阅读
+[隐私政策](https://luckgram.cc/privacy-policy)。
 
-**Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://luckgram.cc/privacy-policy)
+**来源：** [产品审核](../docs/evidence/product-review-2026-10-10.md) ·
+[隐私政策](https://luckgram.cc/privacy-policy)

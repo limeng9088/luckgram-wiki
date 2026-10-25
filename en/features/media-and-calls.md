@@ -1,0 +1,103 @@
+---
+description: Send existing videos as round messages, post Telegram stories, manage media, and record supported calls responsibly.
+---
+
+# What media and call tools does Luckgram add?
+
+Luckgram adds shortcuts for video messages, capture preferences, downloads, local
+cache, and (on supported iOS builds) call recording.
+
+## Send an existing video as a video message
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+1. Open the attachment or media action in a chat.
+2. Choose a compatible video from the device.
+3. Select the video-message or round-video conversion action.
+4. Preview the crop and duration before sending.
+
+Telegram’s current upload and format limits still apply. Conversion can crop the
+frame to a circle and may re-encode the file.
+
+## Start with the rear camera
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+Supported mobile builds can remember a rear-camera preference for video capture.
+This changes the starting camera, not the recipient or privacy of the resulting
+message.
+
+## Downloads and cache
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram. Find it in **Settings → Data and Storage**.
+
+Luckgram can expose extra controls for saving video to the gallery, automatic media
+handling, and local cache. Clearing cache removes local copies, not Telegram cloud
+messages. Files downloaded outside the app remain on the device until removed there.
+
+## Can I call WhatsApp or FaceTime from Luckgram?
+
+No. Luckgram is a Telegram app: its voice and video calls are Telegram calls, and
+they reach Telegram users only. It cannot call someone on WhatsApp, FaceTime, or
+another messenger.
+
+- **To call a Telegram user,** open their profile and choose the voice or video
+  call option.
+- **A contact who isn’t on Telegram** can only be invited to join; there is no
+  call to them from Luckgram.
+- **“Doesn’t accept calls”** means that person’s privacy settings don’t allow
+  calls from you.
+
+## How do I post a story?
+
+> **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
+
+Stories are a Telegram feature: Luckgram shows and posts them as Telegram does
+and adds nothing of its own to posting. A story is a photo or video your contacts see at
+the top of their chat list; you choose who can see it.
+
+On iPhone, iPad or Android (Luckgram Desktop shows stories but can’t post them):
+
+1. Tap **My Story** at the top of the chat list.
+2. Take a photo or video, or pick one from your gallery. You can add text,
+   stickers and a caption.
+3. Choose who sees it: **Everyone**, **Contacts**, **Close Friends** or
+   **Selected Contacts**; you can also leave out specific people. **Allow
+   Screenshots** and **Keep on My Page** (it stays on your profile after it
+   expires) are on the same screen.
+4. Tap **Post Story**.
+
+A story lasts 24 hours. **Telegram Premium**, Telegram’s own subscription, adds
+6, 12 and 48 hours, more stories at a time, links and formatting in captions,
+and Stealth Mode. Luckgram Premium is a separate plan and doesn’t include these
+(see [Plans, Gems, and referrals](plans-and-rewards.md)).
+
+Who may post, and how many stories a week or month, is set by Telegram for every
+app. When posting is limited to Telegram Premium, the app shows that message.
+Luckgram adds no limit of its own: if your Telegram account can post stories in
+the official Telegram app, it can post them in Luckgram for iPhone, iPad and
+Android, and Luckgram Premium does not unlock posting.
+A channel or group can post stories once it has enough boosts, through an
+admin allowed to post them. On iPhone and iPad, you can’t post during a call or
+a video chat.
+
+## Record a call
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+Call recording is currently documented and source-verified for iOS. Depending on
+the build, recording can be manual or automatic and the result can be delivered to
+Saved Messages or another configured chat surface.
+
+Before recording, tell every participant and obtain the consent required in every
+relevant jurisdiction. Luckgram does not decide whether recording is lawful for
+your call. Treat the saved audio as sensitive content and check where it was sent.
+
+**Availability:** video-message conversion on iOS and Android; call recording on
+iOS in current evidence. Other platforms are not confirmed.
+
+**Sources:** [Official status labels](https://wiki.luckgram.cc/en/getting-started/install.html) ·
+[Terms of Use](https://luckgram.cc/en/terms-of-use) ·
+[iOS source](https://github.com/limeng9088/luckgram-ios) ·
+[Evidence ledger, October 13](../../docs/evidence/help-troubleshooting-2026-10-13.md) ·
+[Evidence ledger: stories](../../docs/evidence/help-telegram-basics-2026-10-13.md)

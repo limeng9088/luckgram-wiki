@@ -1,41 +1,37 @@
 ---
-description: Use the current official Luckgram download links for iOS, Android, and macOS.
+description: 通过官方下载链接安装 iOS、Android 和 macOS 版 Luckgram。
 ---
 
-# How do I install Luckgram?
+# 如何安装 Luckgram？
 
-Luckgram is distributed through GitHub Releases. The links below always point to
-the latest build.
+Luckgram 通过 GitHub Releases 发布。下面的链接始终指向最新版本。
 
-## iPhone and iPad
+## iPhone 和 iPad
 
-Install [Luckgram for iOS (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest).
-The public source currently targets iOS 15 or later. Store availability and device
-compatibility remain authoritative for the release you install.
+安装 [Luckgram iOS 版（GitHub Releases）](https://github.com/limeng9088/luckgram-ios/releases/latest)。
+公开源码目前支持 iOS 15 及以上版本。具体能否安装、设备是否兼容，以你安装的那个版本为准。
 
 ## Android
 
-Install [Luckgram for Android (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest).
-When Google Play is unavailable, the official download page also links to the
-[latest public APK](https://github.com/limeng9088/luckgram-android/releases/latest).
+安装 [Luckgram Android 版（GitHub Releases）](https://github.com/limeng9088/luckgram-android/releases/latest)。
+无法使用 Google Play 时，官方下载页面也提供
+[最新的公开 APK](https://github.com/limeng9088/luckgram-android/releases/latest)。
 
-The public Android project currently targets Android 7.0/API 24 or later. Your
-store can impose a newer requirement for a particular release.
+公开的 Android 项目目前支持 Android 7.0（API 24）及以上版本。个别版本在应用商店里可能要求更高的系统版本。
 
-When installing an APK, Android may ask permission to install from that source.
-Return that permission to its previous state after installation if you do not need
-it for updates.
+安装 APK 时，Android 可能会请求“允许安装来自此来源的应用”的权限。如果之后不需要用它来更新，
+安装完成后请把这个权限改回原来的设置。
 
 ## macOS
 
-> **Not available.** There is no Luckgram app for macOS or other desktops yet. Use
-> [Telegram Desktop](https://desktop.telegram.org) with the same account in the meantime.
+> **暂不提供。** 目前还没有 macOS 或其他桌面平台的 Luckgram 应用。在此之前，可以用同一个账号登录
+> [Telegram Desktop](https://desktop.telegram.org)。
 
-## Source builds
+## 从源码构建
 
-Developers can inspect or build the public clients from
-[Luckgram for iOS](https://github.com/limeng9088/luckgram-ios) and
-[Luckgram for Android](https://github.com/limeng9088/luckgram-android). A source build is
-not an official release and needs your own Telegram API credentials and signing setup.
+开发者可以查看或自行构建公开的客户端：
+[Luckgram iOS 版](https://github.com/limeng9088/luckgram-ios) 和
+[Luckgram Android 版](https://github.com/limeng9088/luckgram-android)。自行构建的版本不是官方发布版，
+需要你自己的 Telegram API 凭据和签名配置。
 
-**Verified:** September 3, 2026.
+**核实日期：** 2026 年 9 月 3 日。

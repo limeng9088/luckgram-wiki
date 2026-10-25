@@ -1,50 +1,42 @@
 ---
-description: Understand Luckgram subscriptions, usage credits, Gems, and referral availability without relying on retired earning guides.
+description: 了解 Luckgram 的订阅、用量额度、Gems 和邀请奖励，不依赖已下线的赚取指南。
 ---
 
-# How do plans, Gems, and referrals work?
+# 套餐、Gems 和邀请奖励怎么算？
 
-> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+> **开发中。** 本页的功能 Luckgram 目前还没有。它们已列入路线图，本页描述的是计划中的行为。
 
-Luckgram can gate features through a subscription, a usage balance, or both. The
-price and included features shown in your current store and purchase screen are
-authoritative because plans differ by platform, country, currency, and time.
+Luckgram 可能通过订阅、用量余额或两者结合来限制功能。由于套餐因平台、国家/地区、货币和时间而不同，
+请以当前应用商店和购买页面显示的价格和包含内容为准。
 
-## Subscriptions
+## 订阅 {#subscriptions}
 
-Supported builds can offer Premium or Premium+ access. Before confirming, review:
+受支持的版本可能提供 Premium 或 Premium+。确认购买前请检查：
 
-- billing period and local price;
-- trial end date, if any;
-- included AI or feature allowance;
-- renewal terms and the store account that owns the purchase.
+- 计费周期和当地价格；
+- 试用结束日期（如果有）；
+- 包含的 AI 或功能额度；
+- 续订条款，以及这笔购买属于哪个应用商店账号。
 
-Cancel through the store or purchase channel that processed the subscription.
-Cancellation normally stops renewal; it is not automatically a refund.
+请通过处理该订阅的应用商店或购买渠道取消。取消通常只是停止续订，并不会自动退款。
 
-Luckgram Premium is separate from Telegram Premium. An eligible plan can include
-an account-shop allowance, but this is not a universal benefit of every Premium
-purchase. Check the displayed benefits and Telegram Sessions balance.
+Luckgram Premium 与 Telegram Premium 是两回事。符合条件的套餐可能包含账号商店额度，
+但这不是每次购买 Premium 都有的权益。请查看显示的权益和 Telegram 会话余额。
 
-## Gems and usage balance
+## Gems 和用量余额 {#gems-and-usage-balance}
 
-Gems or a related balance can represent credit for eligible AI and paid actions.
-The visible balance, action cost, and purchase confirmation in the current app are
-authoritative. Do not use old conversion tables from retired Wiki pages.
+Gems 或相关余额可以代表用于符合条件的 AI 和付费操作的额度。请以当前应用中显示的余额、操作费用和购买确认为准。
+不要使用已下线 Wiki 页面中的旧兑换表。
 
-## Referrals and rewards
+## 邀请与奖励 {#referrals-and-rewards}
 
-Referral links, campaign tasks, and historical balance views are separate from
-new earning. Old scrolling, autopilot and referral earning guides are not current
-instructions. An old guide or visible historical balance does not
-prove that new rewards accrue or that a payout is due. Check the terms and status
-of a specific current campaign.
+邀请链接、活动任务和历史余额显示，与新的收益是两回事。以前的“刷动态赚取”、自动驾驶和邀请赚取指南都不是现行说明。
+旧指南或能看到的历史余额，并不能证明会产生新的奖励或应当支付款项。请查看具体某个当前活动的条款和状态。
 
-The previous Scroll-to-Earn and Wallet-to-Earn guides were removed because they no
-longer represented a reliable current user promise.
+原来的 Scroll-to-Earn 和 Wallet-to-Earn 指南已被移除，因为它们已不再代表可靠的当前用户承诺。
 
-**Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-ATT program update ·
-[Terms of Use](https://luckgram.cc/terms-of-use) ·
-[iOS build (GitHub Releases)](https://github.com/limeng9088/luckgram-ios/releases/latest) ·
-[Android APK (GitHub Releases)](https://github.com/limeng9088/luckgram-android/releases/latest)
+**来源：** [产品审核](../docs/evidence/product-review-2026-10-10.md) ·
+ATT 计划更新 ·
+[使用条款](https://luckgram.cc/terms-of-use) ·
+[iOS 版本（GitHub Releases）](https://github.com/limeng9088/luckgram-ios/releases/latest) ·
+[Android APK（GitHub Releases）](https://github.com/limeng9088/luckgram-android/releases/latest)

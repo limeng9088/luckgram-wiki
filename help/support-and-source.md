@@ -1,44 +1,40 @@
 ---
-description: Find official Luckgram support, policies, downloads, and source repositories.
+description: 找到 Luckgram 官方客服、政策、下载和源码仓库。
 ---
 
-# Where can I get Luckgram support or inspect the source?
+# 在哪里获得 Luckgram 客服支持或查看源码？
 
-## Product and support
+## 产品与客服 {#product-and-support}
 
-- Support by e-mail: [support@luckgram.cc](mailto:support@luckgram.cc)
-- [Luckgram website](https://luckgram.cc)
-- [Download Luckgram](https://wiki.luckgram.cc/getting-started/install.html)
-- [Luckgram FAQ](https://luckgram.cc/faq)
-- [Privacy Policy](https://luckgram.cc/privacy-policy)
-- [Terms of Use](https://luckgram.cc/terms-of-use)
+- 邮件客服：[support@luckgram.cc](mailto:support@luckgram.cc)
+- [Luckgram 官网](https://luckgram.cc)
+- [下载 Luckgram](https://wiki.luckgram.cc/getting-started/install.html)
+- [Luckgram 常见问题](https://luckgram.cc/faq)
+- [隐私政策](https://luckgram.cc/privacy-policy)
+- [使用条款](https://luckgram.cc/terms-of-use)
 
-Community participants are not automatically Luckgram employees. Never share login
-codes, two-step passwords, exported account sessions, private keys, recovery
-material, or remote-access control of your device.
+社区里的参与者并不一定是 Luckgram 的员工。永远不要分享登录验证码、两步验证密码、导出的账号会话、私钥、恢复资料，
+也不要让别人远程控制你的设备。
 
-## Public source
+## 公开源码 {#public-source}
 
-- [Luckgram for iOS](https://github.com/limeng9088/luckgram-ios)
-- [Luckgram for Android](https://github.com/limeng9088/luckgram-android)
-- [Luckgram organization](https://github.com/limeng9088)
+- [Luckgram iOS 版](https://github.com/limeng9088/luckgram-ios)
+- [Luckgram Android 版](https://github.com/limeng9088/luckgram-android)
+- [Luckgram 组织主页](https://github.com/limeng9088)
 
-Luckgram is built from open-source Telegram clients and adds platform-specific
-code. Some product integrations are not present in the public checkout, so public
-source can prove that an integration point exists without proving that every part
-of the feature is available or reproducible.
+Luckgram 基于开源的 Telegram 客户端构建，并增加了各平台的专属代码。有些产品集成不在公开代码中，
+所以公开源码只能证明某个集成点存在，不能证明该功能的每个部分都可用或可复现。
 
-## Reporting a problem
+## 报告问题 {#reporting-a-problem}
 
-Include:
+请包含：
 
-1. platform and operating-system version;
-2. Luckgram version;
-3. affected feature and account type;
-4. steps that reproduce the issue;
-5. expected and actual result;
-6. a redacted screenshot or log when safe.
+1. 平台和操作系统版本；
+2. Luckgram 版本；
+3. 受影响的功能和账号类型；
+4. 复现问题的步骤；
+5. 预期结果和实际结果；
+6. 在安全的前提下，提供打过码的截图或日志。
 
-For source-code issues, use the relevant repository’s issue tracker when enabled.
-For account, billing, wallet, or private-data problems, write to
-[support@luckgram.cc](mailto:support@luckgram.cc), also when the app does not open.
+源码问题请使用相应仓库的 issue（如果已开启）。账号、付费、钱包或隐私数据问题，请写信到
+[support@luckgram.cc](mailto:support@luckgram.cc)，应用打不开时也一样。

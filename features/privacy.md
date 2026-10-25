@@ -1,54 +1,47 @@
 ---
-description: Hide selected Luckgram accounts or chats and understand what these controls do not protect.
+description: 隐藏选中的 Luckgram 账号或聊天，并了解这些设置不能保护什么。
 ---
 
-# How do Luckgram privacy controls work?
+# Luckgram 的隐私控制怎么用？
 
-> **In development.** The features on this page are not in Luckgram yet. They are on the roadmap; this page describes the planned behavior.
+> **开发中。** 本页的功能 Luckgram 目前还没有。它们已列入路线图，本页描述的是计划中的行为。
 
-Luckgram adds controls that reduce what appears in the normal app interface. They
-are useful when several people can see or temporarily handle your device, but they
-do not replace device security or Telegram’s account protections.
+Luckgram 增加了一些设置，用来减少普通应用界面中显示的内容。当别人可能看到或临时拿到你的设备时，它们很有用，
+但不能代替设备本身的安全措施和 Telegram 的账号保护。
 
-## Double Bottom
+## 双重空间（Double Bottom） {#double-bottom}
 
-Double Bottom creates an alternate hidden account surface. After setup, the normal
-entry path shows your regular accounts; the configured alternate action or code
-reveals the hidden set.
+双重空间会创建一个独立的隐藏账号界面。设置好之后，正常进入时显示你平常的账号；
+用设定好的另一种操作或密码进入，则显示隐藏的那一组账号。
 
-1. Open Luckgram settings and find **Double Bottom** or hidden-account settings.
-2. Configure the alternate access method offered by your build.
-3. Add only the intended accounts to the hidden surface.
-4. Lock the app and test both the normal and alternate paths before relying on it.
+1. 打开 Luckgram 设置，找到 **双重空间（Double Bottom）** 或隐藏账号设置。
+2. 设置你的版本所提供的另一种进入方式。
+3. 只把打算隐藏的账号加入隐藏界面。
+4. 锁定应用，正常方式和另一种方式都测试一遍，确认无误后再依赖它。
 
-If you forget the Double Bottom credential, recovery can be limited. Do not set it
-until you know which recovery option the current screen provides.
+如果忘了双重空间的密码，能否恢复可能很有限。在弄清当前页面提供哪种恢复方式之前，不要设置。
 
-## Hidden chats
+## 隐藏聊天 {#hidden-chats}
 
-Hidden chats remove selected conversations from the normal chat list and expose
-them through Luckgram’s hidden-chat entry point. Hiding a chat does not delete it,
-change Telegram retention, or make messages invisible on another signed-in device.
+隐藏聊天会把选中的对话从普通聊天列表中移除，并通过 Luckgram 的隐藏聊天入口查看。
+隐藏聊天不会删除它，不会改变 Telegram 的保留规则，也不会让这些消息在你登录的其他设备上看不见。
 
-## Immediate auto-lock
+## 立即自动锁定 {#immediate-auto-lock}
 
-Supported builds offer shorter auto-lock intervals than the normal client flow.
-Use a device passcode and biometric lock as the first layer; use Luckgram’s lock as
-an additional client layer.
+受支持的版本提供比普通客户端更短的自动锁定时间。请把设备密码和生物识别锁作为第一层保护，
+把 Luckgram 的应用锁作为额外的一层。
 
-## Phone-number controls
+## 手机号设置 {#phone-number-controls}
 
-Some builds expose an extra phone-number visibility control or guidance. Telegram
-still owns the account’s underlying privacy rules, so confirm the result under
-**Settings → Privacy and Security → Phone Number**.
+有些版本提供额外的手机号可见性设置或说明。账号底层的隐私规则仍由 Telegram 决定，
+所以请在 **设置 → 隐私与安全 → 手机号码** 中确认最终效果。
 
-## Hidden chats are not Secret Chats
+## 隐藏聊天不是私密聊天 {#hidden-chats-are-not-secret-chats}
 
-Hidden chats change the local Luckgram interface. Telegram Secret Chats are a
-separate Telegram conversation type with their own encryption and device behavior.
+隐藏聊天改变的是本地 Luckgram 界面。Telegram 私密聊天是另一种对话类型，有自己的加密方式和设备规则。
 
-**Availability:** iOS and Android; exact labels and recovery behavior vary.
+**可用平台：** iOS 和 Android；具体名称和恢复方式各有不同。
 
-**Sources:** [Official feature list](https://luckgram.cc/features) ·
-[Official status labels](https://wiki.luckgram.cc/getting-started/install.html) ·
-[Telegram privacy FAQ](https://telegram.org/faq#privacy)
+**来源：** [官方功能列表](https://luckgram.cc/features) ·
+[官方状态标注](https://wiki.luckgram.cc/getting-started/install.html) ·
+[Telegram 隐私常见问题](https://telegram.org/faq#privacy)

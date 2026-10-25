@@ -1,63 +1,55 @@
 ---
-description: Translate incoming or outgoing messages and transcribe supported voice content in Luckgram.
+description: 在 Luckgram 中翻译收到或要发送的消息，并把受支持的语音内容转成文字。
 ---
 
-# How do translation and speech-to-text work?
+# 翻译和语音转文字怎么用？
 
-Luckgram can translate received messages, translate text before it is sent, and
-transcribe supported audio. These actions can use Luckgram or third-party processing
-depending on the feature and build.
+Luckgram 可以翻译收到的消息、在发送前翻译文字，并把受支持的音频转成文字。
+根据功能和版本不同，这些操作可能由 Luckgram 或第三方处理。
 
-## Translate an incoming message
+## 翻译收到的消息 {#translate-an-incoming-message}
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram. Turn it on in **Settings → Language → Show Translate Button**.
+> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。在 **设置 → 语言 → 显示翻译按钮** 中开启。
 
-1. Open the message context menu.
-2. Choose **Translate**.
-3. Select a target language if the app asks for one.
-4. Review the translation alongside the original meaning and context.
+1. 长按消息打开菜单。
+2. 选择 **翻译**。
+3. 如果应用要求，选择目标语言。
+4. 对照原文的意思和上下文检查译文。
 
-## Translate a whole chat
+## 翻译整个聊天 {#translate-a-whole-chat}
 
-> **Telegram Premium.** Whole-chat translation is available today through Telegram Premium. A Luckgram version without Premium is in development.
+> **Telegram Premium。** 目前通过 Telegram Premium 可以翻译整个聊天。不需要 Premium 的 Luckgram 版本正在开发中。
 
-Telegram can translate a whole chat at once. Turn on **Translate Entire Chat** in
-**Settings → Language**; a chat in another language then shows a bar at the top
-with **Translate to …** and **Show Original**. Telegram makes this part of
-**Telegram Premium**: without it, the app offers Telegram Premium instead.
+Telegram 可以一次翻译整个聊天。在 **设置 → 语言** 中开启 **翻译整个聊天**；
+之后外语聊天的顶部会出现一个提示条，带有 **翻译为……** 和 **显示原文**。
+Telegram 把这个功能列为 **Telegram Premium** 权益：没有开通的话，应用会提示你开通 Telegram Premium。
 
-**Sources:** [Evidence ledger](../docs/evidence/help-w7-2026-10-16.md)
+**来源：** [依据记录](../docs/evidence/help-w7-2026-10-16.md)
 
-## Translate before sending
+## 发送前翻译 {#translate-before-sending}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
 
-Use the input translator offered by supported builds, choose the destination
-language, and review the generated text before sending. Names, slang, legal text,
-and technical terms can be mistranslated.
+使用受支持版本中的输入框翻译功能，选择目标语言，发送前检查生成的文字。
+人名、俚语、法律文本和专业术语都可能翻译错误。
 
-## Convert speech to text
+## 语音转文字 {#convert-speech-to-text}
 
-> **Telegram Premium.** Speech-to-text is available today through Telegram Premium. A Luckgram version without Premium is in development.
+> **Telegram Premium。** 目前通过 Telegram Premium 可以使用语音转文字。不需要 Premium 的 Luckgram 版本正在开发中。
 
-Open the action menu for a supported voice message or audio item and choose the
-transcription option. Some builds offer a model choice or transcript cleanup.
-Length, language, plan, network, and provider limits can affect the result.
+打开受支持的语音消息或音频的操作菜单，选择转文字选项。有些版本可以选择模型或整理转写文本。
+时长、语言、套餐、网络和服务商的限制都可能影响结果。
 
-Do not submit sensitive content to translation, transcription, or AI tools until
-you have reviewed the [Privacy and data](../help/privacy-and-data.md) guidance.
+在阅读[隐私与数据](../help/privacy-and-data.md)说明之前，不要把敏感内容交给翻译、转写或 AI 工具处理。
 
-**Availability:** iOS and Android; individual languages, limits, and entitlements
-vary. Desktop contains separate source-visible translation components but mobile
-parity is not confirmed.
+**可用平台：** iOS 和 Android；具体语言、限制和权益各有不同。桌面端源码中有独立的翻译组件，
+但尚未确认与移动端功能一致。
 
-## If it fails
+## 如果失败了 {#if-it-fails}
 
-Report the platform, Luckgram version, language pair, exact action, and error text
-to [support](../help/support-and-source.md). Do not send private conversation contents. A
-single error does not identify a global outage, and purchasing another plan is
-not a verified fix. A reported fix in an older version does not establish the
-status of a new regression.
+把平台、Luckgram 版本、语言组合、具体操作和错误提示报告给[客服](../help/support-and-source.md)。
+不要发送私人对话内容。单个错误不能说明是全局故障，购买其他套餐也不是经过验证的解决办法。
+旧版本中报告过的修复，并不能说明新出现的问题已经解决。
 
-**Sources:** [Product review](../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://luckgram.cc/privacy-policy)
+**来源：** [产品审核](../docs/evidence/product-review-2026-10-10.md) ·
+[隐私政策](https://luckgram.cc/privacy-policy)

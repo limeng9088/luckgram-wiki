@@ -1,66 +1,61 @@
 ---
 permalink: /
-description: Learn what Luckgram adds to Telegram, where each feature is available, and how to use it safely.
+description: 了解 Luckgram 在 Telegram 之上增加了什么、每个功能在哪里可用，以及如何安全地使用。
 ---
 
-# Luckgram Help Center
+# Luckgram 帮助中心
 
-Luckgram is an independent Telegram client. You sign in with your existing
-Telegram account and keep using your Telegram chats, while Luckgram adds tools for
-multiple accounts, privacy, faster messaging, translation, media, and AI tools
-where supported.
+Luckgram 是一款独立的 Telegram 客户端。你用现有的 Telegram 账号登录，继续使用你的 Telegram 聊天，
+同时 Luckgram 在支持的地方增加了多账号、隐私、更快收发消息、翻译、媒体和 AI 等工具。
 
-Luckgram is not affiliated with Telegram. Telegram provides the underlying account
-and messaging service; Luckgram provides the client and its additional features.
+Luckgram 与 Telegram 没有隶属关系。Telegram 提供底层的账号和消息服务；Luckgram 提供客户端及其附加功能。
 
-## Start here
+## 从这里开始 {#start-here}
 
-- [Install Luckgram](getting-started/install.md)
-- [Add and manage accounts](getting-started/accounts.md)
-- [Check platform and feature availability](getting-started/availability.md)
-- [Browse every documented feature](features/README.md)
-- [Fix a feature that is missing](help/feature-not-visible.md)
+- [安装 Luckgram](getting-started/install.md)
+- [添加和管理账号](getting-started/accounts.md)
+- [查看平台和功能可用性](getting-started/availability.md)
+- [浏览所有已收录的功能](features/README.md)
+- [解决看不到某个功能的问题](help/feature-not-visible.md)
 
-## What Luckgram offers
+## Luckgram 提供什么 {#what-luckgram-offers}
 
-Available now (standard Telegram features):
+现已可用（Telegram 标准功能）：
 
-- Your Telegram chats, channels, groups, calls, Stories, and Secret Chats.
-- Up to 3 Telegram accounts in one app (4 with Telegram Premium).
-- Translation of incoming messages.
+- 你的 Telegram 聊天、频道、群组、通话、快拍和私密聊天。
+- 一个应用里最多 3 个 Telegram 账号（开通 Telegram Premium 后为 4 个）。
+- 翻译收到的消息。
 
-In development (see each feature page for the planned behavior):
+开发中（计划中的行为见各功能页面）：
 
-- More accounts in one app, and account import/export.
-- Hidden chats and accounts through Double Bottom.
-- Quick replies and extra message actions.
-- Translation before sending, and speech-to-text without Premium.
-- Sending an existing video as a Telegram video message.
-- Call recording, with consent requirements.
-- Luckgram AI, plans, and rewards.
+- 一个应用登录更多账号，以及账号导入/导出。
+- 通过双重空间（Double Bottom）隐藏聊天和账号。
+- 快捷回复和更多消息操作。
+- 发送前翻译，以及无需 Premium 的语音转文字。
+- 把已有视频发成 Telegram 视频消息。
+- 通话录音（需遵守同意要求）。
+- Luckgram AI、套餐和奖励。
 
-AI, agent, account-shop, and payment features can depend on the app version,
-platform, subscription, region, account, or staged rollout. Their pages always show
-that status before explaining the feature.
+AI、智能体、账号商店和支付功能可能取决于应用版本、平台、订阅、地区、账号或分批上线。
+它们的页面总会先标明状态，再介绍功能。
 
-## Status labels
+## 状态标签 {#status-labels}
 
-| Label | Meaning |
+| 标签 | 含义 |
 |---|---|
-| **Supported build** | Use the feature when its control is present and the current eligibility checks pass |
-| **Beta** | Available to test for eligible users and subject to change |
-| **Limited rollout** | Only some platforms, accounts, regions, plans, or builds may show it |
-| **Source-visible** | Present in source, but not confirmed in a current release |
-| **Retired** | No longer a current feature; old instructions must not be reused |
+| **受支持版本** | 当功能的入口出现、且当前的资格检查通过时即可使用 |
+| **测试版** | 符合条件的用户可以试用，可能会变化 |
+| **限量上线** | 只有部分平台、账号、地区、套餐或版本可能会显示 |
+| **源码可见** | 源码中存在，但尚未在当前发布版本中确认 |
+| **已下线** | 不再是当前功能；不要再按旧说明操作 |
 
-## Official links
+## 官方链接 {#official-links}
 
-- [Luckgram website](https://luckgram.cc)
-- [Official downloads](https://wiki.luckgram.cc/getting-started/install.html)
-- [Privacy Policy](https://luckgram.cc/privacy-policy)
-- [Terms of Use](https://luckgram.cc/terms-of-use)
-- [Luckgram on GitHub](https://github.com/limeng9088)
+- [Luckgram 官网](https://luckgram.cc)
+- [官方下载](https://wiki.luckgram.cc/getting-started/install.html)
+- [隐私政策](https://luckgram.cc/privacy-policy)
+- [使用条款](https://luckgram.cc/terms-of-use)
+- [Luckgram 的 GitHub](https://github.com/limeng9088)
 
-Product knowledge was reviewed against implementation and product documentation
-on **October 10, 2026**. Source presence is not proof of availability in every
-released build. The [former in-app wallet](features/wallet.md) is retired.
+产品信息已于 **2026 年 10 月 10 日** 对照实现和产品文档进行审核。源码中存在并不代表每个发布版本都可用。
+[原应用内钱包](features/wallet.md)已下线。

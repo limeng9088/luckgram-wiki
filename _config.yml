@@ -1,6 +1,7 @@
 # GitHub Pages (Jekyll) settings for wiki.luckgram.cc
 title: Luckgram Help Center
-description: Help for Luckgram, an unofficial Telegram client — what works today and what is in development.
+description: Luckgram 帮助中心：Luckgram 是一款非官方 Telegram 客户端。中文为默认语言，英文版位于 /en/。
+lang: zh-CN
 
 plugins:
   - jekyll-readme-index      # serve README.md as each directory's index.html
@@ -14,6 +15,14 @@ readme_index:
 relative_links:
   enabled: true
   collections: false
+
+defaults:
+  - scope: {path: ""}
+    values: {lang: zh_CN}
+  - scope: {path: "en"}
+    values: {lang: en_US}
+  - scope: {path: "docs"}
+    values: {lang: en_US}
 
 exclude:
   - scripts/
