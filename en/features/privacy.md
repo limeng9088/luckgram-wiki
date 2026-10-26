@@ -42,6 +42,24 @@ Some builds expose an extra phone-number visibility control or guidance. Telegra
 still owns the account’s underlying privacy rules, so confirm the result under
 **Settings → Privacy and Security → Phone Number**.
 
+## Restricted channels {#restricted-channels}
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+Some channels and groups are hidden only in the App Store and Google Play builds of
+Telegram, which show "Channel unavailable" when you open them. In Luckgram:
+
+1. Tap **Change settings** on such a channel, or open **Content Settings** in Luckgram settings.
+2. Turn on **Show restricted channels**.
+3. Go back to the channel; its content now shows.
+
+The switch is free and stays on; no website sign-in is needed. It only lifts the
+hiding done by the store builds: channels Telegram blocks for everyone, channels
+blocked by law where you live, and deleted or private content still do not open.
+What you choose to view is up to you; follow the law where you live.
+
+See also: [Why can't I see sensitive (18+) or restricted content?](../help/sensitive-content.md)
+
 ## Hidden chats are not Secret Chats
 
 Hidden chats change the local Luckgram interface. Telegram Secret Chats are a

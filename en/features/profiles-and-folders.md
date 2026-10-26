@@ -32,6 +32,32 @@ configured terms. Matching can depend on the active rollout and the content the
 feature is allowed to inspect. Verify the current privacy explanation before using
 it for confidential work.
 
+## Private notes {#private-notes}
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+On a contact's profile, tap **Add a note** and write something only you will see,
+such as where you met, how they prefer to be contacted, or what they ordered. Notes:
+
+- are visible only to you; they are not sent to the contact or shown anywhere on their side;
+- appear at the top of your chat with that person, so you see them when you open the chat;
+- can all be searched from one place.
+
+Do not keep passwords, login codes, or other credentials in notes.
+
+## Activity in shared groups {#shared-group-activity}
+
+> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+
+Open the **Activity** tab on a contact's profile to see their latest messages in
+the groups you are both in. Tap one to jump to the original message.
+
+- It only shows messages you could already read in those groups.
+- It does not include private chats or groups you are not in, and the other person is not told that you looked.
+- Messages the person deleted are not shown.
+
+Respect other people's privacy and do not use this to harass or track anyone.
+
 ## Remember the last folder
 
 > **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.

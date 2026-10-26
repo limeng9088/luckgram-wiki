@@ -9,8 +9,54 @@ description: Understand Luckgram AI tools, eligibility, data use, and result lim
 Luckgram AI adds assistant and content actions to eligible app surfaces. Depending
 on the current build, these can include answering prompts, explaining a topic,
 summarizing selected chat context, drafting or rewriting text, and invoking an
-AI shortcut from a conversation. Use the actions and models actually offered by
-your build; older lists of image, voice, and other assistant actions may be stale.
+AI shortcut from a conversation. The sections below describe the planned AI writing,
+AI agents, AI images, and AI posts. Use the actions and models actually offered by
+your build.
+
+## AI writing {#ai-writing}
+
+After you type a message in any chat, tap the AI button in the input bar and pick
+the result you want:
+
+- **Improve writing**: clearer, smoother wording.
+- **More formal** / **Friendlier**: change the tone.
+- **Shorter**: keep the meaning, drop the extra words.
+- **Fix grammar**: correct only spelling, grammar, and punctuation.
+
+The rewritten text replaces what is in the input bar, in the same language. Nothing
+is sent automatically; you can keep editing before you send.
+
+## AI agents {#ai-agents}
+
+An AI agent is an assistant set up for one kind of task, such as trip planning,
+copywriting, language practice, research, or coding help. Pick one from the agent
+list and chat with it like with any contact.
+
+You can also create your own agent: give it a name and write how it should answer
+(for example its role, tone, and what to avoid), then reuse it whenever you need it.
+An agent only sees what you send it in your conversation with it.
+
+## AI images {#ai-images}
+
+In the AI Assistant, choose **Image** and describe the picture in a sentence. The
+generated image appears in the conversation. You can then:
+
+- **Send to…**: send it to any chat or channel;
+- **Save**: save it to your photo library;
+- **Redo**: generate another version from the same description.
+
+Generated images may not match the description exactly. Do not present them as
+real photos, and do not generate likenesses of real people or copyrighted characters.
+
+## AI posts {#ai-posts}
+
+For channel and group admins. Type a topic in the channel's input bar (for example
+"weekend sale, 20% off roses"), tap the AI button, and get a draft you can edit.
+The draft follows the channel's earlier posts to keep the same tone and format.
+
+Below the draft, choose **Shorter**, **More emoji**, or **Translate**, then tap
+**Publish** when you are happy with it. Check facts such as prices, dates, and
+addresses before you publish.
 
 ## Typical flow
 

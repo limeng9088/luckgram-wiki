@@ -19,6 +19,7 @@ still in development.
 | Hidden chats | Removes selected chats from the normal chat list | In development |
 | Immediate auto-lock | Shortens the time before the app lock engages | In development |
 | Hide phone number | Adds a client control around phone-number visibility | In development |
+| Restricted channels | Opens channels hidden only by the store builds, free | In development |
 
 Read [Privacy controls](privacy.md).
 
@@ -51,6 +52,8 @@ Read [Messaging tools](messaging.md),
 | Remember last folder | Returns to the previously selected chat folder | In development |
 | Keyword folders | Organizes or surfaces chats around configured keywords | In development |
 | Hide unused tabs | Removes selected Luckgram navigation items | In development |
+| Private notes | Notes on contacts that only you see, shown at the top of the chat | In development |
+| Activity in shared groups | Shows a contact's latest messages in groups you share | In development |
 
 Read [Profiles, folders, and interface](profiles-and-folders.md).
 
@@ -61,13 +64,16 @@ Read [Profiles, folders, and interface](profiles-and-folders.md).
 | AI Assistant | Answers prompts and assists with writing or understanding content | In development |
 | AI chat shortcuts | Summarizes, explains, rewrites, or generates content from supported contexts | In development |
 | AI generation and problem-solving actions | Actions depend on the current client, available models and account access | In development |
+| AI writing | Polishes, changes the tone of, or fixes grammar in the input bar | In development |
+| AI images | Creates an image from a sentence and sends it to a chat or channel | In development |
+| AI posts | Drafts channel posts in the channel's style and publishes them | In development |
 | Former in-app wallet | Historical wallet-linked access is separate from financial functionality | Not in Luckgram |
 | Telegram Sessions / Account Shop | Offers account purchase from the currently available selection | Under review |
 | Gems / AI balance | Represents eligible usage credit for supported paid actions | In development |
 | Referrals and campaigns | Shows eligible campaign routes and historical results | In development |
-| AI Agent Marketplace | Discovers and uses eligible AI agents | In development |
+| AI agents | Task-specific AI agents, and agents you create yourself | In development |
 | HyperLancer | Project relaunch is being worked on | Under review |
-| God’s Eye / Spy on Friends | Contact-activity insight surfaces listed by Luckgram | Under review |
+| God’s Eye | Analysis reports that compile another person's profile and activity | Under review |
 
 Read [Luckgram AI](ai.md), [Former wallet](wallet.md),
 [Plans, Gems, and referrals](plans-and-rewards.md), and

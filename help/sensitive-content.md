@@ -12,6 +12,6 @@ Luckgram 遵守 Telegram 的规则以及 App Store 和 Google Play 的政策：
 
 在 iPhone、iPad 或 Android 上是否显示敏感或受限的频道和内容，取决于这些规则以及你在 Telegram 上的敏感内容设置。
 
-Luckgram 不会打开已删除或私有的内容。
+Luckgram 计划提供 **显示受限频道** 开关，用来打开只在应用商店版本中被隐藏的频道，详见[受限频道](../features/privacy.md#restricted-channels)（开发中）。Telegram 对所有人封禁的内容，以及已删除或私有的内容，Luckgram 不会打开。
 
 **来源：** [依据记录](../docs/evidence/help-w3-2026-10-18.md)
