@@ -7,46 +7,80 @@
   {%- assign is_en = false -%}
   {%- assign alt_url = '/en' | append: page.url -%}
 {%- endif -%}
+{%- if head6 == '/docs/' -%}{%- assign is_en = true -%}{%- endif -%}
+{%- if is_en -%}{%- assign site_root = 'https://luckgram.cc/en/' -%}{%- else -%}{%- assign site_root = 'https://luckgram.cc/' -%}{%- endif -%}
 <!DOCTYPE html>
 <html lang="{% if is_en %}en{% else %}zh-CN{% endif %}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     {%- if head6 != '/docs/' %}
-    <link rel="alternate" hreflang="zh-CN" href="https://wiki.luckgram.cc{% if is_en %}{{ alt_url }}{% else %}{{ page.url }}{% endif %}">
-    <link rel="alternate" hreflang="en" href="https://wiki.luckgram.cc{% if is_en %}{{ page.url }}{% else %}{{ alt_url }}{% endif %}">
+    <link rel="alternate" hreflang="zh-CN" href="https://wiki.luckgram.cc{% if head4 == '/en/' %}{{ alt_url }}{% else %}{{ page.url }}{% endif %}">
+    <link rel="alternate" hreflang="en" href="https://wiki.luckgram.cc{% if head4 == '/en/' %}{{ page.url }}{% else %}{{ alt_url }}{% endif %}">
     {%- endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="preload" href="/assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/wiki.css?v={{ site.github.build_revision }}">
     <link rel="icon" href="/favicon.ico">
-    <style>
-      .lg-bar{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding-bottom:14px;margin-bottom:24px;border-bottom:1px solid #d0d7de;font-size:15px}
-      .lg-bar .lg-home{font-weight:600;font-size:18px;color:#1f2328;margin-right:auto}
-      .lg-bar a{text-decoration:none}
-      .lg-bar .lg-lang{border:1px solid #d0d7de;border-radius:6px;padding:2px 10px}
-      html[lang="zh-CN"] body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif}
-    </style>
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <nav class="lg-bar">
-        {%- if is_en %}
-        <a class="lg-home" href="/en/">Luckgram Help Center</a>
-        <a href="/en/features/">Features</a>
-        <a href="/en/help/">Help</a>
-        <a href="https://luckgram.cc/en/">luckgram.cc</a>
-        {%- else %}
-        <a class="lg-home" href="/">Luckgram 帮助中心</a>
-        <a href="/features/">功能</a>
-        <a href="/help/">帮助</a>
-        <a href="https://luckgram.cc/">luckgram.cc</a>
-        {%- endif %}
-        {%- if head6 != '/docs/' %}
-        <a class="lg-lang" href="{{ alt_url }}" hreflang="{% if is_en %}zh-CN{% else %}en{% endif %}">{% if is_en %}中文{% else %}EN{% endif %}</a>
-        {%- endif %}
-      </nav>
-      {{ content }}
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="{{ site_root }}"><img src="/assets/logo-white-144.png" alt="" width="30" height="25">Luckgram</a>
+        <nav class="nav" aria-label="{% if is_en %}Main{% else %}主导航{% endif %}">
+          <a href="{{ site_root }}features/">{% if is_en %}Features{% else %}功能{% endif %}</a>
+          <a href="{% if is_en %}/en/{% else %}/{% endif %}" aria-current="page">{% if is_en %}Help{% else %}帮助{% endif %}</a>
+          <a class="opt" href="{{ site_root }}#faq">{% if is_en %}FAQ{% else %}常见问题{% endif %}</a>
+          {%- if head6 != '/docs/' %}
+          <a class="lang" href="{{ alt_url }}" hreflang="{% if is_en %}zh-CN{% else %}en{% endif %}">{% if is_en %}中文{% else %}EN{% endif %}</a>
+          {%- endif %}
+          <a class="get" href="{{ site_root }}download/">{% if is_en %}Download{% else %}下载{% endif %}</a>
+        </nav>
+      </div>
+    </header>
+    <div class="doc wrap">
+      <aside class="doc-nav" aria-label="{% if is_en %}Help Center contents{% else %}帮助中心目录{% endif %}">
+        <details class="doc-toc" open>
+          <summary>{% if is_en %}Contents{% else %}目录{% endif %}</summary>
+          {%- if is_en %}{% include nav-en.html %}{% else %}{% include nav-zh.html %}{% endif %}
+        </details>
+      </aside>
+      <main class="doc-body">
+        {{ content }}
+      </main>
     </div>
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="row">
+          <a class="logo" href="{{ site_root }}"><img src="/assets/logo-white-144.png" alt="" width="30" height="25">Luckgram</a>
+          <a href="{{ site_root }}download/">{% if is_en %}Download{% else %}下载{% endif %}</a>
+          <a href="{{ site_root }}features/">{% if is_en %}Features{% else %}功能{% endif %}</a>
+          <a href="{{ site_root }}privacy-policy/">{% if is_en %}Privacy Policy{% else %}隐私政策{% endif %}</a>
+          <a href="{{ site_root }}terms-of-use/">{% if is_en %}Terms of Use{% else %}使用条款{% endif %}</a>
+          <a href="mailto:support@luckgram.cc">support@luckgram.cc</a>
+        </div>
+        <p class="legal">{% if is_en %}Luckgram is an independent app based on the open-source Telegram apps. It is not made by, affiliated with, or endorsed by Telegram. Telegram is a trademark of Telegram FZ-LLC.{% else %}Luckgram 是基于开源 Telegram 应用开发的独立应用，并非由 Telegram 制作，与 Telegram 没有关联，也未获其认可。Telegram 是 Telegram FZ-LLC 的商标。{% endif %}</p>
+      </div>
+    </footer>
+    <script>
+    // Mark the current page in the contents, open the list on wide screens, and colour the status notes.
+    (function () {
+      var here = location.pathname.replace(/index\.html$/, '');
+      document.querySelectorAll('.doc-nav a').forEach(function (a) {
+        if (a.getAttribute('href').split('#')[0] === here && !a.getAttribute('href').includes('#')) a.setAttribute('aria-current', 'page');
+      });
+      var cur = document.querySelector('.doc-nav a[aria-current]');
+      var nav = document.querySelector('.doc-nav');
+      if (cur) nav.scrollTop = cur.offsetTop - nav.clientHeight / 2;
+      var toc = document.querySelector('.doc-toc');
+      if (window.innerWidth < 900) toc.removeAttribute('open');
+      document.querySelectorAll('.doc-body blockquote').forEach(function (q) {
+        var s = q.querySelector('strong'); if (!s) return;
+        var w = s.textContent;
+        if (/^(开发中|In development)/.test(w)) q.className = 'status wip';
+        else if (/^(现已可用|已上线|Available)/.test(w)) q.className = 'status ok';
+      });
+    })();
+    </script>
   </body>
 </html>
