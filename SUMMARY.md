@@ -13,6 +13,7 @@
 * [开发中](features/README.md#accounts-and-privacy)
   * [隐私控制](features/privacy.md)
   * [Luckgram AI](features/ai.md)
+  * [附近的人和广场](features/discover.md)
   * [套餐、Gems 与邀请奖励](features/plans-and-rewards.md)
   * [测试版与限量上线功能](features/beta.md)
   * [Luckgram Premium 续订与到期](help/premium-renewal.md)

@@ -57,6 +57,15 @@ Read [Messaging tools](messaging.md),
 
 Read [Profiles, folders, and interface](profiles-and-folders.md).
 
+## Discover {#discover}
+
+| Feature | What it does | Status |
+|---|---|---|
+| People Nearby | After you opt in, see other Luckgram users nearby who also opted in, by distance band only | In development |
+| Square | Short text and photo posts every Luckgram user can read, reviewed before they go public | In development |
+
+Read [People Nearby and Square](discover.md).
+
 ## AI, plans, and programs
 
 | Feature | What it does | Status |

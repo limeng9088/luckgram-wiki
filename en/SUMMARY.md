@@ -13,6 +13,7 @@
 * [In development](features/README.md#accounts-and-privacy)
   * [Privacy controls](features/privacy.md)
   * [Luckgram AI](features/ai.md)
+  * [People Nearby and Square](features/discover.md)
   * [Plans, Gems, and referrals](features/plans-and-rewards.md)
   * [Beta and limited-rollout features](features/beta.md)
   * [Luckgram Premium renewal and expiration](help/premium-renewal.md)

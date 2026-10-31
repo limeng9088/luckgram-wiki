@@ -53,6 +53,15 @@ Luckgram 基于官方 Telegram 应用开发。本索引列出哪些功能现在�
 
 请阅读[资料、文件夹与界面](profiles-and-folders.md)。
 
+## 发现 {#discover}
+
+| 功能 | 作用 | 状态 |
+|---|---|---|
+| 附近的人 | 主动开启后，看到附近也开启了的 Luckgram 用户，只显示距离范围 | 开发中 |
+| 广场 | 所有 Luckgram 用户都能看到的图文短帖，先审核再公开 | 开发中 |
+
+请阅读[附近的人和广场](discover.md)。
+
 ## AI、套餐与活动 {#ai-plans-and-programs}
 
 | 功能 | 作用 | 状态 |
