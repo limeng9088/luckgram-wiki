@@ -21,7 +21,7 @@ These are planned Luckgram discovery features, run on Luckgram's own servers. Th
 
 > **In development.** Luckgram does not have this feature yet. It is on the roadmap, and this section describes the planned behavior.
 
-- **Public posts.** Square is a feed of posts that every Luckgram user can see. Posts can include text, photos and short videos, with Latest and Hot tabs.
+- **Public posts.** Square is a feed of posts that every Luckgram user can see, with Latest and Hot tabs. Posts can include text, photos and short videos.
 - **Uses your current account.** Posts, likes and comments use the Telegram account you're signed in with. No extra setup is needed.
 - **Live as soon as you post.** New posts appear on Square right away. Content reported by several people is hidden until a moderator reviews it.
 - **Photos and videos.** Each post can include up to 9 photos or one video up to 60 seconds long. Media is compressed before upload, and location and other metadata are removed.
