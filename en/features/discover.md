@@ -21,9 +21,9 @@ These are planned Luckgram discovery features, run on Luckgram's own servers. Th
 
 > **In development.** Luckgram does not have this feature yet. It is on the roadmap, and this section describes the planned behavior.
 
-- **Public posts.** Square is a feed of short text and photo posts that every Luckgram user can read, with Latest and Hot tabs.
+- **Public posts.** Square is a feed of posts that every Luckgram user can see. Posts can include text, photos and short videos, with Latest and Hot tabs.
 - **Uses your current account.** Posts, likes and comments use the Telegram account you're signed in with. No extra setup is needed.
 - **Live as soon as you post.** New posts appear on Square right away. Content reported by several people is hidden until a moderator reviews it.
-- **Photos lose location data.** Photos are compressed and their EXIF data, including where they were taken, is removed before upload.
+- **Photos and videos.** Each post can include up to 9 photos or one video up to 60 seconds long. Media is compressed before upload, and location and other metadata are removed.
 - **Report and block.** You can report posts, comments and authors. Blocking hides each other's posts and comments, and hides you from each other in People Nearby.
 - **Delete your data.** You can delete your posts and comments at any time, or delete all of your Square data at once.
