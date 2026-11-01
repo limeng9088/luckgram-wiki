@@ -22,8 +22,8 @@ These are planned Luckgram discovery features, run on Luckgram's own servers. Th
 > **In development.** Luckgram does not have this feature yet. It is on the roadmap, and this section describes the planned behavior.
 
 - **Public posts.** Square is a feed of short text and photo posts that every Luckgram user can read, with Latest and Hot tabs.
-- **Reading is open; posting needs a linked account.** To post, like, comment or report, link your device to your Telegram account first.
-- **Reviewed before it's public.** New posts are reviewed first. If a post isn't approved, you see why and nobody else sees it.
+- **Uses your current account.** Posts, likes and comments use the Telegram account you're signed in with. No extra setup is needed.
+- **Live as soon as you post.** New posts appear on Square right away. Content reported by several people is hidden until a moderator reviews it.
 - **Photos lose location data.** Photos are compressed and their EXIF data, including where they were taken, is removed before upload.
 - **Report and block.** You can report posts, comments and authors. Blocking hides each other's posts and comments, and hides you from each other in People Nearby.
 - **Delete your data.** You can delete your posts and comments at any time, or delete all of your Square data at once.

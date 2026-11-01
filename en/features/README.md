@@ -62,7 +62,7 @@ Read [Profiles, folders, and interface](profiles-and-folders.md).
 | Feature | What it does | Status |
 |---|---|---|
 | People Nearby | After you opt in, see other Luckgram users nearby who also opted in, by distance band only | In development |
-| Square | Short text and photo posts every Luckgram user can read, reviewed before they go public | In development |
+| Square | Text and photo posts every Luckgram user can see, live as soon as they're posted | In development |
 
 Read [People Nearby and Square](discover.md).
 
