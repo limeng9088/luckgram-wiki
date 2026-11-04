@@ -1,150 +1,86 @@
 ---
-description: View extra profile information and organize the Luckgram interface with folders and tab controls, change your Telegram username, and see how Telegram verification works.
+description: See Telegram IDs and approximate sign-up dates, organize chats with keyword folders, keep private notes, see a contact's activity in shared groups, and common questions about usernames and verification.
 ---
 
-# How do profile, folder, and interface tools work?
+# Profiles and organizing
 
-Luckgram can expose additional identifiers and organization controls around the
-standard Telegram interface.
+<!-- features:top -->
+> The status of each feature on this page matches [Luckgram features](https://luckgram.cc/en/features/). [← Back to features](https://luckgram.cc/en/features/)
+<!-- features:top:end -->
 
-## Telegram ID
+## Profile details {#profile-info}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#profile-info) <!-- status:profile-info -->
 
-**Show ID** displays the numeric Telegram identifier for a supported user, chat, or
-channel surface. An ID is useful for support and integrations, but it is not proof
-that a person controls or officially represents an account.
+Profiles of users, bots, groups and channels show a little more:
 
-## Registration date estimate
+- **ID:** the numeric Telegram ID (groups and channels show the full form starting with `-100`). Tap to copy it; press and hold to choose **Copy ID** or **Copy link**.
+- **Registered:** user profiles show roughly when the account was created, such as "about Oct 2019". It's an estimate from known data, not an exact date from Telegram.
+- **Clickable bio:** URLs, @usernames and #hashtags in a bio open when you tap them.
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+An ID is useful for support and bots, but it doesn't prove that someone controls or officially represents an account. Check where an unfamiliar link goes before you sign in or pay.
 
-**RegDate** estimates when a Telegram account was registered. The result is derived
-from known reference points and can be approximate; it is not a Telegram-issued
-identity or trust certificate.
+## Keyword folders {#keyword-folders}
 
-## Keyword folders
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#keyword-folders) <!-- status:keyword-folders -->
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+Let a keyword sort your chats, such as invoice or flight.
 
-Where enabled, keyword folders help surface or organize conversations around
-configured terms. Matching can depend on the active rollout and the content the
-feature is allowed to inspect. Verify the current privacy explanation before using
-it for confidential work.
+1. Tap **+** at the right end of the folder tabs in the chat list and choose **Keyword folder** (or go through **Settings → Chat Folders**).
+2. Enter a name and 1–10 keywords, and choose where to look: all chats, private chats, groups or channels.
+3. Every chat whose recent messages mention a keyword joins the folder, with the keyword highlighted in the preview. Inside a chat you can jump to the next place that mentions it.
 
-## Private notes {#private-notes}
+Keyword folders stay on this device (per account) and are not synced as Telegram cloud folders. You can have up to 10.
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+## Private notes {#user-notes}
 
-On a contact's profile, tap **Add a note** and write something only you will see,
-such as where you met, how they prefer to be contacted, or what they ordered. Notes:
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#user-notes) <!-- status:user-notes -->
 
-- are visible only to you; they are not sent to the contact or shown anywhere on their side;
-- appear at the top of your chat with that person, so you see them when you open the chat;
-- can all be searched from one place.
+On the profile of a user, group or channel, tap **Add a note…** under the bio and write something only you will see, such as where you met or what they ordered.
 
-Do not keep passwords, login codes, or other credentials in notes.
+- Only you can see it. It isn't sent to them or uploaded; it's stored on this device for each account.
+- When you open your chat with them, the first line of the note shows at the top; tap to expand or edit it.
+- Search all your notes in **Settings → Luckgram Features → Private notes → All notes**.
 
-## Activity in shared groups {#shared-group-activity}
+Don't keep passwords, codes or other sensitive credentials in notes.
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+## Activity in shared groups {#shared-activity}
 
-Open the **Activity** tab on a contact's profile to see their latest messages in
-the groups you are both in. Tap one to jump to the original message.
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#shared-activity) <!-- status:shared-activity -->
 
-- It only shows messages you could already read in those groups.
-- It does not include private chats or groups you are not in, and the other person is not told that you looked.
-- Messages the person deleted are not shown.
+Open a contact's profile and the **Activity** tab lists their latest messages in the groups you're both in. Tap one to jump to it.
 
-Respect other people's privacy and do not use this to harass or track anyone.
+- It only shows messages you could already read in those groups;
+- it doesn't include private chats or groups you're not in, and it doesn't tell them you looked;
+- pull down to refresh.
 
-## Remember the last folder
+Respect other people's privacy and don't use this to harass or track anyone.
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+**Platforms:** iOS and Android.
 
-Supported builds can reopen the chat folder you last used instead of returning to a
-default list.
-
-## Hide unused tabs and floating tools
-
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
-
-Luckgram settings can hide selected tabs or a floating in-chat menu. Hiding a tab
-changes navigation; it does not delete the associated data or turn off a backend
-service by itself.
-
-**Availability:** Telegram ID and RegDate are visible in supported iOS and Android
-builds. Keyword folders and individual interface controls can be limited by rollout.
-
-**Sources:** [Luckgram features](https://luckgram.cc/en/features) ·
-[iOS source](https://github.com/limeng9088/luckgram-ios) ·
-[Android source](https://github.com/limeng9088/luckgram-android)
-
-## How do I change my username?
+## How do I change my username? {#how-do-i-change-my-username}
 
 > **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
-A username is the public name of your Telegram account. It is optional: anyone
-who finds you by it can write to you by your username alone.
+Your username is the public name of your Telegram account. It's optional: anyone who finds you by username can message you with only that.
 
-1. Open the username screen:
-   - **iPhone and iPad:** **Settings → Edit → Username**. With no username yet,
-     **Set Username** is also in **Settings**.
-   - **Android:** **Settings**, then tap **Username**.
-2. Type the new username. When the app says it is available, tap the check mark
-   to save.
+1. Open **Settings** and tap **Username** (on iPhone: **Settings → Edit → Username**).
+2. Enter the new username. When the app says it's available, tap the checkmark to save.
 
-Telegram’s rules:
+Telegram's rules:
 
-- Use a–z, 0–9 and underscores. Capital letters don’t make it a different
-  username.
+- Only a–z, 0–9 and underscores. Upper and lower case count as the same username.
 - 5 to 32 characters, not starting with a number.
-- A username belongs to one account at a time. **Sorry, this username is already
-  taken.** means you need to choose another.
+- A username belongs to one account at a time. If you see **Sorry, this username is already taken.**, choose another.
 
-After a change, your link is `t.me/` followed by the new username. To remove the
-username, leave it empty and save: people can no longer find you by it in
-search, and your existing chats stay as they are.
+After the change your link is `t.me/` plus the new username. To remove your username, clear it and save. Collectible usernames are bought and sold on platforms such as Fragment; Telegram can't assign them.
 
-Collectible usernames are different: they are bought and sold on third-party
-platforms such as Fragment, and Telegram cannot assign them. If the app says a
-username is taken but available for purchase, it is a collectible one. If a basic
-username you also use on at least two of Facebook, Twitter and Instagram is
-taken, Telegram can help through @Username_bot.
+**Source:** [Evidence notes](../../docs/evidence/help-w6b-2026-10-16.md)
 
-**Sources:** [Evidence ledger](../../docs/evidence/help-w6b-2026-10-16.md)
-
-## How do I get a verification checkmark?
+## How do I get a verification checkmark? {#how-do-i-get-a-verification-checkmark}
 
 > **Available now.** This is a standard Telegram feature and works the same way in Luckgram.
 
-Only Telegram gives the official verification badge (a checkmark), and Luckgram
-cannot add one. A different badge next to a name can be the Telegram Premium
-profile badge, which comes with a Telegram Premium subscription. Telegram
-verifies active official channels, bots and public groups, not personal
-accounts. To apply, link your Telegram channel, bot or group from the bios of
-notable verified profiles on at least two other platforms, collect two press
-articles about you or your organization, then contact @VerifyBot in Telegram.
-The full requirements are in Telegram's
-[Page Verification Guidelines](https://telegram.org/verify).
+The official verification checkmark can only be granted by Telegram; Luckgram can't add one. Other badges next to a name may be the Telegram Premium profile badge, shown once you subscribe to Telegram Premium. Icons that other services show next to accounts are not Telegram verification.
 
-Some other services show their own icons next to accounts and chats. These are
-not Telegram's checkmark.
-
-**Sources:** [Evidence ledger](../../docs/evidence/help-w8-2026-10-16.md)
-
-
-## Where is the search button (magnifying glass)?
-
-On iPhone and iPad, where you start a search depends on your Luckgram version.
-
-- **Luckgram 2.6.4:** tap the **Search** field at the top of the chat list.
-- **Luckgram 2.4.1 to 2.6.3:** a magnifying glass button sits at the right end of
-  the tab bar at the bottom of the screen on the **Chats**, **Contacts**,
-  **Calls**, **Settings** and **Luckgram** tabs. Tap it to search.
-
-The magnifying glass is Telegram's own tab bar search, not a separate Luckgram
-feature. If it appeared or disappeared, your app version changed. Updating to
-2.6.4 from the App Store moves search to the field at the top of the chat list.
-
-**Sources:** [Evidence ledger](../../docs/evidence/help-w10-2026-10-23.md)
+**Source:** [Evidence notes](../../docs/evidence/help-w8-2026-10-16.md)

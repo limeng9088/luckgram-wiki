@@ -14,9 +14,9 @@ Whether sensitive or restricted channels and content are shown on iPhone, iPad
 or Android depends on those rules and on your sensitive content settings on
 Telegram.
 
-Luckgram plans a **Show restricted channels** switch that opens channels hidden
-only by the store builds; see [Restricted channels](../features/privacy.md#restricted-channels)
-(in development). Luckgram does not open content Telegram blocks for everyone, or
+Turn on **Store-restricted channels** in **Settings → Luckgram Features** to open
+channels hidden only by the store builds; see
+[Restricted channels](../features/privacy.md#unblock). Luckgram does not open content Telegram blocks for everyone, or
 deleted or private content.
 
 **Sources:** [Evidence ledger](../../docs/evidence/help-w3-2026-10-18.md)

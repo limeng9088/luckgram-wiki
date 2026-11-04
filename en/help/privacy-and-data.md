@@ -11,9 +11,9 @@ to identify the feature path, not to make one blanket privacy claim.
 |---|---|
 | Telegram chats, channels, account login, and ordinary calls | Telegram services and the client on your device |
 | Hidden-chat state, preferences, cache, downloads, and some quick replies | Primarily the local app/device, with implementation differences |
-| Luckgram account services, subscriptions, referrals, remote configuration, and feature eligibility | Luckgram services and relevant store/provider |
+| Luckgram account linking, Luckgram Pro, remote configuration, and feature switches | Luckgram services and relevant store/provider |
 | AI prompts, selected chat context, translation, or transcription | Luckgram and/or the selected processing provider, depending on the feature |
-| Historical wallet-linked access | Separate from the retired financial wallet; ask support about a specific old setup |
+| Cloud backup (Luckgram Pro) | Encrypted on your device with your backup password before upload; Luckgram stores only data it cannot decrypt |
 | Analytics, diagnostics, attribution, and website cookies | Luckgram and the providers disclosed by the current policy or store |
 
 Luckgram’s current policy describes collection and processing needed for services,
@@ -28,8 +28,7 @@ Center because it is incompatible with those disclosures.
 
 - Review operating-system permissions and disable ones you do not use.
 - Check the context selected before sending an AI request.
-- Keep login codes, two-step passwords, exported sessions, and wallet recovery
-  material out of chats and support tickets.
+- Keep login codes, two-step passwords, and backup passwords out of chats and support tickets.
 - Remember that hiding a chat changes the local interface; it does not remove the
   conversation from another signed-in device.
 - Read the current policy for legal definitions, retention, processors, and rights.

@@ -21,7 +21,7 @@ description: 了解为什么能看 Telegram 群消息却不能发言、为什么
 
 ## 为什么不能再加入更多群组或频道？“群组和频道太多” {#why-cant-i-join-more-groups-or-channels-too-many-groups-and-channels}
 
-Telegram 限制了一个账号可以加入的频道和超级群组数量。Telegram Premium 账号的上限更高。Telegram Premium 是 Telegram 自己的订阅；Luckgram Premium 是另一个套餐（见[套餐、Gems 与邀请奖励](../features/plans-and-rewards.md)）。
+Telegram 限制了一个账号可以加入的频道和超级群组数量。Telegram Premium 账号的上限更高。Telegram Premium 是 Telegram 自己的订阅；[Luckgram Pro](../features/pro.md#pro) 是另一回事，不会提高这个上限。
 
 达到上限时，应用会提示你先退出一些群组或频道，再加入新的。在 iPhone 和 iPad 上，它会列出你最不活跃的群组和频道供你选择。这个上限对每个 Telegram 账号分别计算。
 

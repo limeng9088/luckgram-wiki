@@ -1,100 +1,98 @@
 ---
 permalink: /en/features/
-description: A complete, status-aware index of documented Luckgram features.
+description: Every feature Luckgram adds to Telegram, grouped, with its current status.
 ---
 
-# What features does Luckgram add?
+# What does Luckgram add?
 
-Luckgram is built on the official Telegram app. This index shows which documented
-features work today (standard Telegram features) and which Luckgram additions are
-still in development.
+Everything you use in Telegram works in Luckgram. Below are the features Luckgram adds, with the same groups and statuses as [Luckgram features on luckgram.cc](https://luckgram.cc/en/features/):
 
-## Accounts and privacy
+- **Available:** works for everyone in the current version;
+- **Pro:** needs [Luckgram Pro](pro.md#pro);
+- **Available (Telegram feature):** Telegram's own feature, used the same way in Luckgram.
 
-| Feature | What it does | Status |
-|---|---|---|
-| Expanded accounts | Keeps more Telegram accounts in one client | In development (Telegram limit applies today) |
-| Account backup/import/export | Transfers supported account sessions between client setups | In development |
-| Double Bottom | Reveals a separate hidden account surface through an alternate access action | In development |
-| Hidden chats | Removes selected chats from the normal chat list | In development |
-| Immediate auto-lock | Shortens the time before the app lock engages | In development |
-| Hide phone number | Adds a client control around phone-number visibility | In development |
-| Restricted channels | Opens channels hidden only by the store builds, free | In development |
+You can turn most features on or off in **Settings → Luckgram Features**. If you can't find one, see [I can't see a feature](../help/feature-not-visible.md).
 
-Read [Privacy controls](privacy.md).
+<!-- features:catalog:start -->
 
-## Messaging, language, and media
+## Accounts and privacy {#accounts-privacy}
 
 | Feature | What it does | Status |
 |---|---|---|
-| Quick replies | Reuses saved response templates | In development |
-| Anonymous forwarding / forward as copy | Sends content without the original forwarding attribution where supported | Available (Telegram) |
-| Direct save / private reply | Adds shortcuts around saved messages and group replies | In development |
-| Bulk selection | Selects more messages for a shared action | In development |
-| Incoming and outgoing translation | Translates received text or text before sending | Incoming: available (Telegram); outgoing: in development |
-| Speech-to-text | Produces a transcript from supported audio | Telegram Premium; free version in development |
-| Existing video as video message | Converts a compatible local video into a round message | In development |
-| Rear-camera preference | Starts supported video capture with the rear camera | In development |
-| Call recording | Records supported calls and saves the result through the app flow | In development |
-| Advanced cache/download controls | Gives additional control over local media handling | Telegram storage settings available; extras in development |
+| [More accounts](privacy.md#accounts) | Up to 20 accounts, 50 with Pro | Available |
+| [Double Bottom](privacy.md#double-bottom) | Double Bottom: a second passcode with its own view | Available |
+| [Hidden chats](privacy.md#hidden-chats) | Hide chats without deleting them | Available |
+| [Restricted channels](privacy.md#unblock) | Open channels the store apps hide, for free | Available |
 
-Read [Messaging tools](messaging.md),
-[Translation and speech-to-text](translation-and-voice.md), and
-[Media and call tools](media-and-calls.md).
-
-## Profiles and organization
+## Messages and language {#messages-language}
 
 | Feature | What it does | Status |
 |---|---|---|
-| Show Telegram ID | Displays an account or peer identifier in supported profile surfaces | In development |
-| Registration date estimate | Shows an estimated Telegram-account registration period | In development |
-| Clickable bio links | Makes supported links in profile bios directly actionable | In development |
-| Remember last folder | Returns to the previously selected chat folder | In development |
-| Keyword folders | Organizes or surfaces chats around configured keywords | In development |
-| Hide unused tabs | Removes selected Luckgram navigation items | In development |
-| Private notes | Notes on contacts that only you see, shown at the top of the chat | In development |
-| Activity in shared groups | Shows a contact's latest messages in groups you share | In development |
+| [Translate messages](translation-and-voice.md#translate-in) | Read messages in your language | Available |
+| [Translate before sending](translation-and-voice.md#translate-out) | Translate what you write before you send it | Available |
+| [Voice to text](translation-and-voice.md#voice-text) | Read voice messages, dictate your replies | Available |
+| [Input bar + panel](messaging.md#plus-panel) | A cleaner input bar with everything under + | Available |
+| [Quick replies](messaging.md#quick-replies) | Answer with saved quick replies | Available |
+| [Forward without name](messaging.md#forward-anon) | Forward without the sender's name | Available (Telegram feature) |
+| [Select all](messaging.md#select-all) | Select every message from one person | Available |
+| [Save in one tap](messaging.md#save-direct) | Save to Saved Messages in one tap | Available |
 
-Read [Profiles, folders, and interface](profiles-and-folders.md).
+## Media, calls and storage {#media-calls-storage}
+
+| Feature | What it does | Status |
+|---|---|---|
+| [Round videos](media-and-calls.md#round-video) | Send gallery videos as round video messages | Available |
+| [Call recording](media-and-calls.md#call-rec) | Record calls, with a transcript and AI summary | Available |
+| [Storage](media-and-calls.md#cache) | See what takes up space and clear it | Available |
+
+## Profiles and organizing {#profiles-organizing}
+
+| Feature | What it does | Status |
+|---|---|---|
+| [Profile details](profiles-and-folders.md#profile-info) | Telegram ID, sign-up date and clickable bio links | Available |
+| [Keyword folders](profiles-and-folders.md#keyword-folders) | Keyword folders that find chats for you | Available |
+| [Private notes](profiles-and-folders.md#user-notes) | Private notes on any contact | Available |
+| [Activity](profiles-and-folders.md#shared-activity) | See what a contact said in groups you share | Available |
 
 ## Discover {#discover}
 
 | Feature | What it does | Status |
 |---|---|---|
-| People Nearby | After you opt in, see other Luckgram users nearby who also opted in, by distance band only | In development |
-| Square | Text, photo and short video posts every Luckgram user can see, live as soon as they're posted | In development |
+| [Discover tab](discover.md#discover-tab) | A Discover tab for Square and People Nearby | Available |
+| [People Nearby](discover.md#nearby) | Meet people nearby, only when you choose to | Available |
+| [Square](discover.md#square) | Square: public posts from the Luckgram community | Available |
+| [Scan](discover.md#scan) | Scan a QR code to add a friend | Available |
 
-Read [People Nearby and Square](discover.md).
-
-## AI, plans, and programs
+## AI {#ai}
 
 | Feature | What it does | Status |
 |---|---|---|
-| AI Assistant | Answers prompts and assists with writing or understanding content | In development |
-| AI chat shortcuts | Summarizes, explains, rewrites, or generates content from supported contexts | In development |
-| AI generation and problem-solving actions | Actions depend on the current client, available models and account access | In development |
-| AI writing | Polishes, changes the tone of, or fixes grammar in the input bar | In development |
-| AI images | Creates an image from a sentence and sends it to a chat or channel | In development |
-| AI posts | Drafts channel posts in the channel's style and publishes them | In development |
-| Former in-app wallet | Historical wallet-linked access is separate from financial functionality | Not in Luckgram |
-| Telegram Sessions / Account Shop | Offers account purchase from the currently available selection | Under review |
-| Gems / AI balance | Represents eligible usage credit for supported paid actions | In development |
-| Referrals and campaigns | Shows eligible campaign routes and historical results | In development |
-| AI agents | Task-specific AI agents, and agents you create yourself | In development |
-| HyperLancer | Project relaunch is being worked on | Under review |
-| God’s Eye | Analysis reports that compile another person's profile and activity | Under review |
+| [AI assistant](ai.md#ai-chat) | An AI assistant inside your chats | Available |
+| [Chat summary](ai.md#ai-summary) | Catch up on a busy chat with a summary | Available |
+| [Reply drafts](ai.md#ai-reply) | Turn rough notes into a reply | Available |
+| [AI writing](ai.md#ai-writing) | Polish any message before you send it | Available |
+| [AI agents](ai.md#ai-agents) | AI agents for every task, or build your own | Available |
+| [Agent market](ai.md#agent-market) | Browse ready-made AI agents in the market | Available |
+| [AI images](ai.md#ai-image) | Create images from a sentence | Available |
+| [AI posts](ai.md#ai-post) | Channel posts written in your channel's style | Available |
 
-Read [Luckgram AI](ai.md), [Former wallet](wallet.md),
-[Plans, Gems, and referrals](plans-and-rewards.md), and
-[Beta and limited-rollout features](beta.md).
+## Luckgram Pro {#pro}
 
-## What is not listed as a Luckgram feature
+| Feature | What it does | Status |
+|---|---|---|
+| [Luckgram Pro](pro.md#pro) | Luckgram Pro: more AI, more accounts, no sponsored messages | Pro |
+| [Cloud backup](pro.md#cloud-backup) | Back up your accounts to the cloud, encrypted | Pro |
+| [Pro community](pro.md#pro-community) | Join the private group for Pro members | Pro |
 
-Normal Telegram chats, channels, calls, Secret Chats, Stories, bots, and Telegram
-Business features remain Telegram capabilities when Luckgram does not add a
-distinct workflow. Their behavior follows Telegram and can change with upstream
-client updates.
+## Sign-in and network {#sign-in-network}
 
-**Sources:** [Implementation review](../../docs/evidence/product-review-2026-10-10.md) ·
-[Public feature evidence](../../docs/evidence/feature-sources.md). Source-backed
-behavior and current release availability are separate checks.
+| Feature | What it does | Status |
+|---|---|---|
+| [Proxy settings](sign-in-and-network.md#proxy) | Set up a proxy before you even sign in | Available |
+| [Sign-in code help](sign-in-and-network.md#login-code) | Know where your sign-in code went | Available |
+
+<!-- features:catalog:end -->
+
+## What isn't listed as a Luckgram feature {#what-is-not-listed-as-a-luckgram-feature}
+
+Ordinary Telegram chats, channels, calls, Secret Chats, stories, bots and Telegram Business features remain Telegram's own where Luckgram adds no flow of its own. They behave as Telegram defines them and change with upstream updates. Telegram Premium and Telegram Stars are sold and managed by Telegram and are separate from Luckgram Pro.

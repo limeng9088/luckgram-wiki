@@ -40,5 +40,5 @@ Include:
 6. a redacted screenshot or log when safe.
 
 For source-code issues, use the relevant repository’s issue tracker when enabled.
-For account, billing, wallet, or private-data problems, write to
+For account, Luckgram Pro payment, or private-data problems, write to
 [support@luckgram.cc](mailto:support@luckgram.cc), also when the app does not open.

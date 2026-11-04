@@ -16,8 +16,8 @@ and complete Telegram’s verification flow.
 4. Check [platform and feature availability](availability.md) before looking for a
    feature that may be limited by build, plan, or rollout.
 
-Never share a Telegram login code, two-step verification password, wallet password,
-or recovery material with another person, including someone claiming to be
+Never share a Telegram login code, two-step verification password,
+or cloud backup password with another person, including someone claiming to be
 Luckgram support.
 
 **Sources:** [Official download page](https://wiki.luckgram.cc/en/getting-started/install.html) ·

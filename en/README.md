@@ -21,37 +21,27 @@ and messaging service; Luckgram provides the client and its additional features.
 - [Browse every documented feature](features/README.md)
 - [Fix a feature that is missing](help/feature-not-visible.md)
 
-## What Luckgram offers
+## What Luckgram offers {#what-luckgram-offers}
 
-Available now (standard Telegram features):
+- **Everything in Telegram:** your Telegram chats, channels, groups, calls, Stories and Secret Chats, working as in the official apps.
+- **Accounts and privacy:** up to 20 accounts for free (50 with Luckgram Pro), Double Bottom, hidden chats, store-restricted channels.
+- **Messages and language:** free translation of received messages and before sending, voice to text, the input-bar + panel, quick replies, select all from one person, save in one tap.
+- **Media, calls and storage:** gallery videos as round videos, call recording with a transcript and AI summary, finer storage settings.
+- **Profiles and organizing:** Telegram ID and sign-up date, keyword folders, private notes, activity in shared groups.
+- **Discover:** Square and People Nearby in the Discover tab, plus Scan.
+- **Luckgram AI:** AI assistant, chat summaries, AI replies and writing, agents and the agent market, AI images, AI posts.
+- **Luckgram Pro:** more AI, more accounts, cloud backup, the Pro community, no sponsored messages.
+- **Sign-in and network:** proxy settings right on the sign-in screen, and help finding your sign-in code.
 
-- Your Telegram chats, channels, groups, calls, Stories, and Secret Chats.
-- Up to 3 Telegram accounts in one app (4 with Telegram Premium).
-- Translation of incoming messages.
+The full list with each feature's status is in the [feature catalog](features/README.md), matching [Luckgram features on luckgram.cc](https://luckgram.cc/en/features/).
 
-In development (see each feature page for the planned behavior):
-
-- More accounts in one app, and account import/export.
-- Hidden chats and accounts through Double Bottom.
-- Quick replies and extra message actions.
-- Translation before sending, and speech-to-text without Premium.
-- Sending an existing video as a Telegram video message.
-- Call recording, with consent requirements.
-- Luckgram AI, plans, and rewards.
-
-AI, agent, account-shop, and payment features can depend on the app version,
-platform, subscription, region, account, or staged rollout. Their pages always show
-that status before explaining the feature.
-
-## Status labels
+## Status labels {#status-labels}
 
 | Label | Meaning |
 |---|---|
-| **Supported build** | Use the feature when its control is present and the current eligibility checks pass |
-| **Beta** | Available to test for eligible users and subject to change |
-| **Limited rollout** | Only some platforms, accounts, regions, plans, or builds may show it |
-| **Source-visible** | Present in source, but not confirmed in a current release |
-| **Retired** | No longer a current feature; old instructions must not be reused |
+| **Available** | Works for everyone in the current version |
+| **Pro** | Needs [Luckgram Pro](features/pro.md#pro) |
+| **Available (Telegram feature)** | Telegram's own feature, used the same way in Luckgram |
 
 ## Official links
 
@@ -61,6 +51,5 @@ that status before explaining the feature.
 - [Terms of Use](https://luckgram.cc/en/terms-of-use)
 - [Luckgram on GitHub](https://github.com/limeng9088)
 
-Product knowledge was reviewed against implementation and product documentation
-on **October 10, 2026**. Source presence is not proof of availability in every
-released build. The [former in-app wallet](features/wallet.md) is retired.
+Feature information was updated against the current app code and requirements on
+**November 4, 2026**.

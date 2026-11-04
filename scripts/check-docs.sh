@@ -69,4 +69,7 @@ if ! diff <(find getting-started features help reference README.md -name '*.md' 
   exit 1
 fi
 
+# Feature catalog and status lines must match luckgram-site's data/features.json (specs#103).
+python3 scripts/sync-features.py --check
+
 echo "docs check passed"

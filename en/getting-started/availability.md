@@ -1,42 +1,28 @@
 ---
-description: Understand why Luckgram features differ by platform, plan, region, account, and rollout.
+description: Luckgram's features are the same on iOS and Android; see which need Luckgram Pro, which are off by default, and which platforms aren't available yet.
 ---
 
-# Which Luckgram features are available on my device?
+# Which Luckgram features can I use on my device?
 
-Luckgram does not have one universal feature set. Check the status on a feature page
-before following its instructions.
+Luckgram for iOS and Luckgram for Android have the same features: every item in the [feature catalog](../features/README.md) is on both platforms, with the same entry points and wording.
 
-| Capability | iOS | Android | Status |
+| Category | iOS | Android | Notes |
 |---|---:|---:|---|
-| Telegram messaging, calls, Stories, Secret Chats, bots | Yes | Yes | Available (Telegram) |
-| Multiple accounts (Telegram limit: 3, or 4 with Premium) | Yes | Yes | Available (Telegram) |
-| Translate incoming messages | Yes | Yes | Available (Telegram) |
-| Whole-chat translation, speech-to-text | Premium | Premium | Telegram Premium; free version in development |
-| More accounts, account import/export | No | No | In development |
-| Double Bottom / hidden chats | No | No | In development |
-| Quick replies, extra message and profile actions | No | No | In development |
-| Existing video as a video message | No | No | In development |
-| Call recording | No | No | In development |
-| Luckgram AI | No | No | In development |
-| Plans, Gems, referrals | No | No | In development |
-| Wallet | No | No | Not in Luckgram |
-| Desktop and VR apps | — | — | Not available |
+| Telegram chats, calls, Stories, Secret Chats, bots | Yes | Yes | Telegram's own features |
+| Features marked Available in the catalog | Yes | Yes | Work for everyone |
+| Features marked Pro in the catalog | Yes | Yes | Need [Luckgram Pro](../features/pro.md#pro) |
+| Whole-chat translation and other Telegram Premium benefits | Premium | Premium | Need Telegram Premium (Telegram's own subscription) |
+| Desktop | — | — | Not available; use [Telegram Desktop](https://desktop.telegram.org) with the same account |
 
-## Why availability changes
+## Why a feature may not show up
 
-A feature may depend on:
+- **Switches:** most features can be turned off in **Settings → Luckgram Features**; Store-restricted channels, Double Bottom and call recording are off by default.
+- **Version:** update to the latest version; see the [install guide](install.md).
+- **Pro:** Pro features need Luckgram Pro.
+- **Network:** AI, translation fallback, People Nearby and Square need Luckgram's service.
+- **Telegram's rules:** account status, chat permissions and local laws are still up to Telegram.
 
-- the operating system and Luckgram version;
-- a free, Premium, Premium+, or usage-credit entitlement;
-- country, store, or legal restrictions;
-- a staged rollout or experiment;
-- Telegram account state and server availability;
-- a feature-specific backend or third-party provider.
+For troubleshooting steps, see [I can't see a feature](../help/feature-not-visible.md).
 
-“Source-visible” does not mean you should expect the feature in the current public
-build. See [Feature not visible](../help/feature-not-visible.md) for a diagnostic
-checklist.
-
-**Sources:** [Official availability labels](https://wiki.luckgram.cc/en/getting-started/install.html) ·
-[Public feature evidence](../../docs/evidence/feature-sources.md)
+**Sources:** [Feature catalog](../features/README.md) ·
+[Luckgram features on luckgram.cc](https://luckgram.cc/en/features/)

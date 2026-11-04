@@ -1,27 +1,28 @@
 ---
-description: Add, switch, back up, and hide Telegram accounts in Luckgram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
+description: Add, switch, back up to the cloud, and hide Telegram accounts in Luckgram, sign in with a login code and a two-step password, recover a forgotten password, export your chats, and what deleted messages can come back.
 ---
 
 # How do accounts work in Luckgram?
 
-Luckgram signs in to Telegram accounts and lets you keep more of them in one client
-than a standard Telegram setup typically exposes. The account switcher keeps each
+Luckgram signs in to Telegram accounts and lets you keep more of them in one app
+than Telegram allows. The account switcher keeps each
 account’s chats and settings separate.
 
 ## Add an account
 
-> **Telegram limit applies.** Luckgram currently allows the standard Telegram number of accounts (3, or 4 with Telegram Premium). Support for more accounts is in development.
+> Luckgram lets you sign in to up to **20** Telegram accounts for free, and up to **50** with [Luckgram Pro](../features/pro.md#pro) (Telegram itself allows 3).
 
 1. Open **Settings**.
 2. Open the account switcher or choose **Add Account**.
 3. Enter the phone number attached to the Telegram account.
 4. Complete Telegram’s login-code and two-step-verification flow, if enabled.
 
-The exact account ceiling is platform-specific and can also be constrained by
-memory, storage, notification load, or Telegram. Luckgram’s public source currently
-contains a much higher iOS ceiling and Android options for 10 or 100 accounts, so
-“unlimited” should be understood as expanded multi-account use rather than a
-guarantee that every device can run an arbitrary number.
+At the limit, the app tells you and offers a way to look at Luckgram Pro. If Pro
+ends, accounts you already signed in to stay signed in, but you can't add more than
+the free limit. Code sent to the Telegram app on another device? See
+[Sign-in code help](../features/sign-in-and-network.md#login-code). Can't connect?
+Set up a [proxy](../features/sign-in-and-network.md#proxy) from the top right of the
+sign-in screen first.
 
 ## Switch accounts
 
@@ -36,8 +37,7 @@ on a device where you are already signed in. You also need your two-step
 password, if set.
 
 Check signed-in devices under **Settings → Devices** (or **Active Sessions**) and
-end sessions you do not recognise. On an account bought through Account Shop,
-[contact support](../help/support-and-source.md) first if you are unsure.
+end sessions you do not recognise.
 
 ## I lost my phone or SIM card
 
@@ -65,9 +65,6 @@ When you sign in again:
 - You also need your two-step password, if you set one. Forgot it? The recovery
   email you added helps you reset it (see
   [Telegram’s FAQ](https://telegram.org/faq#q-how-does-2-step-verification-work)).
-- An account bought through Account Shop or imported as a session may use a SIM
-  you do not control. [Contact support](../help/support-and-source.md) before
-  you try anything else.
 
 Don’t wait too long. Telegram deletes an account that stays offline for the
 period set in **Settings → Privacy and Security** (“If Away For”). To move to a
@@ -75,9 +72,6 @@ new number for good, change it while you still have access: **Settings →** you
 number **→ Change Number**.
 
 ## I forgot my two-step verification password
-
-Bought this account through Account Shop or imported it as a session?
-[Contact support](../help/support-and-source.md) before you try anything below.
 
 On the password screen, tap **Forgot password?**:
 
@@ -113,37 +107,16 @@ After deleting and re-creating an account several times, you wait a few days
 before signing up again. For other registration problems, Telegram points to its
 [support form](https://telegram.org/support).
 
-## Back up, import, or export accounts
+## Back up and restore accounts {#back-up-import-or-export-accounts}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+Luckgram Pro members can use [cloud backup](../features/pro.md#cloud-backup) to back up
+their accounts to the cloud, encrypted, and restore them on a new phone (between
+iPhone and Android too) without signing in to each one again. Luckgram doesn't offer
+backup file export or import.
 
-Supported mobile builds expose Luckgram account-transfer tools. On iOS 15 or
-later they are in **Luckgram Settings → Accounts**: **iCloud Backup**, **Import
-from iCloud**, **Import from File** and **Export as File**. Android builds offer
-the same tools in Luckgram’s settings. These tools move account
-session access; they do not create a Telegram backup of all cloud chats.
-
-- Protect exported account material as you would an active login session.
-- Do not upload it to a public drive or send it through an untrusted chat.
-- Availability and compatibility can differ between iOS and Android builds.
-
-To keep an account out of the normal app surface, use
-[Double Bottom or hidden chats](../features/privacy.md) instead of sharing an
-exported session with another device.
-
-## Telegram Sessions and Account Shop
-
-> **Under review.** This is not part of Luckgram and is not scheduled.
-
-Where available, open **Telegram Sessions → Buy Account**, choose from the
-currently offered countries or **Any country**, and review the purchase. Country
-selection does not guarantee stock. A plan benefit must be shown for your exact
-subscription; do not assume every Premium purchase includes an account.
-
-For a purchased session showing 403, a password request, or an account-deletion
-warning, keep any working access and contact [support](../help/support-and-source.md). Do not
-delete sessions or sign out as a generic repair, and never share login codes,
-passwords, or session files. Recovery needs an account-specific check.
+Cloud backup moves the accounts' sign-in credentials, not your chat history: cloud
+chats are already stored on Telegram's servers and load after you sign in. To keep an
+account out of the normal view, use [Double Bottom or hidden chats](../features/privacy.md).
 
 ## How do I back up all my chats and media?
 
@@ -172,23 +145,7 @@ The result is a folder of files on your computer. If the other person later
 deletes messages for both sides, a copy saved before still has them. Keep it as
 private as the conversations themselves.
 
-For the option some Luckgram builds offer, see
-[the section below](#export-messages-instead-of-sessions).
-
 **Sources:** [Evidence ledger](../../docs/evidence/help-telegram-basics-2026-10-13.md)
-
-## Export messages instead of sessions
-
-A chat export and an account-session export serve different purposes. A supported
-chat-export action can turn accessible messages for the offered period into a
-Markdown document. That document is not a complete media archive and cannot
-restore deleted messages. Follow only the options visible in your installed build.
-
-**Sources:** Account-shop announcement ·
-Country selection ·
-[Product review](../../docs/evidence/product-review-2026-10-10.md) ·
-[iOS source](https://github.com/limeng9088/luckgram-ios) ·
-[Android source](https://github.com/limeng9088/luckgram-android)
 
 ## Can I get back deleted messages, chats or files?
 

@@ -34,4 +34,4 @@ Luckgram 基于开源的 Telegram 客户端构建，并增加了各平台的专�
 5. 预期结果和实际结果；
 6. 在安全的前提下，提供打过码的截图或日志。
 
-源码问题请使用相应仓库的 issue（如果已开启）。账号、付费、钱包或隐私数据问题，请写信到[support@luckgram.cc](mailto:support@luckgram.cc)，应用打不开时也一样。
+源码问题请使用相应仓库的 issue（如果已开启）。账号、Luckgram Pro 付款或隐私数据问题，请写信到[support@luckgram.cc](mailto:support@luckgram.cc)，应用打不开时也一样。

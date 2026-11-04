@@ -1,39 +1,28 @@
 ---
-description: 了解为什么 Luckgram 的功能会因平台、套餐、地区、账号和分批上线而不同。
+description: Luckgram 的功能在 iOS 和 Android 上一致；了解哪些功能需要 Luckgram Pro、哪些默认关闭，以及还有哪些平台暂不提供。
 ---
 
 # 我的设备上能用哪些 Luckgram 功能？
 
-Luckgram 并不是所有人都有同一套功能。照着某个功能页面操作之前，请先看清该页面标注的状态。
+Luckgram 的 iOS 版和 Android 版功能一致：[功能目录](../features/README.md)里列出的每一项，两个平台都有，入口和文案也相同。
 
-| 功能 | iOS | Android | 状态 |
+| 类别 | iOS | Android | 说明 |
 |---|---:|---:|---|
-| Telegram 聊天、通话、快拍（Stories）、私密聊天、机器人 | 支持 | 支持 | 已上线（Telegram） |
-| 多账号（Telegram 上限 3 个，Premium 为 4 个） | 支持 | 支持 | 已上线（Telegram） |
-| 翻译收到的消息 | 支持 | 支持 | 已上线（Telegram） |
-| 整个聊天翻译、语音转文字 | Premium | Premium | Telegram Premium；免费版开发中 |
-| 更多账号、账号导入/导出 | 不支持 | 不支持 | 开发中 |
-| 双重空间（Double Bottom）/ 隐藏聊天 | 不支持 | 不支持 | 开发中 |
-| 快捷回复、更多消息与资料操作 | 不支持 | 不支持 | 开发中 |
-| 把已有视频发成视频消息 | 不支持 | 不支持 | 开发中 |
-| 通话录音 | 不支持 | 不支持 | 开发中 |
-| Luckgram AI | 不支持 | 不支持 | 开发中 |
-| 套餐、Gems、邀请奖励 | 不支持 | 不支持 | 开发中 |
-| 钱包 | 不支持 | 不支持 | Luckgram 不提供 |
-| 桌面版和 VR 应用 | — | — | 暂不提供 |
+| Telegram 聊天、通话、快拍、私密聊天、机器人 | 支持 | 支持 | Telegram 本身的功能 |
+| 功能目录里标注“已上线”的功能 | 支持 | 支持 | 所有人都能用 |
+| 功能目录里标注“Pro 专享”的功能 | 支持 | 支持 | 需要 [Luckgram Pro](../features/pro.md#pro) |
+| 翻译整个聊天、Telegram Premium 的其他权益 | Premium | Premium | 需要 Telegram Premium（Telegram 自己的订阅） |
+| 桌面版 | — | — | 暂不提供，可以用同一个账号登录 [Telegram Desktop](https://desktop.telegram.org) |
 
-## 为什么可用性会变化
+## 为什么某个功能可能看不到
 
-一个功能能不能用，可能取决于：
+- **开关：** 大多数功能可以在 **设置 → Luckgram 功能** 里关闭；受限频道、双重空间和通话录音默认关闭。
+- **版本：** 请更新到最新版本，见[安装指南](install.md)。
+- **Pro：** Pro 专享的功能需要开通 Luckgram Pro。
+- **网络：** AI、翻译兜底、附近的人和广场需要连接 Luckgram 的服务。
+- **Telegram 的规则：** 账号状态、聊天权限和地区法律仍由 Telegram 决定。
 
-- 操作系统和 Luckgram 版本；
-- 免费版、Premium、Premium+ 或用量额度等权益；
-- 国家/地区、应用商店或法律限制；
-- 分批上线或实验；
-- Telegram 账号状态和服务器可用性；
-- 该功能依赖的后端或第三方服务商。
+排查步骤请看[看不到某个功能](../help/feature-not-visible.md)。
 
-“源码可见”并不代表当前公开版本里就有这个功能。排查步骤请看[看不到某个功能](../help/feature-not-visible.md)。
-
-**来源：** [官方可用性标注](https://wiki.luckgram.cc/getting-started/install.html) ·
-[公开功能依据](../docs/evidence/feature-sources.md)
+**来源：** [功能目录](../features/README.md) ·
+[luckgram.cc 功能介绍](https://luckgram.cc/features/)

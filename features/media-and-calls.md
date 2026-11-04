@@ -1,37 +1,53 @@
 ---
-description: 把已有视频发成圆形视频消息、发布 Telegram 快拍、管理媒体，以及负责任地录制受支持的通话。
+description: 把相册里的视频发成圆形视频消息、录制一对一通话并得到文字稿和 AI 总结、控制存储空间，以及 Telegram 通话和快拍的常见问题。
 ---
 
-# Luckgram 增加了哪些媒体和通话工具？
+# 媒体、通话与存储
 
-Luckgram 为视频消息、拍摄偏好、下载、本地缓存，以及（在受支持的 iOS 版本中）通话录音增加了快捷方式。
+<!-- features:top -->
+> 本页各功能的状态与 [Luckgram 功能介绍](https://luckgram.cc/features/) 一致。 [← 返回功能介绍](https://luckgram.cc/features/)
+<!-- features:top:end -->
 
-## 把已有视频发成视频消息 {#send-an-existing-video-as-a-video-message}
+## 相册视频发成圆形视频 {#round-video}
 
-> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
+> **已上线** · [在功能介绍中查看](https://luckgram.cc/features/#round-video) <!-- status:round-video -->
 
-1. 在聊天里打开附件或媒体操作。
-2. 从设备中选择一个兼容的视频。
-3. 选择转成视频消息（圆形视频）的操作。
-4. 发送前预览裁剪效果和时长。
+1. 在聊天里打开附件，从相册里选 **一个** 视频。
+2. 长按发送按钮（或打开 **…** 菜单），选择 **作为圆形视频发送**。
+3. 在圆形取景框里拖动、缩放，选好画面；视频超过 60 秒时，在时间轴上选一段（最长 60 秒）。
+4. 点发送。转码时会显示进度，可以取消。
 
-Telegram 现有的上传和格式限制仍然适用。转换时画面可能被裁成圆形，文件也可能被重新编码。
+发出去的是和现拍一样的圆形视频消息。一次选了多个视频或选的是图片时，不显示这个选项。可以在 **设置 → Luckgram 功能** 关掉 **相册视频发成圆形视频**。
 
-## 默认使用后置摄像头 {#start-with-the-rear-camera}
+## 通话录音 {#call-rec}
 
-> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
+> **已上线** · [在功能介绍中查看](https://luckgram.cc/features/#call-rec) <!-- status:call-rec -->
 
-受支持的移动端版本可以记住拍视频时优先使用后置摄像头。这只改变开始拍摄时用哪个摄像头，不会改变消息的接收人或隐私设置。
+1. 在 **设置 → Luckgram 功能** 打开 **通话录音**（默认关闭）。打开时会提醒：各国和地区对通话录音的法律规定不同，录音前请先告知对方并取得同意。
+2. 一对一语音或视频通话时，点通话界面上的 **录音**，按钮变红并开始计时；再点一次停止。
+3. 通话结束后，录音作为音频文件发到 **收藏夹**（可以在设置里改成指定的聊天）。
+4. 如果打开了 **AI 文字稿**（默认开），录音还会附上文字稿和 AI 总结，方便搜索和回顾谈好了什么。第一次使用会先征求你同意把录音发给 AI 服务处理。
 
-## 下载与缓存 {#downloads-and-cache}
+录音只保存在你自己的 Telegram 云端（收藏夹或你指定的聊天）。群组通话和直播不支持录音。Luckgram 不负责判断你的录音是否合法，请把录音当作敏感内容对待。
 
-> **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。位于 **设置 → 数据与存储**。
+## 存储空间 {#cache}
 
-Luckgram 可以提供更多关于把视频保存到相册、自动处理媒体和本地缓存的设置。清除缓存只会删除本地副本，不会删除 Telegram 云端的消息。在应用外下载的文件会一直留在设备上，直到你在那里删除。
+> **已上线** · [在功能介绍中查看](https://luckgram.cc/features/#cache) <!-- status:cache -->
+
+在 Telegram 的 **设置 → 数据与存储 → 存储空间** 里：
+
+- **缓存上限**：1 GB、2 GB、5 GB、10 GB、20 GB、50 GB 或不限。超过上限时，最久没用过的媒体先被清理。
+- **媒体保留时间**：1 小时、1 天、3 天、1 周、1 个月或永久，私聊、群组、频道可以分别设置。
+- **按聊天设置**：在存储空间页的聊天列表里点某个聊天，可以单独设置保留时间，并看到它占了多少空间。
+- **立即清理**：清理前会显示能释放多少空间。
+
+收藏夹里的媒体和正在下载的文件不会被自动清理。清除缓存只删除本机副本，不会删除 Telegram 云端的消息，需要时会重新下载。
+
+**可用平台：** iOS 和 Android。
 
 ## 能用 Luckgram 打 WhatsApp 或 FaceTime 电话吗？ {#can-i-call-whatsapp-or-facetime-from-luckgram}
 
-不能。Luckgram 是 Telegram 应用：它的语音和视频通话都是 Telegram 通话，只能打给 Telegram 用户。无法打给使用 WhatsApp、FaceTime 或其他通讯软件的人。
+不能。Luckgram 是 Telegram 应用：它的语音和视频通话都是 Telegram 通话，只能打给 Telegram 用户。
 
 - **想打给 Telegram 用户：** 打开对方资料，选择语音或视频通话。
 - **不在 Telegram 上的联系人：** 只能邀请对方加入，无法从 Luckgram 给他们打电话。
@@ -41,31 +57,14 @@ Luckgram 可以提供更多关于把视频保存到相册、自动处理媒体�
 
 > **现已可用。** 这是 Telegram 的标准功能，在 Luckgram 中用法完全相同。
 
-快拍（Stories）是 Telegram 的功能：Luckgram 按 Telegram 的方式显示和发布，发布方面没有增加自己的东西。快拍是一张照片或一段视频，显示在联系人聊天列表的顶部；你可以选择谁能看到。
-
-在 iPhone、iPad 或 Android 上（Luckgram 桌面版能显示快拍，但不能发布）：
+快拍（Stories）是 Telegram 的功能：Luckgram 按 Telegram 的方式显示和发布，没有增加自己的东西。
 
 1. 点聊天列表顶部的 **我的快拍**。
 2. 拍一张照片或一段视频，或者从相册中选择。可以添加文字、贴纸和说明。
-3. 选择谁能看到：**所有人**、**联系人**、**密友** 或 **选定的联系人**；也可以排除特定的人。**允许截图** 和 **保留在我的主页**（过期后仍显示在你的资料页上）也在同一页面。
+3. 选择谁能看到：**所有人**、**联系人**、**密友** 或 **选定的联系人**；也可以排除特定的人。
 4. 点 **发布快拍**。
 
-快拍默认保留 24 小时。**Telegram Premium**（Telegram 自己的订阅）增加了 6、12 和 48 小时的选项、一次可发更多快拍、说明中的链接和格式，以及隐身模式。Luckgram Premium 是另一个套餐，不包含这些（见[套餐、Gems 与邀请奖励](plans-and-rewards.md)）。
+快拍默认保留 24 小时。更多时长选项、隐身模式等是 **Telegram Premium**（Telegram 自己的订阅）的权益，Luckgram Pro 不包含这些。谁可以发布、能发多少条，由 Telegram 对所有应用统一规定，Luckgram 没有额外限制。
 
-谁可以发布、每周或每月能发多少条，由 Telegram 对所有应用统一规定。当发布仅限 Telegram Premium 时，应用会显示相应提示。Luckgram 没有额外的限制：如果你的 Telegram 账号能在官方 Telegram 应用里发快拍，就能在 iPhone、iPad 和 Android 版 Luckgram 里发，Luckgram Premium 也不会解锁发布权限。频道或群组获得足够的助力（boost）后，可以由有权限的管理员发布快拍。在 iPhone 和 iPad 上，通话或视频聊天期间不能发布。
-
-## 通话录音 {#record-a-call}
-
-> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
-
-通话录音目前的文档和源码核实都针对 iOS。根据版本不同，录音可以手动或自动进行，录音结果可以发送到收藏夹或另一个设定好的聊天。
-
-录音前，请告知每一位通话参与者，并取得所有相关司法辖区要求的同意。Luckgram 不负责判断你的通话录音是否合法。请把保存的录音当作敏感内容，并检查它被发送到了哪里。
-
-**可用平台：** 根据现有依据，视频消息转换支持 iOS 和 Android；通话录音支持 iOS。其他平台尚未确认。
-
-**来源：** [官方状态标注](https://wiki.luckgram.cc/getting-started/install.html) ·
-[使用条款](https://luckgram.cc/terms-of-use) ·
-[iOS 源码](https://github.com/limeng9088/luckgram-ios) ·
-[依据记录（10 月 13 日）](../docs/evidence/help-troubleshooting-2026-10-13.md) ·
-[依据记录：快拍](../docs/evidence/help-telegram-basics-2026-10-13.md)
+**来源：** [依据记录：快拍](../docs/evidence/help-telegram-basics-2026-10-13.md) ·
+[依据记录（10 月 13 日）](../docs/evidence/help-troubleshooting-2026-10-13.md)
