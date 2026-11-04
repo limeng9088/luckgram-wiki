@@ -12,7 +12,7 @@ Luckgram 使用的是 Telegram 账号。你不需要另外注册 Luckgram 账号
 3. 如果你想把工作和生活分开，可以[添加更多账号](accounts.md)。
 4. 某些功能可能受版本、套餐或分批上线的限制，找功能之前先看看[平台与功能可用性](availability.md)。
 
-不要把 Telegram 登录验证码、两步验证密码、钱包密码或恢复资料告诉任何人，包括自称 Luckgram 客服的人。
+不要把 Telegram 登录验证码、两步验证密码或云备份密码告诉任何人，包括自称 Luckgram 客服的人。
 
 **来源：** [官方下载页面](https://wiki.luckgram.cc/getting-started/install.html) ·
 [Telegram 账号安全](https://telegram.org/faq#q-what-if-someone-pretends-to-be-me)

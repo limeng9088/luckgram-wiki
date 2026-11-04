@@ -1,23 +1,20 @@
 ---
-description: Short answers about Luckgram safety, VPN, downloads, official channels, interface language, finding channels and groups, search, support, advertising, login code, banned number, hacked or deleted account, privacy, permissions, scams, spam, Premium, refunds, sensitive content, wallet, ATT points, deleted messages, Ghost mode.
-generated_from: luckgram/dataroom@e1b032f
+description: Short answers to common questions about Luckgram: safety, downloads, support, sign-in, accounts, privacy, permissions, scams, Luckgram Pro, AI limits and sensitive content.
 rendered_on: 2026-10-23
 ---
-
-<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
 
 # Quick answers
 
 Short answers to common questions about Luckgram. The feature guide and Help and safety explain
 each topic step by step.
 
-**About Luckgram:** [How is Luckgram different from the official Telegram app?](#how-is-luckgram-different-from-the-official-telegram-app) · [Is Luckgram safe to use?](#is-luckgram-safe-to-use) · [Do I need a VPN to use Luckgram?](#do-i-need-a-vpn-to-use-luckgram) · [How many times has Luckgram been installed?](#how-many-times-has-luckgram-been-installed)
+**About Luckgram:** [How is Luckgram different from the official Telegram app?](#how-is-luckgram-different-from-the-official-telegram-app) · [Is Luckgram safe to use?](#is-luckgram-safe-to-use) · [Do I need a VPN to use Luckgram?](#do-i-need-a-vpn-to-use-luckgram)
 
 **Downloads and official places:** [Where do I download Luckgram?](#where-do-i-download-luckgram) · [Which Luckgram website and Telegram channels are official?](#which-luckgram-website-and-telegram-channels-are-official)
 
-**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app) · [How do I find Telegram channels and groups?](#how-do-i-find-telegram-channels-and-groups) · [What is the magnifying glass next to the tab bar on iPhone?](#what-is-the-magnifying-glass-next-to-the-tab-bar-on-iphone)
+**Using the app:** [How do I change the language of the app?](#how-do-i-change-the-language-of-the-app)
 
-**Support and advertising:** [What is the Luckgram support e-mail?](#what-is-the-luckgram-support-e-mail) · [How do I reach a person at Luckgram support?](#how-do-i-reach-a-person-at-luckgram-support) · [How do I advertise my channel or project on Luckgram?](#how-do-i-advertise-my-channel-or-project-on-luckgram)
+**Support:** [What is the Luckgram support e-mail?](#what-is-the-luckgram-support-e-mail) · [How do I reach a person at Luckgram support?](#how-do-i-reach-a-person-at-luckgram-support)
 
 **Accounts and sign-in:** [Why didn't my login code arrive?](#why-didnt-my-login-code-arrive) · [Why does Luckgram say my phone was banned?](#why-does-luckgram-say-my-phone-was-banned) · [What should I do if my account was hacked?](#what-should-i-do-if-my-account-was-hacked) · [How do I delete my account?](#how-do-i-delete-my-account) · [What does "Too many attempts" at sign-in mean?](#what-does-too-many-attempts-at-sign-in-mean)
 
@@ -25,27 +22,23 @@ each topic step by step.
 
 **Safety and scams:** [Can I trust someone in a Luckgram chat who offers to help?](#can-i-trust-someone-in-a-luckgram-chat-who-offers-to-help) · [Where did my NFT stickers or gifts go?](#where-did-my-nft-stickers-or-gifts-go) · [How do I report spam?](#how-do-i-report-spam)
 
-**Premium and subscriptions:** [Is Luckgram free?](#is-luckgram-free) · [How do I cancel a subscription or ask for a refund?](#how-do-i-cancel-a-subscription-or-ask-for-a-refund) · [Why does my free trial show no active subscription?](#why-does-my-free-trial-show-no-active-subscription) · [How many AI messages does each plan include?](#how-many-ai-messages-does-each-plan-include)
+**Luckgram Pro:** [Is Luckgram free?](#is-luckgram-free) · [How do I pay for Luckgram Pro? Does it renew automatically?](#how-do-i-pay-for-luckgram-pro-does-it-renew-automatically) · [How much can I use Luckgram AI?](#how-much-can-i-use-luckgram-ai)
 
 **Content:** [Why can't I see sensitive (18+) or restricted content?](#why-cant-i-see-sensitive-18-or-restricted-content)
 
-**Features that changed or were retired:** [Where is the Luckgram wallet?](#where-is-the-luckgram-wallet) · [Can I still earn ATT points?](#can-i-still-earn-att-points) · [When do I get rewards for my ATT points and NFT stickers?](#when-do-i-get-rewards-for-my-att-points-and-nft-stickers) · [Can I see deleted messages?](#can-i-see-deleted-messages) · [Where is Ghost mode?](#where-is-ghost-mode) · [Does Luckgram have eSIM?](#does-luckgram-have-esim)
+**Other:** [Can I see deleted messages?](#can-i-see-deleted-messages)
 
 ## How is Luckgram different from the official Telegram app?
 
-Luckgram is an unofficial Telegram client for iPhone and iPad, Android and macOS, built on Telegram's open-source apps and connected to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram app, it adds its own features, such as AI tools and managing several accounts in one place.
+Luckgram is an unofficial Telegram client for iPhone, iPad and Android. It is built from Telegram's open-source apps and connects to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram apps, it adds features of its own, such as up to 20 accounts, free translation, hidden chats and AI tools; see the [feature catalog](../features/README.md) for the full list.
 
 ## Is Luckgram safe to use?
 
-Luckgram's apps are open source: the iOS, Android and desktop clients are published on GitHub (<https://github.com/limeng9088>), so what runs on your device can be checked. Luckgram connects to Telegram's official servers, and your account and chats stay on Telegram. Luckgram's Terms of Use say it does not store or have access to your conversations; what Luckgram itself collects is described in its Privacy Policy (<https://luckgram.cc/en/privacy-policy>).
+Luckgram's apps are open source: the source of the iOS and Android apps is published on GitHub (<https://github.com/limeng9088>), so what runs on your device can be checked. Luckgram connects to Telegram's official servers, and your account and chats stay on Telegram. Luckgram's Terms of Use say it does not store or have access to your conversations; what Luckgram itself collects is described in its Privacy Policy (<https://luckgram.cc/en/privacy-policy>).
 
 ## Do I need a VPN to use Luckgram?
 
 Luckgram connects to Telegram's official servers, so it works without a VPN wherever Telegram itself works without a VPN. Where Telegram is restricted, Luckgram is restricted the same way.
-
-## How many times has Luckgram been installed?
-
-Luckgram has been installed more than 57 million times on iPhone, iPad and Android.
 
 ## Where do I download Luckgram?
 
@@ -59,25 +52,13 @@ The official Luckgram website is <https://luckgram.cc>. Luckgram has no official
 
 To change the language of the Luckgram interface, open Settings, then Language, and choose a language from the list. It is the same setting as in Telegram, and the list shows the languages Telegram offers. Luckgram's own menus follow the language you choose; where a Luckgram menu has no translation into that language, it is shown in English.
 
-## How do I find Telegram channels and groups?
-
-To find Telegram channels, chats, groups, bots, stickers and Mini Apps, browse Luckgram Hub on the website: <https://luckgram.cc/en/hub>. It lists the top ones by category and language, and opens any of them in Luckgram in one tap.
-
-## What is the magnifying glass next to the tab bar on iPhone?
-
-If a magnifying glass appeared at the right of the bottom tab bar in Luckgram for iPhone, it is the search button of the current tab. Version 2.6.4 removed it; the search field stays at the top of the list.
-
 ## What is the Luckgram support e-mail?
 
 Luckgram app support by e-mail: <support@luckgram.cc>.
 
 ## How do I reach a person at Luckgram support?
 
-For something bought in Luckgram (Account Shop, Telegram Sessions), or an unusual problem nothing else covers, write to Luckgram support at <support@luckgram.cc>.
-
-## How do I advertise my channel or project on Luckgram?
-
-To promote your channel, group, bot or project to Luckgram's audience, write to <ads@luckgram.cc>.
+For a problem nothing else covers, write to Luckgram support at <support@luckgram.cc>. Include your platform, Luckgram version and what happened; never send login codes, passwords or backup passwords.
 
 ## Why didn't my login code arrive?
 
@@ -129,44 +110,20 @@ To report spam in Luckgram, the same as in Telegram: in the chat, tap Report Spa
 
 ## Is Luckgram free?
 
-Luckgram is free to download. A Luckgram Premium subscription unlocks additional features, including features for business. The price and what it includes are shown in the app and in the store.
+Yes. Every feature not marked Pro is free. [Luckgram Pro](../features/pro.md#pro) is an optional membership with more AI, up to 50 accounts, cloud backup, the Pro community and no sponsored messages. Telegram Premium and Telegram Stars are Telegram's own services and are separate from Luckgram Pro.
 
-## How do I cancel a subscription or ask for a refund?
+## How do I pay for Luckgram Pro? Does it renew automatically?
 
-Luckgram subscriptions bought in the App Store or Google Play follow that store's rules for payment, cancellation and refunds. Cancel a subscription, or change its payment method, in the App Store or Google Play account that processed it; cancelling stops renewal after the last day of the current period and is not automatically a refund. To ask for a refund, write to Luckgram support at <support@luckgram.cc>. A free trial renews as a paid subscription unless auto-renew is turned off at least 24 hours before the trial ends.
+Buy Luckgram Pro on the subscription page in **Settings → Luckgram Features → Luckgram Pro** and pay with Telegram Stars. Each purchase covers one period and doesn't renew automatically, so there's nothing to cancel; when it ends you're back on the free version. For payment problems, write to <support@luckgram.cc>. See [Luckgram Pro](../features/pro.md#pro).
 
-## Why does my free trial show no active subscription?
+## How much can I use Luckgram AI?
 
-If you started a free trial of Luckgram Premium but your profile shows no active subscription: the trial runs in the App Store or Google Play, and your Luckgram profile shows Premium only after Luckgram confirms the purchase. Open the Premium screen and tap "Restore purchase" while signed in with the same Apple ID or Google account that started the trial. A subscription counts for the Luckgram account that confirmed it last.
-
-## How many AI messages does each plan include?
-
-Luckgram AI has no fixed number of messages per plan. Each AI request is paid from your AI Tokens balance: a Premium subscription includes monthly tokens, Premium+ includes more, and anyone can buy a top-up. If the balance runs out, the app says there are not enough AI tokens. Between two requests there is a short pause, longer without Premium. Your balance and the current amounts are shown in the app.
+Luckgram AI chats and translations have a daily limit, which is higher with [Luckgram Pro](../features/pro.md#pro); the subscription page shows the current numbers, which may change. Pro also includes monthly AI credits for the premium model (1 credit per message). When you reach the limit, the app tells you, and it resets the next day.
 
 ## Why can't I see sensitive (18+) or restricted content?
 
-Sensitive (18+) and restricted content: Luckgram follows Telegram's rules and the App Store and Google Play policies. Whether sensitive or restricted channels and content are shown on iPhone, iPad or Android depends on those rules and on your account settings. Luckgram does not open deleted, private or paid content.
-
-## Where is the Luckgram wallet?
-
-Luckgram no longer offers the in-app wallet (balances, sending, swaps, NFTs in the wallet and dApp connections). A sign-in method left over from the wallet is separate and does not mean the wallet still exists.
-
-## Can I still earn ATT points?
-
-Luckgram no longer gives ATT points for scrolling or chatting, and the ATT autopilot no longer runs. The old Scroll-to-Earn and autopilot guides are not current instructions.
-
-## When do I get rewards for my ATT points and NFT stickers?
-
-Rewards for the ATT points and NFT stickers you collected are being calculated now; an update with the details is coming soon in the official Luckgram channel @luckgramapp.
+Sensitive (18+) and restricted content: Luckgram follows Telegram's rules. Whether sensitive content shows depends on those rules and your account settings. Channels hidden only in the store versions open once you turn on [Store-restricted channels](../features/privacy.md#unblock) in **Settings → Luckgram Features**. Luckgram does not open deleted, private or paid content.
 
 ## Can I see deleted messages?
 
-Luckgram has no option to see deleted messages. An iOS option that kept messages deleted by others visible existed only briefly, in January 2024 (version 1.5.3), and was removed in the next update. It never recovered messages deleted before it was turned on.
-
-## Where is Ghost mode?
-
-Luckgram replaced Ghost mode with Preview mode in version 5.15.4 (29 February 2020) to comply with Telegram's API terms of service.
-
-## Does Luckgram have eSIM?
-
-Luckgram has no built-in eSIM or mobile data feature. An early eSIM integration from 2022 was removed from the app in 2024.
+Luckgram has no option to see deleted messages. A message deleted for both sides is gone for good, and Telegram can't restore it either; see [Can I get back deleted messages, chats or files?](../getting-started/accounts.md#can-i-get-back-deleted-messages-chats-or-files).

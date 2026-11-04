@@ -1,10 +1,7 @@
 ---
 description: Official Luckgram downloads, websites, Telegram channels and chats, support contacts, social networks and e-mail addresses.
-generated_from: luckgram/dataroom@e1b032f
 rendered_on: 2026-10-23
 ---
-
-<!-- Generated page: do not edit it here. Change the source in the Luckgram data room and run the generator again. -->
 
 # Official links and downloads
 
@@ -23,8 +20,6 @@ Luckgram's own apps, websites, source code and e-mail addresses.
 ## Which websites are Luckgram's?
 
 - [luckgram.cc](https://luckgram.cc/en/)
-- [Luckgram Hub](https://luckgram.cc/en/hub)
-- [my.luckgram.cc](https://my.luckgram.cc)
 - [Luckgram Help Center](https://wiki.luckgram.cc/en/)
 
 ## Which Telegram channels and chats are official?
@@ -43,7 +38,3 @@ Luckgram has no official Telegram channels, chats, or bots yet. Do not trust acc
 ## Which other e-mail addresses does Luckgram use?
 
 - General contact e-mail: <contact@luckgram.cc>
-
-## Where is Luckgram Business?
-
-Luckgram Business is in development.

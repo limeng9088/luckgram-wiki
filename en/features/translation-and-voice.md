@@ -1,63 +1,61 @@
 ---
-description: Translate incoming or outgoing messages and transcribe supported voice content in Luckgram.
+description: Translate messages you receive and text you write before sending, and turn voice messages into text or dictate instead of typing, free in Luckgram.
 ---
 
-# How do translation and speech-to-text work?
+# Translation and voice to text
 
-Luckgram can translate received messages, translate text before it is sent, and
-transcribe supported audio. These actions can use Luckgram or third-party processing
-depending on the feature and build.
+<!-- features:top -->
+> The status of each feature on this page matches [Luckgram features](https://luckgram.cc/en/features/). [← Back to features](https://luckgram.cc/en/features/)
+<!-- features:top:end -->
 
-## Translate an incoming message
+All of these are free and need no Telegram Premium. Translation uses Telegram's own translation first; when Telegram can't translate, Luckgram's translation service takes over. The first time you use one of Luckgram's AI services (translation fallback, voice to text, AI cleanup), the app explains that the selected content will be sent for AI processing and only sends it after you agree.
 
-> **Available now.** This is a standard Telegram feature and works the same way in Luckgram. Turn it on in **Settings → Language → Show Translate Button**.
+## Translate messages {#translate-in}
 
-1. Open the message context menu.
-2. Choose **Translate**.
-3. Select a target language if the app asks for one.
-4. Review the translation alongside the original meaning and context.
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#translate-in) <!-- status:translate-in -->
 
-## Translate a whole chat
+1. Press and hold a message and tap **Translate**. Or turn on **Translate received messages** in **Settings → Luckgram Features** and tap the translate button next to a message in another language.
+2. **The first time**, you choose the language to translate into. Luckgram remembers it and uses it in every chat from then on.
+3. The translation appears under the original, in the same bubble. Tap **Undo Translate** to go back.
 
-> **Telegram Premium.** Whole-chat translation is available today through Telegram Premium. A Luckgram version without Premium is in development.
+To change the language, tap the language line above a translation (for example "English → Chinese"), or change **Translate to** in **Settings → Luckgram Features → Message translation**.
 
-Telegram can translate a whole chat at once. Turn on **Translate Entire Chat** in
-**Settings → Language**; a chat in another language then shows a bar at the top
-with **Translate to …** and **Show Original**. Telegram makes this part of
-**Telegram Premium**: without it, the app offers Telegram Premium instead.
+For voice messages, turn them into text first (see [Voice to text](#voice-text)), then tap **Translate**. A message you translated once is cached on this device, so opening it again sends no new request.
 
-**Sources:** [Evidence ledger](../../docs/evidence/help-w7-2026-10-16.md)
+If translation fails, the app tells you why: no connection (check your network or [proxy](sign-in-and-network.md#proxy)), today's translation limit is used up ([Luckgram Pro](pro.md#pro) has a higher limit), or the text is too long.
 
-## Translate before sending
+## Translate before sending {#translate-out}
 
-> **In development.** Luckgram does not include this yet. It is on the roadmap; this section describes the planned behavior.
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#translate-out) <!-- status:translate-out -->
 
-Use the input translator offered by supported builds, choose the destination
-language, and review the generated text before sending. Names, slang, legal text,
-and technical terms can be mistranslated.
+Write your message in the language you think in, then:
 
-## Convert speech to text
+- tap **+ → Translate** in the input bar; or
+- press and hold the send button and choose **Translate** (into the current language) or **Translate to…** (pick a language first).
 
-> **Telegram Premium.** Speech-to-text is available today through Telegram Premium. A Luckgram version without Premium is in development.
+The translation replaces the text in the input bar, with "Translated to <language> · Undo" above it, so you can check it before sending. Each chat remembers its own target language. Translate before sending isn't available in Secret Chats.
 
-Open the action menu for a supported voice message or audio item and choose the
-transcription option. Some builds offer a model choice or transcript cleanup.
-Length, language, plan, network, and provider limits can affect the result.
+Names, slang, legal text and technical terms can be mistranslated, so read important messages again before you send them.
 
-Do not submit sensitive content to translation, transcription, or AI tools until
-you have reviewed the [Privacy and data](../help/privacy-and-data.md) guidance.
+## Voice to text {#voice-text}
 
-**Availability:** iOS and Android; individual languages, limits, and entitlements
-vary. Desktop contains separate source-visible translation components but mobile
-parity is not confirmed.
+> **Available** · [See it on the features page](https://luckgram.cc/en/features/#voice-text) <!-- status:voice-text -->
 
-## If it fails
+- **Transcribe:** tap the transcribe button next to a voice message or round video. The text appears in the bubble and can be collapsed. Any length works; if it fails, the bubble shows "Transcription failed · Retry".
+- **Voice input:** tap **+ → Voice input** in the input bar and speak; the words appear in the text field as you talk. Turn on **AI cleanup** (off by default) to remove filler words and fix punctuation, in the same language.
 
-Report the platform, Luckgram version, language pair, exact action, and error text
-to [support](../help/support-and-source.md). Do not send private conversation contents. A
-single error does not identify a global outage, and purchasing another plan is
-not a verified fix. A reported fix in an older version does not establish the
-status of a new regression.
+Accounts with Telegram Premium keep using Telegram's own transcription.
 
-**Sources:** [Product review](../../docs/evidence/product-review-2026-10-10.md) ·
-[Privacy Policy](https://luckgram.cc/en/privacy-policy)
+## Translate a whole chat {#translate-a-whole-chat}
+
+> **Telegram Premium.** This is Telegram's own feature; Luckgram doesn't change it.
+
+Telegram can translate a whole chat at once. Turn on **Translate Entire Chats** in **Settings → Language**; chats in another language then show a bar at the top with **Translate to…** and **Show Original**. Telegram lists it as a Telegram Premium benefit and prompts you to subscribe if you don't have it. Translating single messages is unaffected and stays free.
+
+**Source:** [Evidence notes](../../docs/evidence/help-w7-2026-10-16.md)
+
+## Privacy {#privacy}
+
+Translation fallback, voice to text and AI cleanup send only the item you chose. Read [Privacy and data](../help/privacy-and-data.md) before using these tools on sensitive content.
+
+**Platforms:** iOS and Android.

@@ -1,5 +1,5 @@
 ---
-description: 在 Luckgram 中添加、切换、备份和隐藏 Telegram 账号，用验证码和两步验证密码登录，找回忘记的密码，导出聊天记录，以及了解已删除的消息能否恢复。
+description: 在 Luckgram 中添加、切换、云备份和隐藏 Telegram 账号，用验证码和两步验证密码登录，找回忘记的密码，导出聊天记录，以及了解已删除的消息能否恢复。
 ---
 
 # Luckgram 的账号是怎么用的？
@@ -8,14 +8,14 @@ Luckgram 登录的是 Telegram 账号，并让你在一个客户端里放下比�
 
 ## 添加账号 {#add-an-account}
 
-> **适用 Telegram 的上限。** Luckgram 目前允许的账号数与 Telegram 官方一致（3 个，开通 Telegram Premium 后为 4 个）。支持更多账号的功能正在开发中。
+> Luckgram 免费最多可以登录 **20 个** Telegram 账号，开通 [Luckgram Pro](../features/pro.md#pro) 后最多 **50 个**（Telegram 官方是 3 个）。
 
 1. 打开 **设置**。
 2. 打开账号切换器，或选择 **添加账号**。
 3. 输入该 Telegram 账号绑定的手机号。
 4. 按 Telegram 的流程输入登录验证码；如果开启了两步验证，再输入密码。
 
-具体能登录多少个账号因平台而异，也可能受内存、存储空间、通知数量或 Telegram 本身的限制。Luckgram 的公开源码中，iOS 的上限高得多，Android 有 10 个或 100 个账号的选项，所以“无限账号”应理解为扩展的多账号使用，而不是保证每台设备都能运行任意数量的账号。
+达到上限时，应用会提示，并可以从提示里查看 Luckgram Pro。Pro 到期后，已经登录的账号不会被退出，只是不能再新增超过免费上限的账号。验证码发到了你另一台设备上的 Telegram 里？见[收码说明](../features/sign-in-and-network.md#login-code)；连不上 Telegram 时，可以先在登录页右上角配置[代理](../features/sign-in-and-network.md#proxy)。
 
 ## 切换账号 {#switch-accounts}
 
@@ -25,7 +25,7 @@ Luckgram 登录的是 Telegram 账号，并让你在一个客户端里放下比�
 
 Telegram 允许同一个账号同时登录任意多台设备。在新设备上登录时，验证码可能会发到你已登录设备上的 “Telegram” 官方对话里。如果设置了两步验证，还需要输入密码。
 
-在 **设置 → 设备**（或 **活跃会话**）里查看已登录的设备，结束你不认识的会话。如果是通过账号商店购买的账号，拿不准时请先[联系客服](../help/support-and-source.md)。
+在 **设置 → 设备**（或 **活跃会话**）里查看已登录的设备，结束你不认识的会话。
 
 ## 手机或 SIM 卡丢了 {#i-lost-my-phone-or-sim-card}
 
@@ -43,13 +43,10 @@ Telegram 账号和手机号绑定。要重新登录，你需要这个手机号�
 
 - 如果你还有其他已登录的设备，验证码会发到那些设备上的 Telegram 里。没有的话，点 **没有收到验证码？**，如果有短信选项就选短信。
 - 如果设置过两步验证密码，也需要输入。忘了？用你绑定的找回邮箱可以重置（见[Telegram 常见问题](https://telegram.org/faq#q-how-does-2-step-verification-work)）。
-- 通过账号商店购买或以会话方式导入的账号，用的可能是不在你手里的 SIM 卡。在做其他尝试之前，请先[联系客服](../help/support-and-source.md)。
 
 不要拖太久。账号离线超过 **设置 → 隐私与安全** 里设定的时长（“离开多久后删除”），Telegram 会删除该账号。如果想彻底换到新号码，请趁还能登录时修改：**设置 →** 你的号码 **→ 更换号码**。
 
 ## 忘记了两步验证密码 {#i-forgot-my-two-step-verification-password}
-
-这个账号是通过账号商店购买的，或者是以会话方式导入的？请在尝试下面的操作之前先[联系客服](../help/support-and-source.md)。
 
 在密码页面点 **忘记密码？**：
 
@@ -67,25 +64,11 @@ Telegram 和 Luckgram 客服都无法告诉你这个密码。永远不要把密�
 
 多次删除又重新注册账号后，需要等几天才能再次注册。遇到其他注册问题，Telegram 建议使用它的[支持表单](https://telegram.org/support)。
 
-## 备份、导入或导出账号 {#back-up-import-or-export-accounts}
+## 备份和恢复账号 {#back-up-import-or-export-accounts}
 
-> **开发中。** Luckgram 目前还没有这个功能。它已列入路线图，本节描述的是计划中的行为。
+Luckgram Pro 会员可以用[云备份](../features/pro.md#cloud-backup)把账号加密备份到云端，换手机（iPhone 和 Android 之间也可以）时直接恢复，不用逐个重新登录。Luckgram 不提供备份文件的导出和导入。
 
-受支持的移动端版本会提供 Luckgram 的账号迁移工具。在 iOS 15 及以上版本中，它们位于**Luckgram 设置 → 账号**：**iCloud 备份**、**从 iCloud 导入**、**从文件导入** 和 **导出为文件**。Android 版本在 Luckgram 设置中提供同样的工具。这些工具迁移的是账号的会话登录权限，并不会为所有云端聊天创建 Telegram 备份。
-
-- 像保护正在登录的会话一样保护导出的账号文件。
-- 不要上传到公开网盘，也不要通过不可信的聊天发送。
-- iOS 和 Android 版本之间的可用性和兼容性可能不同。
-
-如果想让某个账号不出现在平常的界面里，请使用[双重空间或隐藏聊天](../features/privacy.md)，而不是把导出的会话分享到另一台设备。
-
-## Telegram 会话与账号商店 {#telegram-sessions-and-account-shop}
-
-> **评估中。** 这不是 Luckgram 的功能，也没有排期。
-
-在提供该功能的地方，打开 **Telegram 会话 → 购买账号**，从当前可选的国家/地区或 **任意国家** 中选择，然后确认购买。选择国家并不保证有货。套餐权益必须以你的具体订阅显示的为准；不要以为每次购买 Premium 都附带账号。
-
-如果购买的会话显示 403、要求输入密码或提示账号将被删除，请保留仍然可用的登录，并联系[客服](../help/support-and-source.md)。不要把删除会话或退出登录当作通用修复办法，也永远不要分享登录验证码、密码或会话文件。恢复需要针对具体账号进行检查。
+云备份迁移的是账号的登录凭据，不是聊天记录：云端聊天本来就保存在 Telegram 的服务器上，登录后会自动加载。如果只是想让某个账号不出现在平常的界面里，请使用[双重空间或隐藏聊天](../features/privacy.md)。
 
 ## 怎样备份所有聊天和媒体？ {#how-do-i-back-up-all-my-chats-and-media}
 
@@ -100,19 +83,8 @@ Telegram 把云端消息保存在它的服务器上，所以无论你用哪台�
 
 导出结果是电脑上的一个文件夹。即使对方之后双向删除了消息，之前保存的副本里仍然有。请像对待聊天本身一样保管好它。
 
-部分 Luckgram 版本提供的另一种方式，请看[下面这一节](#export-messages-instead-of-sessions)。
 
 **来源：** [依据记录](../docs/evidence/help-telegram-basics-2026-10-13.md)
-
-## 导出消息而不是会话 {#export-messages-instead-of-sessions}
-
-聊天导出和账号会话导出用途不同。受支持的聊天导出操作可以把指定时间段内可访问的消息生成一份 Markdown 文档。这份文档不是完整的媒体存档，也无法恢复已删除的消息。请只使用你安装的版本中实际显示的选项。
-
-**来源：** 账号商店公告 ·
-国家/地区选择 ·
-[产品审核](../docs/evidence/product-review-2026-10-10.md) ·
-[iOS 源码](https://github.com/limeng9088/luckgram-ios) ·
-[Android 源码](https://github.com/limeng9088/luckgram-android)
 
 ## 已删除的消息、聊天或文件还能找回吗？ {#can-i-get-back-deleted-messages-chats-or-files}
 
