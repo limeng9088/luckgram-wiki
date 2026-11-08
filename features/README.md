@@ -88,7 +88,7 @@ description: Luckgram 在 Telegram 之上增加的全部功能，按分组列出
 
 | 功能 | 作用 | 状态 |
 |---|---|---|
-| [代理配置](sign-in-and-network.md#proxy) | 登录前就能配置代理 | 已上线 |
+| [代理配置](sign-in-and-network.md#proxy) | 扫码、粘贴链接或导入订阅就能加代理，登录前就能用 | 已上线 |
 | [收码说明](sign-in-and-network.md#login-code) | 看清验证码发到了哪里 | 已上线 |
 
 <!-- features:catalog:end -->

@@ -19,6 +19,15 @@ On many networks Telegram can't connect the first time you open the app, so the 
 
 You can also open a `t.me/proxy` or `tg://proxy` link someone shares to add a proxy, before or after signing in. You choose and supply the proxy; Luckgram doesn't provide proxies. Use only proxies you trust.
 
+### Add proxies from a QR code, link or subscription
+
+In proxy settings, below **Add proxy**, there are two faster ways:
+
+- **Scan a QR code / enter a link:** scan a proxy QR code, or paste a link such as `tg://socks`, `tg://proxy`, `t.me/socks`, `t.me/proxy` or `socks5://user:password@host:port`, and the proxy goes straight into your list. Proxies you already have aren't added twice.
+- **Import a subscription:** paste a Clash or mihomo subscription URL. Luckgram downloads it and imports its SOCKS5 proxies into a new **Subscriptions** group in the list. Tap a subscription to refresh it (new proxies are added, ones no longer in it are removed) or delete it (the proxies it added go too). VLESS, VMess, Shadowsocks and other proxy types don't work in Luckgram; they are skipped and the app tells you how many. The subscription URL stays on your device.
+
+Each SOCKS5 proxy shows its exit country and IP, and the Direct row at the top shows your own exit without a proxy.
+
 ## Sign-in code help {#login-code}
 
 > **Available** · [See it on the features page](https://luckgram.cc/en/features/#login-code) <!-- status:login-code -->

@@ -88,7 +88,7 @@ You can turn most features on or off in **Settings → Luckgram Features**. If y
 
 | Feature | What it does | Status |
 |---|---|---|
-| [Proxy settings](sign-in-and-network.md#proxy) | Set up a proxy before you even sign in | Available |
+| [Proxy settings](sign-in-and-network.md#proxy) | Add proxies from a QR code, a link or a subscription, even before you sign in | Available |
 | [Sign-in code help](sign-in-and-network.md#login-code) | Know where your sign-in code went | Available |
 
 <!-- features:catalog:end -->
