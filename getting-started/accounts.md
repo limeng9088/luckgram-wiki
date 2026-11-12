@@ -8,7 +8,7 @@ Luckgram 登录的是 Telegram 账号，并让你在一个客户端里放下比�
 
 ## 添加账号 {#add-an-account}
 
-> Luckgram 免费可以登录 **5 个** Telegram 账号，开通 [Luckgram Pro](../features/pro.md#pro) 后**不限数量**（Telegram 官方是 3 个）。
+> Luckgram 免费可以登录 **10 个** Telegram 账号，开通 [Luckgram Pro](../features/pro.md#pro) 后**不限数量**（Telegram 官方是 3 个）。
 
 1. 打开 **设置**。
 2. 打开账号切换器，或选择 **添加账号**。

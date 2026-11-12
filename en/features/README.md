@@ -19,7 +19,7 @@ You can turn most features on or off in **Settings → Luckgram Features**. If y
 
 | Feature | What it does | Status |
 |---|---|---|
-| [More accounts](privacy.md#accounts) | 5 accounts free, unlimited with Pro | Available |
+| [More accounts](privacy.md#accounts) | 10 accounts free, unlimited with Pro | Available |
 | [Double Bottom](privacy.md#double-bottom) | Double Bottom: a second passcode with its own view | Available |
 | [Hidden chats](privacy.md#hidden-chats) | Hide chats without deleting them | Available |
 | [Restricted channels](privacy.md#unblock) | Open channels the store apps hide, for free | Available |

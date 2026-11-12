@@ -10,7 +10,7 @@ account’s chats and settings separate.
 
 ## Add an account
 
-> Luckgram lets you sign in to **5** Telegram accounts for free, and **as many as you like** with [Luckgram Pro](../features/pro.md#pro) (Telegram itself allows 3).
+> Luckgram lets you sign in to **10** Telegram accounts for free, and **as many as you like** with [Luckgram Pro](../features/pro.md#pro) (Telegram itself allows 3).
 
 1. Open **Settings**.
 2. Open the account switcher or choose **Add Account**.

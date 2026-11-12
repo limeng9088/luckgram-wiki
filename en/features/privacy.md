@@ -14,13 +14,13 @@ You turn each of these on or off in **Settings → Luckgram Features**. They cha
 
 > **Available** · [See it on the features page](https://luckgram.cc/en/features/#accounts) <!-- status:accounts -->
 
-Telegram allows 3 accounts on one device. Luckgram lets you sign in to **5** for free, and **as many as you like** with [Luckgram Pro](pro.md#pro).
+Telegram allows 3 accounts on one device. Luckgram lets you sign in to **10** for free, and **as many as you like** with [Luckgram Pro](pro.md#pro).
 
 1. Open the account switcher from the chat list or Settings.
 2. Tap **Add Account** and sign in with a phone number.
 3. Switch between accounts in the account switcher with one tap.
 
-Each account keeps its own notifications. When you reach the free limit, the app tells you and offers a way to look at Luckgram Pro. If Pro ends, accounts you already signed in to stay signed in; you just can't add more until you are back under 5. For step-by-step help, see [Add and manage accounts](../getting-started/accounts.md).
+Each account keeps its own notifications. When you reach the free limit, the app tells you and offers a way to look at Luckgram Pro. If Pro ends, accounts you already signed in to stay signed in; you just can't add more until you are back under 10. For step-by-step help, see [Add and manage accounts](../getting-started/accounts.md).
 
 ## Double Bottom {#double-bottom}
 

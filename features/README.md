@@ -19,7 +19,7 @@ description: Luckgram 在 Telegram 之上增加的全部功能，按分组列出
 
 | 功能 | 作用 | 状态 |
 |---|---|---|
-| [更多账号](privacy.md#accounts) | 免费 5 个账号，Pro 不限数量 | 已上线 |
+| [更多账号](privacy.md#accounts) | 免费 10 个账号，Pro 不限数量 | 已上线 |
 | [双重空间](privacy.md#double-bottom) | 双重空间：第二个密码，打开另一套视图 | 已上线 |
 | [隐藏聊天](privacy.md#hidden-chats) | 隐藏聊天，不用删除 | 已上线 |
 | [受限频道](privacy.md#unblock) | 免费打开商店版隐藏的频道 | 已上线 |

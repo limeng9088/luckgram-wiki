@@ -14,13 +14,13 @@ Luckgram 的账号与隐私功能都在 **设置 → Luckgram 功能** 里开关
 
 > **已上线** · [在功能介绍中查看](https://luckgram.cc/features/#accounts) <!-- status:accounts -->
 
-Telegram 官方一台设备最多登录 3 个账号。Luckgram 免费可以登录 **5 个**，开通 [Luckgram Pro](pro.md#pro) 后**不限数量**。
+Telegram 官方一台设备最多登录 3 个账号。Luckgram 免费可以登录 **10 个**，开通 [Luckgram Pro](pro.md#pro) 后**不限数量**。
 
 1. 在聊天列表或设置里打开账号切换器。
 2. 点 **添加账号**，用手机号登录。
 3. 之后在账号切换器里一点就能切换。
 
-每个账号的通知互不干扰。达到免费上限时，应用会提示，并可以从提示里查看 Luckgram Pro。Pro 到期后已经登录的账号不会被退出，只是在账号数回到 5 个以下之前不能再新增。添加和管理账号的详细步骤见[添加和管理账号](../getting-started/accounts.md)。
+每个账号的通知互不干扰。达到免费上限时，应用会提示，并可以从提示里查看 Luckgram Pro。Pro 到期后已经登录的账号不会被退出，只是在账号数回到 10 个以下之前不能再新增。添加和管理账号的详细步骤见[添加和管理账号](../getting-started/accounts.md)。
 
 ## 双重空间 {#double-bottom}
 
