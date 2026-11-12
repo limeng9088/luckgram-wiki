@@ -24,7 +24,7 @@ and messaging service; Luckgram provides the client and its additional features.
 ## What Luckgram offers {#what-luckgram-offers}
 
 - **Everything in Telegram:** your Telegram chats, channels, groups, calls, Stories and Secret Chats, working as in the official apps.
-- **Accounts and privacy:** up to 20 accounts for free (50 with Luckgram Pro), Double Bottom, hidden chats, store-restricted channels.
+- **Accounts and privacy:** 5 accounts for free (unlimited with Luckgram Pro), Double Bottom, hidden chats, store-restricted channels.
 - **Messages and language:** free translation of received messages and before sending, voice to text, the input-bar + panel, quick replies, select all from one person, save in one tap.
 - **Media, calls and storage:** gallery videos as round videos, call recording with a transcript and AI summary, finer storage settings.
 - **Profiles and organizing:** Telegram ID and sign-up date, keyword folders, private notes, activity in shared groups.

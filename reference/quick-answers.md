@@ -30,7 +30,7 @@ translated_from: en/reference/quick-answers.md
 
 ## Luckgram 和官方 Telegram 应用有什么区别？ {#how-is-luckgram-different-from-the-official-telegram-app}
 
-Luckgram 是一款非官方的 Telegram 客户端，支持 iPhone、iPad 和 Android。它基于 Telegram 的开源应用构建，连接 Telegram 官方服务器，所以使用的是你现有的 Telegram 账号、聊天和联系人。与官方 Telegram 应用不同，它增加了自己的功能，比如最多 20 个账号、免费翻译、隐藏聊天和 AI 工具，完整清单见[功能目录](../features/README.md)。
+Luckgram 是一款非官方的 Telegram 客户端，支持 iPhone、iPad 和 Android。它基于 Telegram 的开源应用构建，连接 Telegram 官方服务器，所以使用的是你现有的 Telegram 账号、聊天和联系人。与官方 Telegram 应用不同，它增加了自己的功能，比如多账号（免费 5 个，Pro 不限）、免费翻译、隐藏聊天和 AI 工具，完整清单见[功能目录](../features/README.md)。
 
 ## Luckgram 安全吗？ {#is-luckgram-safe-to-use}
 
@@ -110,7 +110,7 @@ Luckgram 在同步联系人之前会征求你的许可；你可以在“设置 >
 
 ## Luckgram 免费吗？ {#is-luckgram-free}
 
-免费。没有标注“Pro 专享”的功能都免费使用。[Luckgram Pro](../features/pro.md#pro) 是可选的会员，提供更多 AI、最多 50 个账号、云备份、Pro 社群和去除赞助消息。Telegram Premium 和 Telegram Stars 是 Telegram 自己的服务，和 Luckgram Pro 无关。
+免费。没有标注“Pro 专享”的功能都免费使用。[Luckgram Pro](../features/pro.md#pro) 是可选的会员，提供更多 AI、不限数量的账号、云备份、Pro 社群和去除赞助消息。Telegram Premium 和 Telegram Stars 是 Telegram 自己的服务，和 Luckgram Pro 无关。
 
 ## Luckgram Pro 怎么付款？会自动续费吗？ {#how-do-i-pay-for-luckgram-pro}
 

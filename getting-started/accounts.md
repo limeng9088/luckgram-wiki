@@ -8,14 +8,14 @@ Luckgram 登录的是 Telegram 账号，并让你在一个客户端里放下比�
 
 ## 添加账号 {#add-an-account}
 
-> Luckgram 免费最多可以登录 **20 个** Telegram 账号，开通 [Luckgram Pro](../features/pro.md#pro) 后最多 **50 个**（Telegram 官方是 3 个）。
+> Luckgram 免费可以登录 **5 个** Telegram 账号，开通 [Luckgram Pro](../features/pro.md#pro) 后**不限数量**（Telegram 官方是 3 个）。
 
 1. 打开 **设置**。
 2. 打开账号切换器，或选择 **添加账号**。
 3. 输入该 Telegram 账号绑定的手机号。
 4. 按 Telegram 的流程输入登录验证码；如果开启了两步验证，再输入密码。
 
-达到上限时，应用会提示，并可以从提示里查看 Luckgram Pro。Pro 到期后，已经登录的账号不会被退出，只是不能再新增超过免费上限的账号。验证码发到了你另一台设备上的 Telegram 里？见[收码说明](../features/sign-in-and-network.md#login-code)；连不上 Telegram 时，可以先在登录页右上角配置[代理](../features/sign-in-and-network.md#proxy)。
+达到免费上限时，应用会提示，并可以从提示里查看 Luckgram Pro。Pro 到期后，已经登录的账号不会被退出，只是不能再新增超过免费上限的账号。验证码发到了你另一台设备上的 Telegram 里？见[收码说明](../features/sign-in-and-network.md#login-code)；连不上 Telegram 时，可以先在登录页右上角配置[代理](../features/sign-in-and-network.md#proxy)。
 
 ## 切换账号 {#switch-accounts}
 

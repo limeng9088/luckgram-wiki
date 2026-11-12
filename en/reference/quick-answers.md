@@ -30,7 +30,7 @@ each topic step by step.
 
 ## How is Luckgram different from the official Telegram app?
 
-Luckgram is an unofficial Telegram client for iPhone, iPad and Android. It is built from Telegram's open-source apps and connects to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram apps, it adds features of its own, such as up to 20 accounts, free translation, hidden chats and AI tools; see the [feature catalog](../features/README.md) for the full list.
+Luckgram is an unofficial Telegram client for iPhone, iPad and Android. It is built from Telegram's open-source apps and connects to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram apps, it adds features of its own, such as multiple accounts (5 free, unlimited with Pro), free translation, hidden chats and AI tools; see the [feature catalog](../features/README.md) for the full list.
 
 ## Is Luckgram safe to use?
 
@@ -110,7 +110,7 @@ To report spam in Luckgram, the same as in Telegram: in the chat, tap Report Spa
 
 ## Is Luckgram free?
 
-Yes. Every feature not marked Pro is free. [Luckgram Pro](../features/pro.md#pro) is an optional membership with more AI, up to 50 accounts, cloud backup, the Pro community and no sponsored messages. Telegram Premium and Telegram Stars are Telegram's own services and are separate from Luckgram Pro.
+Yes. Every feature not marked Pro is free. [Luckgram Pro](../features/pro.md#pro) is an optional membership with more AI, unlimited accounts, cloud backup, the Pro community and no sponsored messages. Telegram Premium and Telegram Stars are Telegram's own services and are separate from Luckgram Pro.
 
 ## How do I pay for Luckgram Pro? Does it renew automatically?
 
