@@ -30,7 +30,7 @@ translated_from: en/reference/quick-answers.md
 
 ## Luckgram 和官方 Telegram 应用有什么区别？ {#how-is-luckgram-different-from-the-official-telegram-app}
 
-Luckgram 是一款非官方的 Telegram 客户端，支持 iPhone、iPad 和 Android。它基于 Telegram 的开源应用构建，连接 Telegram 官方服务器，所以使用的是你现有的 Telegram 账号、聊天和联系人。与官方 Telegram 应用不同，它增加了自己的功能，比如多账号（免费 5 个，Pro 不限）、免费翻译、隐藏聊天和 AI 工具，完整清单见[功能目录](../features/README.md)。
+Luckgram 是一款非官方的 Telegram 客户端，支持 iPhone、iPad 和 Android。它基于 Telegram 的开源应用构建，连接 Telegram 官方服务器，所以使用的是你现有的 Telegram 账号、聊天和联系人。与官方 Telegram 应用不同，它增加了自己的功能，比如多账号（免费 10 个，Pro 不限）、免费翻译、隐藏聊天和 AI 工具，完整清单见[功能目录](../features/README.md)。
 
 ## Luckgram 安全吗？ {#is-luckgram-safe-to-use}
 

@@ -30,7 +30,7 @@ each topic step by step.
 
 ## How is Luckgram different from the official Telegram app?
 
-Luckgram is an unofficial Telegram client for iPhone, iPad and Android. It is built from Telegram's open-source apps and connects to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram apps, it adds features of its own, such as multiple accounts (5 free, unlimited with Pro), free translation, hidden chats and AI tools; see the [feature catalog](../features/README.md) for the full list.
+Luckgram is an unofficial Telegram client for iPhone, iPad and Android. It is built from Telegram's open-source apps and connects to Telegram's official servers, so it uses your existing Telegram account, chats and contacts. Unlike the official Telegram apps, it adds features of its own, such as multiple accounts (10 free, unlimited with Pro), free translation, hidden chats and AI tools; see the [feature catalog](../features/README.md) for the full list.
 
 ## Is Luckgram safe to use?
 
