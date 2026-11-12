@@ -86,12 +86,12 @@
         "en": "More accounts"
       },
       "title": {
-        "zh": "最多 20 个账号，Pro 可登录 50 个",
-        "en": "Up to 20 accounts, 50 with Pro"
+        "zh": "免费 5 个账号，Pro 不限数量",
+        "en": "5 accounts free, unlimited with Pro"
       },
       "description": {
-        "zh": "Telegram 官方一台设备最多登录 3 个账号。Luckgram 免费最多可以登录 20 个，开通 Luckgram Pro 后最多 50 个。个人、工作、客户和频道管理账号可以并排放着，各自的通知互不干扰，一点就能切换。",
-        "en": "Telegram allows 3 accounts on one device. Luckgram lets you sign in to up to 20 for free, and up to 50 with Luckgram Pro, so personal, work, client and channel-admin accounts sit side by side, each with its own notifications, and you switch between them in a tap."
+        "zh": "Telegram 官方一台设备最多登录 3 个账号。Luckgram 免费可以登录 5 个，开通 Luckgram Pro 后不限数量。个人、工作、客户和频道管理账号可以并排放着，各自的通知互不干扰，一点就能切换。",
+        "en": "Telegram allows 3 accounts on one device. Luckgram lets you sign in to 5 for free, and as many as you like with Luckgram Pro, so personal, work, client and channel-admin accounts sit side by side, each with its own notifications, and you switch between them in a tap."
       },
       "wiki": "/features/privacy.html#accounts",
       "video": true
@@ -189,7 +189,10 @@
         "en": "Write in the language you think in, then tap Translate in the + panel, or hold the send button and choose Translate or Translate to…. The text is replaced in the input bar, so you see it before anything is sent, and the language is remembered for each chat."
       },
       "wiki": "/features/translation-and-voice.html#translate-out",
-      "video": true
+      "video": true,
+      "demo": {
+        "android": "/media/demos/translate-out-android.mp4"
+      }
     },
     {
       "id": "voice-text",
@@ -550,7 +553,10 @@
         "en": "Coming back to hundreds of unread messages? Get the decisions, dates and open questions in a few lines before you scroll. Ask your own question, such as what the client agreed to, and tap any point to jump to the messages behind it."
       },
       "wiki": "/features/ai.html#ai-summary",
-      "video": true
+      "video": true,
+      "demo": {
+        "android": "/media/demos/ai-summary-android.mp4"
+      }
     },
     {
       "id": "ai-reply",
@@ -584,8 +590,8 @@
         "en": "Polish any message before you send it"
       },
       "description": {
-        "zh": "在任何聊天里打完字，点输入框的「+」再点“AI 写作”，选你想要的效果：表达更好、更正式、更亲切、更简短，或者只改语法。文字会在输入框里直接改好，语言保持不变。",
-        "en": "Type in any chat, open + in the input bar, tap AI writing and choose what you want: better wording, more formal, friendlier, shorter or just fixed grammar. The text is rewritten in place, in your language."
+        "zh": "在任何聊天里打完字，长按发送键选“AI 写作”，选你想要的效果：表达更好、更正式、更亲切、更简短，或者只改语法。文字会在输入框里直接改好，语言保持不变。",
+        "en": "Type in any chat, long-press the send button, pick AI writing and choose what you want: better wording, more formal, friendlier, shorter or just fixed grammar. The text is rewritten in place, in your language."
       },
       "wiki": "/features/ai.html#ai-writing",
       "video": true
@@ -626,7 +632,10 @@
         "en": "Open Agents in the AI assistant and switch to Market: browse by category, search, read what each agent does and start a chat in a tap. New agents are added on our side, no update needed. Agents marked Pro need Luckgram Pro."
       },
       "wiki": "/features/ai.html#agent-market",
-      "video": false
+      "video": false,
+      "demo": {
+        "android": "/media/demos/agent-market-android.mp4"
+      }
     },
     {
       "id": "ai-image",
@@ -679,8 +688,8 @@
         "en": "Luckgram Pro: more AI, more accounts, no sponsored messages"
       },
       "description": {
-        "zh": "Luckgram Pro 是 Luckgram 自己的会员，和 Telegram Premium 无关。开通后 AI 对话和翻译的每日次数更多，每月另送 AI 点数，可以用高级模型；聊天总结范围更大，还能追问；可以用 Pro 专享智能体、登录最多 50 个账号、使用云备份；频道里不再显示 Telegram 赞助消息。订阅页会列出当前的全部权益和剩余点数。",
-        "en": "Luckgram Pro is Luckgram's own membership, separate from Telegram Premium. It raises your daily AI and translation limits, adds monthly AI credits for the premium model, longer chat summaries with follow-up questions, Pro-only agents, up to 50 accounts and cloud backup, and hides Telegram's sponsored messages in channels. The subscription page shows the current perks and your remaining credits."
+        "zh": "Luckgram Pro 是 Luckgram 自己的会员，和 Telegram Premium 无关。开通后 AI 对话和翻译的每日次数更多，每月另送 AI 点数，可以用高级模型；聊天总结范围更大，还能追问；可以用 Pro 专享智能体、登录账号不限数量、使用云备份；频道里不再显示 Telegram 赞助消息。订阅页会列出当前的全部权益和剩余点数。",
+        "en": "Luckgram Pro is Luckgram's own membership, separate from Telegram Premium. It raises your daily AI and translation limits, adds monthly AI credits for the premium model, longer chat summaries with follow-up questions, Pro-only agents, unlimited accounts and cloud backup, and hides Telegram's sponsored messages in channels. The subscription page shows the current perks and your remaining credits."
       },
       "wiki": "/features/pro.html#pro",
       "video": false

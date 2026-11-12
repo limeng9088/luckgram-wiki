@@ -17,7 +17,7 @@ Luckgram Pro is Luckgram's own membership and has nothing to do with Telegram Pr
 Open the subscription page from **Settings → Luckgram Features → Luckgram Pro** to see the current benefits, when your membership ends and how many AI credits you have left. The benefits are:
 
 - **AI agent market:** use the [agents](ai.md#agent-market) marked Pro.
-- **More accounts and cloud backup:** sign in to up to 50 accounts (20 for free) and use [cloud backup](#cloud-backup) below.
+- **More accounts and cloud backup:** sign in to as many accounts as you like (5 for free) and use [cloud backup](#cloud-backup) below.
 - **More AI:** more AI chats per day, plus monthly AI credits for the **premium model** (1 credit per message). Choose Premium model in the model picker of the AI assistant or an agent; when the credits run out you're told, and the standard model is used again.
 - **AI chat analysis:** [chat summaries](ai.md#ai-summary) cover more messages and accept follow-up questions.
 - **Built-in translation:** more translations per day.

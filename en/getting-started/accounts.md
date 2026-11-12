@@ -10,14 +10,14 @@ account’s chats and settings separate.
 
 ## Add an account
 
-> Luckgram lets you sign in to up to **20** Telegram accounts for free, and up to **50** with [Luckgram Pro](../features/pro.md#pro) (Telegram itself allows 3).
+> Luckgram lets you sign in to **5** Telegram accounts for free, and **as many as you like** with [Luckgram Pro](../features/pro.md#pro) (Telegram itself allows 3).
 
 1. Open **Settings**.
 2. Open the account switcher or choose **Add Account**.
 3. Enter the phone number attached to the Telegram account.
 4. Complete Telegram’s login-code and two-step-verification flow, if enabled.
 
-At the limit, the app tells you and offers a way to look at Luckgram Pro. If Pro
+At the free limit, the app tells you and offers a way to look at Luckgram Pro. If Pro
 ends, accounts you already signed in to stay signed in, but you can't add more than
 the free limit. Code sent to the Telegram app on another device? See
 [Sign-in code help](../features/sign-in-and-network.md#login-code). Can't connect?
