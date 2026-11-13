@@ -9,7 +9,8 @@ Luckgram uses Telegram accounts. You do not create a separate Luckgram messaging
 account: install the client, sign in with the phone number connected to Telegram,
 and complete Telegram’s verification flow.
 
-1. [Install Luckgram from an official source](install.md).
+1. [Install Luckgram from an official source](install.md), or skip the install and use the
+   [web app](web.md) in a browser.
 2. Sign in and confirm that your chats have loaded.
 3. [Add more accounts](accounts.md) if you keep work and personal communication
    separate.

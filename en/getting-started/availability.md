@@ -13,6 +13,7 @@ Luckgram for iOS and Luckgram for Android have the same features: every item in 
 | Features marked Pro in the catalog | Yes | Yes | Need [Luckgram Pro](../features/pro.md#pro) |
 | Whole-chat translation and other Telegram Premium benefits | Premium | Premium | Need Telegram Premium (Telegram's own subscription) |
 | Desktop | — | — | Not available; use [Telegram Desktop](https://desktop.telegram.org) with the same account |
+| Web app | — | — | Use [web.luckgram.cc](https://web.luckgram.cc) in a browser; of Luckgram's features it has more accounts (up to 20) so far, see [Web app](web.md) |
 
 ## Why a feature may not show up
 

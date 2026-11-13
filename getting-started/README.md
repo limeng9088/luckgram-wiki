@@ -7,7 +7,7 @@ description: 安装 Luckgram，用 Telegram 账号登录，并了解你的平台
 
 Luckgram 使用的是 Telegram 账号。你不需要另外注册 Luckgram 账号：安装客户端，用绑定 Telegram 的手机号登录，再完成 Telegram 的验证流程即可。
 
-1. [从官方渠道安装 Luckgram](install.md)。
+1. [从官方渠道安装 Luckgram](install.md)，或者不安装，直接在浏览器里用[网页版](web.md)。
 2. 登录并确认聊天记录已经加载出来。
 3. 如果你想把工作和生活分开，可以[添加更多账号](accounts.md)。
 4. 某些功能可能受版本、套餐或分批上线的限制，找功能之前先看看[平台与功能可用性](availability.md)。

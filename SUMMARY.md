@@ -3,6 +3,7 @@
 * [Luckgram 帮助中心](README.md)
 * [新手入门](getting-started/README.md)
   * [安装 Luckgram](getting-started/install.md)
+  * [网页版](getting-started/web.md)
   * [添加和管理账号](getting-started/accounts.md)
   * [平台与可用性](getting-started/availability.md)
 * [功能指南](features/README.md)
