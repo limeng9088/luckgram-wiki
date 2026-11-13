@@ -35,6 +35,8 @@ Set a second passcode. Unlocking Luckgram with it shows only the accounts you pi
 
 When you unlock with the second passcode, notifications from the hidden accounts don't appear, and nothing in Settings shows that a second space exists. Both passcodes are stored only as salted hashes. Turning Double Bottom off needs the main passcode.
 
+Double Bottom hides accounts from people looking at your screen; it is not encryption. The local data of all accounts is protected with the same key, so someone who knows your second passcode and can copy Luckgram's data files off the device may be able to recover the hidden accounts. Keep a screen lock on the device itself.
+
 ## Hidden chats {#hidden-chats}
 
 > **Available** · [See it on the features page](https://luckgram.cc/en/features/#hidden-chats) <!-- status:hidden-chats -->
