@@ -21,10 +21,6 @@ account: once you sign in, your chats, channels, groups and files are there.
 does not send an SMS. It sends the code to the Telegram app that is signed in, in the official chat
 named **Telegram**. An SMS is sent only when the number is not signed in anywhere.
 
-If `web.luckgram.cc` does not open, use the backup entrance
-[lgweb.cat158.com](https://lgweb.cat158.com). It has the same content. The two entrances keep
-separate sign-ins, so you sign in again when you switch.
-
 ## Install it as a desktop app {#install}
 
 The web app can be installed as an app with its own window and icon, without the browser's
