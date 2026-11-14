@@ -13,6 +13,7 @@ Luckgram 的 iOS 版和 Android 版功能一致：[功能目录](../features/REA
 | 功能目录里标注“Pro 专享”的功能 | 支持 | 支持 | 需要 [Luckgram Pro](../features/pro.md#pro) |
 | 翻译整个聊天、Telegram Premium 的其他权益 | Premium | Premium | 需要 Telegram Premium（Telegram 自己的订阅） |
 | 桌面版 | — | — | 暂不提供，可以用同一个账号登录 [Telegram Desktop](https://desktop.telegram.org) |
+| 网页版 | — | — | 在浏览器里用 [web.luckgram.cc](https://web.luckgram.cc)；目前只有“更多账号”（最多 20 个），见[网页版](web.md) |
 
 ## 为什么某个功能可能看不到
 

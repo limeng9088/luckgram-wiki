@@ -3,6 +3,7 @@
 * [Luckgram Help Center](README.md)
 * [Getting started](getting-started/README.md)
   * [Install Luckgram](getting-started/install.md)
+  * [Web app](getting-started/web.md)
   * [Add and manage accounts](getting-started/accounts.md)
   * [Platforms and availability](getting-started/availability.md)
 * [Feature guide](features/README.md)
