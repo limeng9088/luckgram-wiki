@@ -73,8 +73,10 @@ apps, nor to the web app opened on another computer, and they are cleared when y
 account. Private notes can be exported to a file first.
 
 **Where do the AI features send things?** AI writing, reply drafts, the AI assistant and chat
-summaries send the text you give them to Luckgram's AI service. You are asked to agree the first
-time.
+summaries send the text you give them to Luckgram's AI service. Translation uses Telegram's own
+translation first; only when that is not available, or gives no result within 8 seconds, is the
+text sent to Luckgram's AI service. You are asked to agree the first time Luckgram's AI service is
+used.
 
 Each feature has its own switch in **Settings → Luckgram Features**.
 
