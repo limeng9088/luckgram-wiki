@@ -39,13 +39,46 @@ sign you out; to sign out, use **Settings**.
 ## How it differs from the mobile apps {#differences}
 
 The web app is based on Telegram's web app, so Telegram's own chats, channels, groups, calls and
-file transfers work the same way. Of the features Luckgram adds, the web app has one so far:
+file transfers work the same way. Of the features Luckgram adds, the web app has the ones below.
+They are used a little differently: mostly, where the phone has a long press, the web app has a
+**right-click**.
+
+| Feature | How it is used in the web app, and what differs |
+|---|---|
+| [More accounts](../features/privacy.md#accounts) | Up to 20, no Luckgram Pro needed (the mobile apps: 10 free, unlimited with Luckgram Pro) |
+| [Translate messages](../features/translation-and-voice.md#translate-in) | Right-click a message and choose Translate, or click the translate icon beside a message in another language. The target language is set in Settings → Luckgram Features. |
+| [Translate before sending](../features/translation-and-voice.md#translate-out) | Click the translate button beside the message field, or right-click the send button and choose Translate or Translate to…; in a narrow window it is in the ✦ menu. |
+| [AI writing](../features/ai.md#ai-writing) | Click the ✦ button beside the message field and pick an effect. Up to 4,000 characters at a time; Undo brings your own text back. |
+| [Reply drafts](../features/ai.md#ai-reply) | Click the ✦ button beside the message field and choose Help me reply. The suggestions appear above the field; click one to put it in, then send. |
+| [AI assistant](../features/ai.md#ai-chat) | Open Luckgram AI at the top of the chat list, or the AI button beside the search field; right-click any message and choose Ask AI. Conversations are kept in this browser only. |
+| [Chat summary](../features/ai.md#ai-summary) | ⋮ → Summarize chat at the top of a chat, for the last 100, 300 or 500 messages; with 30 or more unread messages a Summarize chat bar appears at the top. |
+| [Private notes](../features/profiles-and-folders.md#user-notes) | Notes are kept in this browser only and do not sync with your phone; export and import them in Settings → Luckgram Features → All notes. |
+| [Profile details](../features/profiles-and-folders.md#profile-info) | The profile panel shows the ID (click to copy) and the approximate registration date; very new accounts show as “about a given month or later”. |
+| [Select all](../features/messaging.md#select-all) | Right-click a message and choose Select all messages from …; forwarding or deleting many messages is done in batches, with a progress line. |
+| [Save in one tap](../features/messaging.md#save-direct) | Right-click a message and choose Save. |
+| [Quick replies](../features/messaging.md#quick-replies) | Click the quick replies button beside the emoji button, or type “/” in the message field; Shift+click sends at once. The templates are kept in this browser only. |
+| [Keyword folders](../features/profiles-and-folders.md#keyword-folders) | Create one in Settings → Chat Folders. Keyword folders are kept in this browser only, do not sync with your phone or Telegram, and always come after Telegram’s own folders; chats are matched by their recent messages, and archived chats are left out. |
+
+Not there yet:
 
 | Feature | Web app | iOS and Android apps |
 |---|---|---|
-| [More accounts](../features/privacy.md#accounts) | Up to 20, no Luckgram Pro needed | 10 free, unlimited with Luckgram Pro |
+| [Voice to text, dictation](../features/translation-and-voice.md#voice-text) | Not open yet | Yes |
 | The other features in the [feature catalog](../features/README.md) | Not yet | Yes |
 | Secret chats (end-to-end encrypted) | No; Telegram's web app does not have them | Yes |
+
+**What is kept in this browser only?** Private notes, quick reply templates, keyword folders and
+the AI assistant's conversations are stored in the current browser: they do not sync to the mobile
+apps, nor to the web app opened on another computer, and they are cleared when you log out of the
+account. Private notes can be exported to a file first.
+
+**Where do the AI features send things?** AI writing, reply drafts, the AI assistant and chat
+summaries send the text you give them to Luckgram's AI service. Translation uses Telegram's own
+translation first; only when that is not available, or gives no result within 8 seconds, is the
+text sent to Luckgram's AI service. You are asked to agree the first time Luckgram's AI service is
+used.
+
+Each feature has its own switch in **Settings → Luckgram Features**.
 
 To add an account, open the menu at the top left and choose **Add Account**. With many accounts
 the list of accounts in the menu scrolls. With 20 signed in, the app tells you that 20 is the limit.
@@ -79,4 +112,4 @@ does not store them. It does not log IP addresses and keeps only counts of conne
   Wait a little, or set the connection to **Relay only** and try again.
 - **No code arrives:** see “Where does the code arrive?” above, or sign in with the QR code.
 
-**Last verified:** 13 November 2026.
+**Last verified:** 16 November 2026.

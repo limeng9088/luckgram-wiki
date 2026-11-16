@@ -31,13 +31,37 @@ Luckgram 网页版在浏览器里运行，不用下载安装。它用的是同�
 
 ## 和手机 App 有什么不同 {#differences}
 
-网页版以 Telegram 网页版为基础，Telegram 本身的聊天、频道、群组、通话和文件收发用法相同。Luckgram 增加的功能，目前网页版只有一项：
+网页版以 Telegram 网页版为基础，Telegram 本身的聊天、频道、群组、通话和文件收发用法相同。Luckgram 增加的功能里，下面这些网页版已经有了；用法和手机 App 略有不同，主要是手机上「长按」的地方，网页版是**右键**。
+
+| 功能 | 在网页版怎么用，有什么不同 |
+|---|---|
+| [更多账号](../features/privacy.md#accounts) | 最多 20 个，不需要 Luckgram Pro（手机 App 免费 10 个，Luckgram Pro 不限数量） |
+| [翻译消息](../features/translation-and-voice.md#translate-in) | 右键消息选「翻译」，或点外语消息旁的翻译图标；目标语言在「设置 → Luckgram 功能」里选。 |
+| [发送前翻译](../features/translation-and-voice.md#translate-out) | 点输入框旁的翻译按钮，或右键发送按钮选「翻译」「翻译成…」；窗口较窄时在 ✦ 菜单里。 |
+| [AI 写作](../features/ai.md#ai-writing) | 点输入框旁的 ✦ 按钮选效果，一次最多改写 4000 字；改写后可以点「撤销」恢复原文。 |
+| [AI 回复](../features/ai.md#ai-reply) | 点输入框旁的 ✦ 按钮选「帮我回复」，候选回复显示在输入框上方，点一条填入后再发送。 |
+| [AI 助手](../features/ai.md#ai-chat) | 聊天列表顶部的「Luckgram AI」，或搜索框旁的 AI 按钮；右键任意消息选「问 AI」。对话只保存在这台设备的浏览器里。 |
+| [聊天总结](../features/ai.md#ai-summary) | 聊天右上角「⋮ → 总结聊天」，可选最近 100、300 或 500 条；未读达到 30 条时聊天顶部会出现「总结聊天」。 |
+| [私人备注](../features/profiles-and-folders.md#user-notes) | 备注只保存在这台设备的浏览器里，不与手机同步；可以在「设置 → Luckgram 功能 → 全部备注」里导出和导入。 |
+| [资料详情](../features/profiles-and-folders.md#profile-info) | 资料面板里显示 ID（点击复制）和大致注册时间；很新的账号显示为「约某年某月之后」。 |
+| [全选](../features/messaging.md#select-all) | 右键一条消息选「全选 … 的消息」；转发或删除大量消息时分批进行，并显示进度。 |
+| [一键收藏](../features/messaging.md#save-direct) | 右键消息选「收藏」。 |
+| [快捷回复](../features/messaging.md#quick-replies) | 点表情按钮旁的快捷回复按钮，或在输入框里输入「/」；按住 Shift 点击直接发送。模板只保存在这台设备的浏览器里。 |
+| [关键词文件夹](../features/profiles-and-folders.md#keyword-folders) | 在「设置 → 聊天文件夹」里新建。关键词文件夹只保存在这台设备的浏览器里，不与手机和 Telegram 同步，固定排在 Telegram 的文件夹之后；按每个聊天最近的消息匹配，不包含已归档的聊天。 |
+
+还没有的：
 
 | 功能 | 网页版 | iOS、Android App |
 |---|---|---|
-| [更多账号](../features/privacy.md#accounts) | 最多 20 个，不需要 Luckgram Pro | 免费 10 个，Luckgram Pro 不限数量 |
+| [语音转文字、语音输入](../features/translation-and-voice.md#voice-text) | 尚未开放 | 提供 |
 | [功能目录](../features/README.md)里的其他功能 | 暂不提供 | 提供 |
 | 私密聊天（端到端加密） | 不支持，Telegram 网页版本身就没有 | 支持 |
+
+**哪些内容只存在这台设备的浏览器里？** 私人备注、快捷回复的模板、关键词文件夹和 AI 助手的对话，都只保存在当前浏览器里：不会同步到手机 App，也不会同步到你在别的电脑上打开的网页版；退出账号时会一并清除。私人备注可以先导出成文件再退出。
+
+**AI 功能会把内容发到哪里？** AI 写作、AI 回复、AI 助手和聊天总结，会把你交给它处理的那部分文字发送到 Luckgram 的 AI 服务。翻译先用 Telegram 自己的翻译；只有 Telegram 的翻译不可用，或者 8 秒内没有结果时，才把这段文字发送到 Luckgram 的 AI 服务。第一次用到 Luckgram 的 AI 服务时会先征求你的同意。
+
+各项功能可以在 **设置 → Luckgram 功能** 里单独开关。
 
 添加账号：点左上角的菜单，选 **添加账号**。账号较多时，菜单里的账号列表可以滚动。登录满 20 个后再点，会提示「最多登录 20 个账号」。
 
@@ -63,4 +87,4 @@ Luckgram 网页版在浏览器里运行，不用下载安装。它用的是同�
 - **登录页出来了但二维码很慢：** 多半是到 Telegram 的连接慢。等十几秒，或把连接方式改成 **只用中转** 再试。
 - **收不到验证码：** 见上面的「验证码在哪里收」，或者改用扫码登录。
 
-**核实日期：** 2026 年 11 月 13 日。
+**核实日期：** 2026 年 11 月 16 日。
