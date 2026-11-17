@@ -37,6 +37,7 @@ Luckgram 网页版在浏览器里运行，不用下载安装。它用的是同�
 |---|---|
 | [更多账号](../features/privacy.md#accounts) | 最多 20 个，不需要 Luckgram Pro（手机 App 免费 10 个，Luckgram Pro 不限数量） |
 | [翻译消息](../features/translation-and-voice.md#translate-in) | 右键消息选「翻译」，或点外语消息旁的翻译图标；目标语言在「设置 → Luckgram 功能」里选。 |
+| [语音转文字、语音输入](../features/translation-and-voice.md#voice-text) | 点语音消息或圆形视频上的转写按钮。非 Telegram Premium 账号由 Luckgram 免费转写，Premium 账号用的是 Telegram 自己的转写；超过 3 分钟的语音会分段转写，需要多等一会儿。语音输入：点表情按钮旁的「语音输入」，说完再点一次，文字填进输入框（说完才出字，不是边说边出）。建议使用电脑上的 Chrome 或 Edge；Safari 和手机浏览器尚未实测。 |
 | [发送前翻译](../features/translation-and-voice.md#translate-out) | 点输入框旁的翻译按钮，或右键发送按钮选「翻译」「翻译成…」；窗口较窄时在 ✦ 菜单里。 |
 | [AI 写作](../features/ai.md#ai-writing) | 点输入框旁的 ✦ 按钮选效果，一次最多改写 4000 字；改写后可以点「撤销」恢复原文。 |
 | [AI 回复](../features/ai.md#ai-reply) | 点输入框旁的 ✦ 按钮选「帮我回复」，候选回复显示在输入框上方，点一条填入后再发送。 |
@@ -53,13 +54,12 @@ Luckgram 网页版在浏览器里运行，不用下载安装。它用的是同�
 
 | 功能 | 网页版 | iOS、Android App |
 |---|---|---|
-| [语音转文字、语音输入](../features/translation-and-voice.md#voice-text) | 尚未开放 | 提供 |
 | [功能目录](../features/README.md)里的其他功能 | 暂不提供 | 提供 |
 | 私密聊天（端到端加密） | 不支持，Telegram 网页版本身就没有 | 支持 |
 
 **哪些内容只存在这台设备的浏览器里？** 私人备注、快捷回复的模板、关键词文件夹和 AI 助手的对话，都只保存在当前浏览器里：不会同步到手机 App，也不会同步到你在别的电脑上打开的网页版；退出账号时会一并清除。私人备注可以先导出成文件再退出。
 
-**AI 功能会把内容发到哪里？** AI 写作、AI 回复、AI 助手和聊天总结，会把你交给它处理的那部分文字发送到 Luckgram 的 AI 服务。翻译先用 Telegram 自己的翻译；只有 Telegram 的翻译不可用，或者 8 秒内没有结果时，才把这段文字发送到 Luckgram 的 AI 服务。第一次用到 Luckgram 的 AI 服务时会先征求你的同意。
+**AI 功能会把内容发到哪里？** AI 写作、AI 回复、AI 助手和聊天总结，会把你交给它处理的那部分文字发送到 Luckgram 的 AI 服务。翻译先用 Telegram 自己的翻译；只有 Telegram 的翻译不可用，或者 8 秒内没有结果时，才把这段文字发送到 Luckgram 的 AI 服务。语音转文字和语音输入：非 Telegram Premium 账号的语音会把音频发送到 Luckgram 的 AI 服务转写（Premium 账号的语音消息由 Telegram 转写）；语音输入录下的声音也发送到 Luckgram 的 AI 服务，开了「语音输入后 AI 整理」时，转出的文字会再发去整理一次。第一次用到 Luckgram 的 AI 服务时会先征求你的同意。
 
 各项功能可以在 **设置 → Luckgram 功能** 里单独开关。
 
@@ -87,4 +87,4 @@ Luckgram 网页版在浏览器里运行，不用下载安装。它用的是同�
 - **登录页出来了但二维码很慢：** 多半是到 Telegram 的连接慢。等十几秒，或把连接方式改成 **只用中转** 再试。
 - **收不到验证码：** 见上面的「验证码在哪里收」，或者改用扫码登录。
 
-**核实日期：** 2026 年 11 月 16 日。
+**核实日期：** 2026 年 11 月 17 日。

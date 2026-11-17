@@ -47,6 +47,7 @@ They are used a little differently: mostly, where the phone has a long press, th
 |---|---|
 | [More accounts](../features/privacy.md#accounts) | Up to 20, no Luckgram Pro needed (the mobile apps: 10 free, unlimited with Luckgram Pro) |
 | [Translate messages](../features/translation-and-voice.md#translate-in) | Right-click a message and choose Translate, or click the translate icon beside a message in another language. The target language is set in Settings → Luckgram Features. |
+| [Voice to text, dictation](../features/translation-and-voice.md#voice-text) | Click the transcribe button on a voice message or a round video. Accounts without Telegram Premium are transcribed by Luckgram for free; Premium accounts use Telegram’s own transcription. A voice message over 3 minutes is transcribed in parts and takes longer. To dictate, click Dictation beside the emoji button and click it again when you are done: the text is put into the message field once you finish, not as you speak. Chrome or Edge on a computer is recommended; Safari and mobile browsers have not been tested yet. |
 | [Translate before sending](../features/translation-and-voice.md#translate-out) | Click the translate button beside the message field, or right-click the send button and choose Translate or Translate to…; in a narrow window it is in the ✦ menu. |
 | [AI writing](../features/ai.md#ai-writing) | Click the ✦ button beside the message field and pick an effect. Up to 4,000 characters at a time; Undo brings your own text back. |
 | [Reply drafts](../features/ai.md#ai-reply) | Click the ✦ button beside the message field and choose Help me reply. The suggestions appear above the field; click one to put it in, then send. |
@@ -63,7 +64,6 @@ Not there yet:
 
 | Feature | Web app | iOS and Android apps |
 |---|---|---|
-| [Voice to text, dictation](../features/translation-and-voice.md#voice-text) | Not open yet | Yes |
 | The other features in the [feature catalog](../features/README.md) | Not yet | Yes |
 | Secret chats (end-to-end encrypted) | No; Telegram's web app does not have them | Yes |
 
@@ -75,8 +75,11 @@ account. Private notes can be exported to a file first.
 **Where do the AI features send things?** AI writing, reply drafts, the AI assistant and chat
 summaries send the text you give them to Luckgram's AI service. Translation uses Telegram's own
 translation first; only when that is not available, or gives no result within 8 seconds, is the
-text sent to Luckgram's AI service. You are asked to agree the first time Luckgram's AI service is
-used.
+text sent to Luckgram's AI service. Voice to text and dictation: for an account without Telegram Premium, the audio of a voice
+message is sent to Luckgram's AI service to be transcribed (a Premium account's voice messages
+are transcribed by Telegram); what you dictate is sent to Luckgram's AI service too, and with
+**Tidy dictation with AI** on, the resulting text is sent once more to be tidied. You are asked
+to agree the first time Luckgram's AI service is used.
 
 Each feature has its own switch in **Settings → Luckgram Features**.
 
@@ -112,4 +115,4 @@ does not store them. It does not log IP addresses and keeps only counts of conne
   Wait a little, or set the connection to **Relay only** and try again.
 - **No code arrives:** see “Where does the code arrive?” above, or sign in with the QR code.
 
-**Last verified:** 16 November 2026.
+**Last verified:** 17 November 2026.
